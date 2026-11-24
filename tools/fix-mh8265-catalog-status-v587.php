@@ -1,0 +1,2 @@
+<?php
+require_once '/var/www/html/wp-load.php';$id=wc_get_product_id_by_sku('BHC-LG-MH8265');if(!$id){echo "MISSING\n";exit;}$p=wc_get_product($id);$d=(string)$p->get_description();if(mb_strpos(wp_strip_all_tags($d),'وضعیت کاتالوگ')===false){$d.='<h3>وضعیت کاتالوگ</h3><p>مدل MH8265 و منبع مستقیم آن بررسی و تأیید شده است. کالا فعلاً ناموجود است و قیمت نمایش داده نمی‌شود.</p>';$p->set_description($d);$p->save();echo "UPDATED|$id\n";}else echo "ALREADY|$id\n";

@@ -1,0 +1,2 @@
+<?php
+require_once '/var/www/html/wp-load.php';$ts=get_terms(['taxonomy'=>'product_cat','hide_empty'=>false]);$groups=[];foreach($ts as $t){$n=mb_strtolower(trim($t->name));$n=str_replace(["‌","‍","ۀ","ة","ي","ى","ك","ـ"],["","","ه","ه","ی","ی","ک",""],$n);$n=preg_replace('/\s+/u','',$n);$groups[$n][]=$t;}foreach($groups as $key=>$list)if(count($list)>1){echo 'DUPLICATE|'.$key.'|'.implode(';',array_map(fn($t)=>$t->term_id.':'.$t->name.':'.$t->count,$list))."\n";}echo 'TERMS|'.count($ts).'\n';

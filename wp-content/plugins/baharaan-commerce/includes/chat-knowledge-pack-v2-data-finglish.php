@@ -1,0 +1,8 @@
+<?php
+if ( ! defined( 'ABSPATH' ) ) { exit; }
+return array(
+	'products' => array( 'yakhchal', 'freezer', 'side', 'mashin lebas', 'lebas shoyi', 'mashin zarf', 'zarf shoyi', 'khoshk kon', 'for', 'hood', 'jaroo', 'jaroo robotik', 'cooler', 'cooler abi', 'micro', 'chay saz', 'ghazasaaz', 'makhloot kon', 'tasfie ab', 'tasfie hava', 'TV', 'abgarmkon', 'package' ),
+	'needs' => array( 'baraye 4 nafar', 'baraye آشپزخانه koochik', 'kam seda', 'kam masraf', 'baraye aparteman', 'baraye khanevade porjamiyat', 'baraye mostajer', 'ba نصب', 'bargh تک faz', 'baraye سالمند', 'baraye نوزاد', 'ba filter قابل شستشو', 'مصرف روزمره', 'larzesh kam', 'fazaye mahdood', 'negahdari sade', 'مصرف sangin', 'sedaye kam شبانه', 'baraye daftar', 'filter قابل تعویض' ),
+	'questions' => array( 'kodom model monasebe?', 'az koja shoroo konam?', 'che zarfiyati lazeme?', 'kodom vizhegi mohem tare?', 'chetor entekhab konam?', 'baraye in karbord chi pishnahad midin?', 'chi ro check konam?', 'rahnamaye entekhab mikham', 'moshakhasat mohem چیه?', 'baraye in faza javab mide?', 'che farghi daran?', 'entekhabe monasebi hast?', 'chi ro moghayese konam?', 'baraye kharid chi befrestam?', 'model monaseb ro chetor peyda konam?', 'kodom gozine baram behtare?', 'ghabl az kharid chi bedoonam?', 'baraye estefade toolani khobe?', 'az فروشنده چی beporsam?', 'rahnamaye kootah mikham' ),
+	'partial' => array( 'yakhchal', 'mashin', 'zarf', 'lebas', 'gaz', 'jaroo', 'gheymat', 'mojood', 'chande', 'kodom behtare', 'hamin', 'hamoon', 'baraye 4 nafar', 'ashpazkhone koochik', 'kam seda', 'kam masraf', 'sefid', 'meshki', 'sam', 'LG', 'bosch', 'snowa', 'dewoo', 'pakshoma', 'emersun', 'yakhchalm', 'mikhm', 'nemiyad', 'roshan nemishe' ),
+);

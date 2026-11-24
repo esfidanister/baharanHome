@@ -1,0 +1,15 @@
+<?php
+if (!defined('ABSPATH')) exit;
+add_action('init', function () {
+    if (get_option('bhc_catalog_taxonomy_hygiene_v101') || !function_exists('wc_get_product_id_by_sku')) return;
+    $unc = get_term_by('slug', 'uncategorized', 'product_cat'); $cleaned = 0;
+    if ($unc) {
+        $q = new WP_Query(['post_type'=>'product','post_status'=>'any','posts_per_page'=>-1,'fields'=>'ids']);
+        foreach ($q->posts as $id) {
+            $terms = wp_get_post_terms($id, 'product_cat'); $has_real = false;
+            foreach ($terms as $term) if ($term->slug !== 'uncategorized') { $has_real = true; break; }
+            if ($has_real && has_term($unc->term_id, 'product_cat', $id)) { wp_remove_object_terms($id, $unc->term_id, 'product_cat'); $cleaned++; }
+        }
+    }
+    update_option('bhc_catalog_taxonomy_hygiene_v101', ['cleaned'=>$cleaned,'at'=>current_time('mysql')], false);
+}, 101);

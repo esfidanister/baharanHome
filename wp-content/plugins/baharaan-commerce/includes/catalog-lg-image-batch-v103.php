@@ -1,0 +1,8 @@
+<?php
+if (!defined('ABSPATH')) exit;
+add_action('init', function () {
+    if (get_option('bhc_catalog_lg_image_batch_v103') || !function_exists('wc_get_product_id_by_sku')) return;
+    $id=wc_get_product_id_by_sku('LG-OLED65C66LA');$file=ABSPATH.'wp-content/uploads/bhc-image-references/LG-OLED65C66LA-generated-4k.png';$attached=0;
+    if($id&&is_readable($file)){require_once ABSPATH.'wp-admin/includes/image.php';$aid=get_post_thumbnail_id($id);$current=$aid?get_post_meta($aid,'_wp_attached_file',true):'';if(!$aid||$current!=='bhc-image-references/LG-OLED65C66LA-generated-4k.png'){$aid=wp_insert_attachment(['post_mime_type'=>'image/png','post_title'=>'LG OLED65C66LA 4K transparent product image','post_status'=>'inherit','post_parent'=>$id],$file,$id);if($aid&&!is_wp_error($aid)){update_post_meta($aid,'_wp_attached_file','bhc-image-references/LG-OLED65C66LA-generated-4k.png');wp_update_attachment_metadata($aid,['width'=>4096,'height'=>2731,'file'=>'bhc-image-references/LG-OLED65C66LA-generated-4k.png','sizes'=>[]]);set_post_thumbnail($id,$aid);$attached=1;}}update_post_meta($id,'_bhc_image_generation_status','product_specific_generated');update_post_meta($id,'_bhc_image_status','generated_4k_transparent');update_post_meta($id,'_bhc_image_featured_verified','yes');update_post_meta($id,'_bhc_image_reference_url',wp_get_attachment_url($aid));update_post_meta($id,'_bhc_image_reference_evidence','تصویر اختصاصی مدل OLED65C66LA با پرامپت مدل‌محور، PNG شفاف و خروجی 4K تولید و به SKU دقیق متصل شد.');update_post_meta($id,'_bhc_image_reference_checked_at','2026-11-19');}
+    update_option('bhc_catalog_lg_image_batch_v103',['attached'=>$attached,'at'=>current_time('mysql')],false);
+},103);

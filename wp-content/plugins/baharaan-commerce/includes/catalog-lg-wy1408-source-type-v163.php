@@ -1,0 +1,3 @@
+<?php
+if (!defined('ABSPATH')) exit;
+add_action('init',function(){if(get_option('bhc_catalog_lg_wy1408_source_type_v163')||!function_exists('wc_get_product_id_by_sku'))return;$id=wc_get_product_id_by_sku('WY1408WTP');if($id){update_post_meta($id,'_bhc_source_type','exact_model_page');update_post_meta($id,'_bhc_source_evidence','https://www.lg.com/il/support/product/lg-WY1408WTP | https://www.manualslib.com/manual/3734640/Lg-Wy1408wtp.html | هر دو منبع با مدل دقیق WY1408WTP تطبیق داده شدند.');}update_option('bhc_catalog_lg_wy1408_source_type_v163',['id'=>$id,'at'=>current_time('mysql')],false);},163);

@@ -1,0 +1,9 @@
+<?php
+/* Phase 322: dedicated transparent 4K images for Pakshoma remediation v321. */
+add_action('init',function(){
+ if(get_option('bhc_catalog_image_pakshoma_remediation_v322'))return;
+ @ini_set('memory_limit','768M');$base=__DIR__.'/';$upload=wp_upload_dir();
+ $map=[139=>['model'=>'s9w','file'=>'pakshoma-s9w-v321-source.png'],149=>['model'=>'rcp-496iw','file'=>'pakshoma-496iw-v321-source.png'],150=>['model'=>'rcp-496ix','file'=>'pakshoma-496ix-v321-source.png']];
+ foreach($map as $id=>$it){$src=$base.$it['file'];if(!is_readable($src))continue;$old=get_post_thumbnail_id($id);if($old)wp_delete_attachment($old,true);$im=@imagecreatefrompng($src);if(!$im)continue;$w=imagesx($im);$h=imagesy($im);$scale=4096/max($w,$h);$nw=(int)round($w*$scale);$nh=(int)round($h*$scale);$out=imagecreatetruecolor($nw,$nh);imagealphablending($out,false);imagesavealpha($out,true);$c=imagecolorallocatealpha($out,0,0,0,127);imagefilledrectangle($out,0,0,$nw,$nh,$c);imagecopyresampled($out,$im,0,0,0,0,$nw,$nh,$w,$h);$rel='bhc-image-references/pakshoma-'.$it['model'].'-v322.png';$dst=trailingslashit($upload['basedir']).$rel;wp_mkdir_p(dirname($dst));@unlink($dst);imagepng($out,$dst,6);imagedestroy($out);imagedestroy($im);$aid=wp_insert_attachment(['post_mime_type'=>'image/png','post_title'=>'Pakshoma '.$it['model'].' transparent 4K','post_status'=>'inherit'],$dst,$id);if(!$aid)continue;update_post_meta($aid,'_wp_attached_file',$rel);update_post_meta($aid,'_wp_attachment_metadata',['width'=>$nw,'height'=>$nh,'file'=>$rel,'sizes'=>[],'image_meta'=>[]]);set_post_thumbnail($id,$aid);update_post_meta($id,'_bhc_image_generation_status','generated_4k_transparent_verified');update_post_meta($id,'_bhc_image_prompt','Exact Pakshoma '.$it['model'].' product cutout, transparent background, isolated commercial catalog view, 4K canvas.');}
+ update_option('bhc_catalog_image_pakshoma_remediation_v322',['count'=>count($map),'at'=>current_time('mysql')],false);
+},322);

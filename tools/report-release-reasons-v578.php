@@ -1,0 +1,2 @@
+<?php
+$f='/var/www/html/wp-content/uploads/catalog-audits/release-readiness-v577.json';$d=json_decode(file_get_contents($f),true);$c=[];$samples=[];foreach($d['products'] as $p)foreach($p['reasons'] as $r){$c[$r]=($c[$r]??0)+1;if(count($samples[$r]??[])<5)$samples[$r][]=$p['id'].'|'.$p['sku'].'|'.$p['name'];}arsort($c);foreach($c as $k=>$v){echo $k.'|'.$v.PHP_EOL;foreach($samples[$k]??[] as $s)echo '  '.$s.PHP_EOL;}

@@ -1,0 +1,1 @@
+<?php require_once '/var/www/html/wp-load.php';$id=370;$c=(string)get_post_field('post_content',$id);echo strlen($c).'|'.(mb_stripos($c,'درباره محصول')===false?'NO':'YES').'|'.(mb_stripos($c,'اطلاعات فنی')===false?'NO':'YES').'|'.(mb_stripos($c,'وضعیت کاتالوگ')===false?'NO':'YES')."\n";echo wp_strip_all_tags($c);

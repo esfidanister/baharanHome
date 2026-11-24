@@ -1,0 +1,3 @@
+<?php
+if (!defined('ABSPATH')) exit;
+add_action('init',function(){if(get_option('bhc_catalog_taxonomy_hygiene_v127')||!function_exists('wc_get_products'))return;$cleaned=0;foreach(wc_get_products(['limit'=>-1,'status'=>['draft','publish','private'],'return'=>'objects']) as $p){$terms=wp_get_object_terms($p->get_id(),'product_cat',['fields'=>'all']);$real=array_filter($terms,function($t){return strtolower($t->slug)!=='uncategorized';});if($real&&count($real)!==count($terms)){wp_remove_object_terms($p->get_id(),'uncategorized','product_cat');$cleaned++;}}update_option('bhc_catalog_taxonomy_hygiene_v127',['cleaned'=>$cleaned,'at'=>current_time('mysql')],false);},127);

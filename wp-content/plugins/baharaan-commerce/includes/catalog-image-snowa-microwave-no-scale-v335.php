@@ -1,0 +1,9 @@
+<?php
+/* Phase 335: keep approved catalog PNGs at their verified 4K source size. */
+add_filter('big_image_size_threshold',function($threshold){return false;},999);
+add_action('init',function(){
+ if(get_option('bhc_catalog_image_snowa_microwave_no_scale_v335'))return;
+ $upload=wp_upload_dir();$map=['BHC-SNOWA-SMO-FM30GCW'=>['model'=>'smo-fm30gcw','src'=>'snowa-smo-fm30gcw-v332-source.png'],'BHC-SNOWA-SMO-FM32GCS'=>['model'=>'smo-fm32gcs','src'=>'snowa-smo-fm32gcs-v332-source.png']];$out=[];
+ foreach($map as $sku=>$it){$id=wc_get_product_id_by_sku($sku);$aid=$id?get_post_thumbnail_id($id):0;$src=__DIR__.'/'.$it['src'];if(!$id||!$aid||!is_readable($src))continue;$im=@imagecreatefrompng($src);if(!$im)continue;$w=imagesx($im);$h=imagesy($im);$scale=4096/max($w,$h);$nw=(int)round($w*$scale);$nh=(int)round($h*$scale);$outim=imagecreatetruecolor($nw,$nh);imagealphablending($outim,false);imagesavealpha($outim,true);$z=imagecolorallocatealpha($outim,0,0,0,127);imagefill($outim,0,0,$z);imagecopyresampled($outim,$im,0,0,0,0,$nw,$nh,$w,$h);$rel='bhc-image-references/snowa-'.$it['model'].'-v335.png';$dst=trailingslashit($upload['basedir']).$rel;wp_mkdir_p(dirname($dst));imagepng($outim,$dst,6);imagedestroy($outim);imagedestroy($im);$q=@getimagesize($dst);$md=['width'=>(int)($q[0]??$nw),'height'=>(int)($q[1]??$nh),'file'=>$rel,'sizes'=>[],'image_meta'=>[]];wp_update_attachment_metadata($aid,$md);update_post_meta($aid,'_wp_attached_file',$rel);update_post_meta($aid,'_wp_attachment_metadata',$md);update_post_meta($id,'_bhc_image_generation_status','generated_4k_transparent_verified');$out[$sku]=['id'=>$id,'aid'=>$aid,'file'=>$rel,'width'=>$md['width'],'height'=>$md['height']];}
+ update_option('bhc_catalog_image_snowa_microwave_no_scale_v335',['items'=>$out,'at'=>current_time('mysql')],false);
+},335);

@@ -1,0 +1,75 @@
+ .bhc-widget{position:fixed;z-index:99990;bottom:22px;left:22px;direction:rtl;font-family:inherit}.bhc-launch{border:0;border-radius:30px;background:#075b50;color:white;padding:12px 18px;box-shadow:0 8px 24px #062f2760;cursor:pointer;font-weight:700}.bhc-panel{position:absolute;bottom:62px;left:0;width:min(350px,calc(100vw - 30px));background:#fff;border:1px solid #e5e9e4;border-radius:14px;overflow:hidden;box-shadow:0 16px 55px #12251e30}.bhc-panel[hidden]{display:none}.bhc-panel-bar{background:#182922;color:#fff;padding:13px 16px;display:flex;justify-content:space-between}.bhc-close{background:none;border:0;color:#fff;font-size:24px;cursor:pointer}.bhc-messages{padding:15px;max-height:260px;overflow:auto;background:#f8f8f4}.bhc-bot{background:#fff;padding:10px 12px;border-radius:12px 12px 12px 3px;margin:0 0 12px;font-size:13px}.bhc-user{background:#e8f2ee;padding:9px 12px;border-radius:12px 12px 3px 12px;margin:8px 0 8px auto;max-width:90%;font-size:13px}.bhc-quick{display:flex;gap:6px;flex-wrap:wrap}.bhc-quick button{border:1px solid #cbd9d2;color:#075b50;background:#fff;border-radius:20px;padding:5px 9px;font-size:10px;cursor:pointer}.bhc-form{padding:12px;display:grid;gap:7px}.bhc-form input,.bhc-form textarea{border:1px solid #e0e5e1;border-radius:6px;padding:9px;font:inherit;font-size:12px;resize:vertical}.bhc-form textarea{min-height:62px}.bhc-form button{background:#075b50;color:#fff;border:0;border-radius:5px;padding:9px;cursor:pointer}.bhc-form small{font-size:10px;color:#66736c}.bhc-links{border-top:1px solid #eee;padding:8px 12px;display:flex;gap:12px;font-size:11px}.bhc-links a{color:#075b50}@media(max-width:480px){.bhc-widget{bottom:12px;left:12px}.bhc-panel{bottom:58px}}
+.bhc-consent{display:flex;gap:6px;align-items:start;font-size:10px;line-height:1.6;color:#5b6d62}.bhc-consent[hidden]{display:none!important}.bhc-form button:disabled{opacity:.6;cursor:wait}.bhc-quick button:hover{background:#edf4ef}
+.bhc-chat-counter{display:block;text-align:left;color:#82918a;font-size:10px}.bhc-chat-counter.is-near-limit{color:#b64337;font-weight:700}
+.bhc-chat-products{display:grid;gap:8px;margin:10px 0}.bhc-chat-product{display:grid;gap:4px;padding:10px;border:1px solid #d7e4dd;border-radius:12px;background:#fff}.bhc-chat-product strong{font-size:12px;color:#173a31}.bhc-chat-product small{font-size:10px;color:#82918a}.bhc-chat-product>span{font-size:11px;color:#49675c}.bhc-chat-product>div{display:flex;gap:6px;flex-wrap:wrap;margin-top:4px}.bhc-chat-product a{font-size:10px;text-decoration:none;border-radius:8px;padding:6px 8px}.bhc-chat-view{background:#eaf4ef;color:#075b50}.bhc-chat-cart{background:#075b50;color:#fff}
+
+/* Chat UX audit pass: compact left launcher, bounded dialog and safe mobile
+ * spacing above the fixed bottom navigation. */
+.bhc-widget{position:fixed!important;z-index:100010!important;left:max(14px,env(safe-area-inset-left))!important;right:auto!important;bottom:calc(24px + env(safe-area-inset-bottom))!important;direction:rtl;font-family:inherit}
+.bhc-launch{position:relative;display:grid!important;place-items:center;width:62px!important;height:62px!important;padding:4px!important;border:1px solid #b9d6f3!important;border-radius:50%!important;background:linear-gradient(145deg,#1f76dd,#0b4fa9)!important;color:#fff;box-shadow:0 12px 28px #0b4fa940,0 0 0 6px #ffffffd9!important;cursor:pointer;transition:transform .25s ease,box-shadow .25s ease,filter .25s ease}
+.bhc-launch:hover{transform:translateY(-4px) scale(1.03);filter:saturate(1.08);box-shadow:0 17px 34px #0b4fa950,0 0 0 7px #ffffffed!important}
+.bhc-launch:focus-visible{outline:3px solid #ff9d5c;outline-offset:4px}
+.bhc-launch .bhc-avatar{display:block;width:52px!important;height:52px!important;object-fit:cover;border-radius:50%;border:2px solid #fff}
+.bhc-panel-title{display:flex;align-items:center;gap:9px;min-width:0}.bhc-panel-title .bhc-avatar{width:36px!important;height:36px!important;object-fit:cover;border-radius:50%;border:2px solid #fff}.bhc-panel-title b{white-space:nowrap}
+.bhc-launch span{position:absolute;width:1px;height:1px;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.bhc-launch i{position:absolute;top:-4px;right:-3px;width:19px;height:19px;display:grid;place-items:center;border:2px solid #fff;border-radius:50%;background:#ff8a3d;color:#fff;font-size:10px;font-style:normal}
+.bhc-panel{position:absolute!important;left:0!important;right:auto!important;bottom:76px!important;display:flex;flex-direction:column;width:min(390px,calc(100vw - 32px))!important;max-height:min(680px,calc(100dvh - 150px));border:1px solid #cfe0f1!important;border-radius:26px!important;background:#fff!important;overflow:hidden;box-shadow:0 24px 70px #08285635!important;transform-origin:bottom left;animation:bhcPanelIn .24s ease both}
+.bhc-panel[hidden]{display:none!important}
+.bhc-panel-bar{flex:0 0 auto;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 16px!important;background:linear-gradient(135deg,#123c63,#1769d2)!important;color:#fff}
+.bhc-panel-brand{display:flex;align-items:center;gap:10px;min-width:0}.bhc-panel-brand .bhc-avatar{width:42px;height:42px;border:2px solid #fff;border-radius:50%;object-fit:cover}.bhc-panel-brand>div{display:grid;gap:2px;min-width:0}.bhc-panel-brand b{font-size:15px;white-space:nowrap}.bhc-panel-brand small{font-size:10px;color:#dcecff;white-space:nowrap}
+.bhc-close{display:grid!important;place-items:center;width:36px;height:36px;padding:0!important;border:1px solid #ffffff55!important;border-radius:50%!important;background:#ffffff16!important;color:#fff!important;font-size:22px!important;line-height:1;cursor:pointer}.bhc-close:hover{background:#ffffff2b!important}.bhc-close:focus-visible{outline:2px solid #ffbf8e;outline-offset:2px}
+.bhc-messages{flex:1 1 auto;min-height:0;max-height:none!important;overflow:auto;padding:16px!important;background:linear-gradient(180deg,#f4f8fd,#edf4fb)!important;overscroll-behavior:contain}
+.bhc-bot{margin:0 0 12px!important;padding:11px 13px!important;border:1px solid #d7e6f4;border-radius:16px 16px 16px 5px!important;background:#fff!important;color:#183b5e;font-size:13px;line-height:1.9;box-shadow:0 5px 14px #1648780b}
+.bhc-user{margin:8px 0 8px auto!important;padding:9px 12px!important;border-radius:16px 16px 5px 16px!important;background:#1769d2!important;color:#fff!important;line-height:1.8}
+.bhc-quick{display:flex;gap:7px;flex-wrap:wrap}.bhc-quick button{min-height:36px;padding:7px 11px!important;border:1px solid #b9d7f2!important;border-radius:999px!important;background:#fff!important;color:#1769d2!important;font-size:11px!important;line-height:1.5;cursor:pointer;transition:transform .2s ease,background .2s ease,color .2s ease}.bhc-quick button:hover{transform:translateY(-2px);background:#1769d2!important;color:#fff!important}
+.bhc-form{flex:0 0 auto;display:grid;gap:7px;padding:14px 15px 12px!important;background:#fff!important}.bhc-form label{color:#183b5e;font-size:11px;font-weight:800}.bhc-form label em{font-style:normal;color:#8298ad;font-weight:500}.bhc-form input,.bhc-form textarea{width:100%;box-sizing:border-box;min-height:42px;padding:10px 12px!important;border:1px solid #d4e2ee!important;border-radius:12px!important;background:#fbfdff!important;color:#183b5e;font:inherit;font-size:12px;outline:none}.bhc-form textarea{min-height:78px;resize:vertical;line-height:1.8}.bhc-form input:focus,.bhc-form textarea:focus{border-color:#1769d2!important;box-shadow:0 0 0 3px #1769d21c}.bhc-chat-hint{color:#7a8fa4!important;font-size:10px!important}.bhc-form button[type=submit]{display:flex;align-items:center;justify-content:center;gap:8px;min-height:44px;margin-top:3px;padding:9px 14px!important;border:0;border-radius:12px!important;background:linear-gradient(135deg,#1769d2,#0d4d9b)!important;color:#fff!important;font-weight:800;box-shadow:0 9px 18px #1769d238;cursor:pointer;transition:transform .2s ease,box-shadow .2s ease}.bhc-form button[type=submit]:hover{transform:translateY(-2px);box-shadow:0 13px 23px #1769d24a}.bhc-form button[type=submit]:disabled{opacity:.6;cursor:wait;transform:none}
+.bhc-links{display:flex;flex-wrap:wrap;gap:8px;padding:10px 14px!important;border-top:1px solid #e4edf5!important;background:#fbfdff;font-size:11px}.bhc-links a{padding:5px 8px;border-radius:8px;color:#1769d2!important;background:#edf5ff;text-decoration:none}.bhc-links a:hover{background:#dcecff}
+@keyframes bhcPanelIn{from{opacity:0;transform:translateY(10px) scale(.98)}to{opacity:1;transform:none}}
+@media(max-width:700px){body.bhc-lock{overflow:hidden}.bhc-widget{left:max(12px,env(safe-area-inset-left))!important;bottom:calc(78px + env(safe-area-inset-bottom))!important}.bhc-panel{bottom:74px!important;width:min(390px,calc(100vw - 24px))!important;max-height:min(650px,calc(100dvh - 180px))}.bhc-launch{width:58px!important;height:58px!important}.bhc-launch .bhc-avatar{width:49px!important;height:49px!important}.bhc-panel-bar{padding:12px 13px!important}.bhc-messages{padding:13px!important}.bhc-form{padding:12px 13px 10px!important}}
+@media(max-width:380px){.bhc-panel{max-height:calc(100dvh - 172px)}.bhc-panel-brand small{display:none}.bhc-quick button{font-size:10px!important;padding-inline:9px!important}}
+/* Keep the mobile dialog entirely inside the viewport. The launcher remains
+ * anchored to the page, but the dialog must not inherit its horizontal offset
+ * on RTL shop pages with a fixed bottom navigation. */
+@media(max-width:700px){
+  .bhc-widget{left:12px!important;right:12px!important;width:auto!important;max-width:none!important;}
+  .bhc-panel{position:fixed!important;left:8px!important;right:8px!important;bottom:calc(82px + env(safe-area-inset-bottom))!important;width:auto!important;max-width:none!important;height:min(560px,calc(100dvh - 112px))!important;max-height:calc(100dvh - 112px)!important;transform-origin:center bottom!important;}
+}
+@media(max-width:380px){
+  .bhc-panel{left:6px!important;right:6px!important;bottom:calc(78px + env(safe-area-inset-bottom))!important;height:calc(100dvh - 98px)!important;max-height:calc(100dvh - 98px)!important;border-radius:20px!important;}
+}
+@media(prefers-reduced-motion:reduce){.bhc-launch,.bhc-quick button,.bhc-form button[type=submit],.bhc-form .bhc-contact-consent input[type=checkbox]{transition:none!important}.bhc-form .bhc-contact-consent input[type=checkbox]:hover{transform:none}.bhc-panel{animation:none!important}}
+.bhc-bot,.bhc-user{font-size:15px!important;line-height:1.85}
+.bhc-quick button{font-size:13px!important}
+.bhc-head-actions{display:flex;gap:6px;align-items:center}
+.bhc-min,.bhc-restart{width:36px;height:36px;border:1px solid #ffffff55;border-radius:50%;background:#ffffff16;color:#fff;cursor:pointer}
+.bhc-panel.is-min .bhc-messages,.bhc-panel.is-min .bhc-form,.bhc-panel.is-min .bhc-links,.bhc-panel.is-min .bhc-privacy-controls{display:none}
+.bhc-chat-product{display:grid;gap:4px;margin:8px 0;padding:8px;border:1px solid #d4e2ee;border-radius:10px;background:#fff;font-size:13px}
+.bhc-chat-feedback{display:flex;gap:6px;margin:0 0 8px}
+.bhc-chat-feedback button,.bhc-chat-product button{min-height:32px;border:1px solid #b9d7f2;border-radius:999px;background:#fff;color:#1769d2;cursor:pointer}
+.bhc-panel-bar{gap:8px;align-items:center}
+.bhc-presence{font-size:11px;font-weight:600;color:#d7ecff}
+.bhc-panel{display:flex!important;flex-direction:column!important;height:min(560px,calc(100dvh - 120px))!important;width:min(380px,calc(100vw - 24px))!important}
+.bhc-panel-bar{align-items:flex-start!important}
+.bhc-panel-title{display:grid;gap:2px;min-width:0}
+.bhc-panel-title b{font-size:15px}
+.bhc-messages{flex:1 1 auto;max-height:none!important}
+.bhc-quick{flex:0 0 auto;flex-wrap:wrap;overflow:visible;padding:8px 12px 0;gap:8px}
+.bhc-quick button{flex:0 0 auto;min-height:36px;padding:6px 12px!important}
+.bhc-form{display:flex!important;flex-direction:row!important;flex-wrap:nowrap!important;align-items:center;gap:8px;padding:10px 12px 8px!important}
+.bhc-form input[name=message]{flex:1 1 0!important;width:1px!important;min-width:0;min-height:44px;border-radius:22px;padding:0 14px}
+.bhc-form button[type=submit]{flex:0 0 auto;min-height:44px;min-width:72px;border-radius:22px}
+.bhc-lead{display:grid;gap:8px;flex:1 1 100%}
+.bhc-lead[hidden]{display:none!important}
+.bhc-lead input{min-height:40px;border:1px solid #d7e4f1;border-radius:12px;padding:0 12px}
+.bhc-human{margin:0 12px 12px;min-height:36px;border:0;background:transparent;color:#1769d2;font-weight:700;cursor:pointer;text-align:right}
+.bhc-form small,.bhc-consent{display:none!important}
+.bhc-contact-consent{display:flex;align-items:center;gap:8px;margin:0;padding:2px 2px 0;color:#3d5670;font-size:12px;font-weight:600;line-height:1.45;cursor:pointer}
+.bhc-contact-consent[hidden]{display:none!important}
+.bhc-form .bhc-contact-consent input[type=checkbox]{appearance:none;-webkit-appearance:none;flex:0 0 18px;width:18px!important;min-width:18px;height:18px!important;min-height:18px!important;margin:0;padding:0!important;border:1.5px solid #8eafd4!important;border-radius:6px!important;background:#fff!important;box-shadow:none;cursor:pointer;transition:background .18s ease,border-color .18s ease,transform .18s ease}
+.bhc-form .bhc-contact-consent input[type=checkbox]:hover{border-color:#1769d2!important;transform:scale(1.06)}
+.bhc-form .bhc-contact-consent input[type=checkbox]:checked{border-color:#1769d2!important;background:#1769d2 url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><path fill='none' stroke='white' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round' d='M3.2 8.2 6.4 11.4 12.8 4.6'/></svg>") center/12px no-repeat!important;transform:scale(1)}
+.bhc-form .bhc-contact-consent input[type=checkbox]:focus-visible{outline:2px solid #ff9d5c;outline-offset:3px}
+.bhc-lead.is-account>input{display:none!important}
+.bhc-account-chip{margin:0;padding:8px 12px;border:1px solid #d5e6f6;border-radius:12px;background:#f4f8fd;color:#17406a;font-size:12px;font-weight:700;line-height:1.6}
+.bhc-messages .bhc-user{background:#0b2039!important;color:#fff!important;border:0!important}
+.screen-reader-text{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)}

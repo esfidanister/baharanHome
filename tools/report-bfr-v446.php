@@ -1,0 +1,1 @@
+<?php require '/var/www/html/wp-load.php'; foreach([499,500,501,502,503] as $id){$a=get_post_thumbnail_id($id);echo json_encode(['id'=>$id,'sku'=>get_post_meta($id,'_sku',true),'thumb'=>$a,'file'=>$a?get_post_meta($a,'_wp_attached_file',true):''],JSON_UNESCAPED_UNICODE)."\n";}

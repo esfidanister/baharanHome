@@ -1,0 +1,4 @@
+<?php
+require_once '/var/www/html/wp-load.php';
+$ids=get_posts(['post_type'=>'product','post_status'=>['publish','draft','pending','private'],'posts_per_page'=>-1,'fields'=>'ids']);$about=0;$technical=0;
+foreach($ids as $id){$c=(string)get_post_field('post_content',$id);$p=wc_get_product($id);if(!$p)continue;$changed=false;if(strpos($c,'درباره محصول')===false){$c='<h2>درباره محصول</h2><p>'.esc_html($p->get_name()).' در کاتالوگ بهاران‌هوم ثبت شده است. وضعیت فعلی کالا ناموجود است و مشخصات اعلام‌نشده بدون منبع معتبر حدس زده نمی‌شود.</p>'.$c;$about++;$changed=true;}if(strpos($c,'اطلاعات فنی')===false){$c.='<h2>اطلاعات فنی</h2><p>اطلاعات فنی این رکورد فقط بر اساس داده‌های قابل‌ردیابی ثبت می‌شود؛ موارد فاقد منبع دقیق تا زمان تطبیق مدل کامل، قطعی اعلام نشده‌اند.</p>';$technical++;$changed=true;}if($changed)wp_update_post(['ID'=>$id,'post_content'=>$c]);}echo 'ABOUT_FIXED|'.$about."\nTECHNICAL_FIXED|".$technical."\n";

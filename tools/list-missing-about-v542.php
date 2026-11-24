@@ -1,0 +1,1 @@
+<?php require_once '/var/www/html/wp-load.php'; $ids=get_posts(['post_type'=>'product','post_status'=>['publish','draft','pending','private'],'posts_per_page'=>-1,'fields'=>'ids']); foreach($ids as $id){$c=(string)get_post_field('post_content',$id);if(mb_stripos($c,'درباره محصول')===false){$p=wc_get_product($id);echo $id.'|'.($p?$p->get_sku():'')."\n";}}

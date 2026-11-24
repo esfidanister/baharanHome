@@ -1,0 +1,11 @@
+<?php
+require_once '/var/www/html/wp-load.php';
+$ids=get_posts(['post_type'=>'product','post_status'=>['publish','draft','pending','private'],'posts_per_page'=>-1,'fields'=>'ids']);
+$checks=['sku'=>0,'brand'=>0,'category'=>0,'description'=>0,'about'=>0,'technical'=>0,'structured_specs'=>0,'source'=>0,'reference_verified'=>0,'image'=>0,'image_verified'=>0,'image_prompt'=>0,'seo'=>0,'outofstock'=>0,'blocked'=>0];$missing=[];$dupes=[];$skus=[];
+foreach($ids as $id){$p=wc_get_product($id);if(!$p)continue;$content=(string)get_post_field('post_content',$id);$sku=trim((string)$p->get_sku());$brand=wp_get_post_terms($id,'pa_brand',['fields'=>'ids']);$cat=wp_get_post_terms($id,'product_cat',['fields'=>'ids']);$spec=(string)get_post_meta($id,'_bhc_structured_specs',true);$decoded=json_decode($spec,true);$source=(string)get_post_meta($id,'_bhc_source_url',true);$state=(string)get_post_meta($id,'_bhc_catalog_quality_state',true);$img=(bool)get_post_thumbnail_id($id);$iv=get_post_meta($id,'_bhc_image_generation_status',true)==='generated_4k_transparent_verified';$prompt=(string)get_post_meta($id,'_bhc_image_prompt',true);$seo=(string)get_post_meta($id,'_yoast_wpseo_metadesc',true);$needs=[];
+ $vals=['sku'=>(bool)$sku,'brand'=>(bool)$brand,'category'=>(bool)$cat,'description'=>strlen(trim($content))>80,'about'=>mb_stripos($content,'درباره محصول')!==false,'technical'=>mb_stripos($content,'اطلاعات فنی')!==false,'structured_specs'=>is_array($decoded)&&count($decoded)>=3,'source'=>(bool)$source,'reference_verified'=>$state==='reference_verified','image'=>$img,'image_verified'=>$iv,'image_prompt'=>(bool)$prompt,'seo'=>(bool)$seo,'outofstock'=>$p->get_stock_status()==='outofstock','blocked'=>get_post_meta($id,'_bhc_release_blocked',true)==='yes'];
+ foreach($vals as $k=>$ok){$checks[$k]+=$ok?1:0;if(!$ok&&$k!=='blocked')$needs[]=$k;}
+ if($needs)$missing[]=$id.'|'.$sku.'|'.implode(',',$needs);
+ if($sku){$key=strtoupper(preg_replace('/[^A-Z0-9]+/','',str_replace('BHC-','',$sku)));$skus[$key][]=$id;}
+}
+echo 'TOTAL|'.count($ids)."\n";echo "CHECKS\n";foreach($checks as $k=>$v)echo $k.'|'.$v."\n";echo 'MISSING_RECORDS|'.count($missing)."\n";foreach(array_slice($missing,0,80) as $x)echo $x."\n";echo "DUPLICATES\n";foreach($skus as $k=>$v)if(count($v)>1)echo $k.'|'.implode(',',$v)."\n";

@@ -1,0 +1,45 @@
+services:
+  db:
+    image: mariadb:11.4
+    container_name: baharanhome-db
+    restart: unless-stopped
+    environment:
+      MARIADB_DATABASE: wordpress
+      MARIADB_USER: wordpress
+      MARIADB_PASSWORD: wordpress_local_only
+      MARIADB_ROOT_PASSWORD: root_local_only
+    volumes:
+      - baharanhome_db:/var/lib/mysql
+    networks: [baharanhome]
+
+  wordpress:
+    image: wordpress:6.7-php8.2-apache
+    container_name: baharanhome-wordpress
+    restart: unless-stopped
+    depends_on:
+      - db
+    ports:
+      - "8088:80"
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_USER: wordpress
+      WORDPRESS_DB_PASSWORD: wordpress_local_only
+      WORDPRESS_DB_NAME: wordpress
+      WORDPRESS_DEBUG: "1"
+    dns:
+      - 8.8.8.8
+      - 1.1.1.1
+    volumes:
+      - ./:/var/www/html
+      - ./docker/php/uploads.ini:/usr/local/etc/php/conf.d/99-baharanhome-uploads.ini:ro
+    networks: [baharanhome]
+
+volumes:
+  baharanhome_db:
+
+networks:
+  baharanhome:
+    name: baharanhome-network
+    driver: bridge
+    driver_opts:
+      com.docker.network.driver.mtu: "1200"

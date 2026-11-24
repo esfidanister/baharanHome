@@ -1,0 +1,31 @@
+<?php
+require_once '/var/www/html/wp-load.php';
+$sku='BHC-SONY-X-98S30';
+$id=wc_get_product_id_by_sku($sku);
+if(!$id){echo "MISSING|$sku\n";exit;}
+$p=wc_get_product($id);
+$p->set_name('تلویزیون سونی مدل X-98S30');
+$p->set_short_description('تلویزیون سونی مدل X-98S30 · ناموجود · در انتظار تأیید مدل دقیق');
+$p->set_description('<p>این رکورد در کاتالوگ بهاران‌هوم نگهداری شده اما تا زمان تأیید منبع رسمی دقیق مدل، قابل انتشار و استناد نیست.</p><h3>درباره محصول</h3><p>مدل X-98S30 با منبع رسمی سازنده به‌طور قطعی تطبیق نشده است. صفحه رسمی سری BRAVIA 3/S30 سونی مدل‌های 43، 50، 55، 65، 75 و 85 اینچ را فهرست می‌کند و مدل 98 اینچ X-98S30 در فهرست مدل‌های رسمی بررسی‌شده وجود ندارد؛ مشخصات مدل‌های دیگر به این رکورد تعمیم داده نمی‌شود.</p><h3>اطلاعات فنی</h3><p>مشخصات فنی تا زمان پیدا شدن صفحه یا دفترچه رسمی دقیق این مدل ثبت نمی‌شود.</p><h3>وضعیت کاتالوگ</h3><p>ناموجود و مسدود تا تأیید مدل دقیق. قیمت نمایش داده نمی‌شود.</p>');
+$p->set_status('draft');
+$p->set_catalog_visibility('hidden');
+$p->set_stock_status('outofstock');
+$p->save();
+$official='https://www.sony.com/en-cd/bravia/products/bravia-3';
+$official2='https://www.sony.com/electronics/support/televisions-projectors-lcd-tvs-android-/k-50s30/articles/00340198';
+foreach(['_bhc_source_url','_bhc_source_urls','_bhc_structured_specs','_bhc_specs','_bhc_source_evidence'] as $key) delete_post_meta($id,$key);
+update_post_meta($id,'_bhc_catalog_quality_state','reference_invalid');
+update_post_meta($id,'_bhc_verification_status','invalid_reference');
+update_post_meta($id,'_bhc_source_type','official_family_contradicts_model');
+update_post_meta($id,'_bhc_source_checked_at','2026-11-21');
+update_post_meta($id,'_bhc_source_audit_status','invalid_reference');
+update_post_meta($id,'_bhc_source_review_notes','منابع رسمی سونی برای BRAVIA 3/S30 مدل‌های 43 تا 85 اینچ را فهرست می‌کنند؛ X-98S30 در منابع رسمی بررسی‌شده دیده نشد.');
+update_post_meta($id,'_bhc_source_gap_reason','مدل X-98S30 در فهرست رسمی مدل‌های سری S30 تأیید نشد؛ مشخصات مدل‌های دیگر به این رکورد منتقل نمی‌شود.');
+update_post_meta($id,'_bhc_release_blocked','yes');
+update_post_meta($id,'_bhc_release_block_reason','مدل دقیق X-98S30 با منبع رسمی سازنده تأیید نشده است.');
+update_post_meta($id,'_bhc_release_blocked_reason','مدل دقیق X-98S30 با منبع رسمی سازنده تأیید نشده است.');
+update_post_meta($id,'_bhc_image_generation_status','blocked_until_exact_model');
+update_post_meta($id,'_bhc_image_block_reason','تصویر اختصاصی تا تأیید مدل دقیق نمایش داده نمی‌شود.');
+update_post_meta($id,'_bhc_image_generation_prompt','Sony X-98S30 exact model only, 4K transparent PNG, no background, no text, no watermark; do not generate until exact official model reference is verified.');
+update_post_meta($id,'_yoast_wpseo_metadesc','تلویزیون سونی مدل X-98S30؛ مدل دقیق در منابع رسمی سری BRAVIA 3/S30 تأیید نشده و کالا فعلاً ناموجود و مسدود است.');
+echo "QUARANTINED|$id|$sku|$official|$official2\n";

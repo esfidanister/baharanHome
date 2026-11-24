@@ -1,0 +1,7 @@
+<?php
+require '/var/www/html/wp-load.php'; require_once ABSPATH.'wp-admin/includes/image.php'; ini_set('memory_limit','2G');
+$id=wc_get_product_id_by_sku('BHC-EMERSUN-BFR42'); if(!$id) exit("SKIP_NOT_EXIST\n");
+$file='/var/www/html/wp-content/uploads/2026/11/emersun-bfr42-v447.png'; $base='/var/www/html/wp-content/plugins/baharaan-commerce/includes/bhc-image-references/emersun-bfr42-v447-source.png';
+if($old=get_post_thumbnail_id($id))wp_delete_attachment($old,true);
+$im=imagecreatefrompng($base);$w=imagesx($im);$h=imagesy($im);$ow=4096;$oh=(int)round($h*4096/$w);$out=imagecreatetruecolor($ow,$oh);imagealphablending($out,false);imagesavealpha($out,true);$clear=imagecolorallocatealpha($out,255,255,255,127);imagefilledrectangle($out,0,0,$ow,$oh,$clear);imagecopyresampled($out,$im,0,0,0,0,$ow,$oh,$w,$h);@mkdir(dirname($file),0777,true);imagepng($out,$file,6);imagedestroy($im);imagedestroy($out);
+$aid=wp_insert_attachment(['post_mime_type'=>'image/png','post_title'=>'یخچال و فریزر امرسان BFR42 تصویر اختصاصی','post_status'=>'inherit'],$file,$id);wp_update_attachment_metadata($aid,wp_generate_attachment_metadata($aid,$file));set_post_thumbnail($id,$aid);update_post_meta($id,'_bhc_image_generation_status','generated_4k_transparent_verified');update_post_meta($id,'_bhc_image_long_edge',4096);update_post_meta($id,'_bhc_image_checked_at','2026-11-21');update_post_meta($id,'_bhc_catalog_quality_state','reference_needs_verification');update_post_meta($id,'_bhc_release_blocked','yes');echo "FIXED|$id|$file\n";

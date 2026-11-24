@@ -1,0 +1,11 @@
+.bha-admin{max-width:1080px}
+.bha-admin-lead{max-width:720px;color:#3d5672}
+.bha-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0}
+.bha-tabs a{padding:8px 14px;border-radius:999px;background:#eaf4ff;color:#102443;text-decoration:none;font-weight:700}
+.bha-tabs a.is-active{background:#0755D8;color:#fff}
+.bha-media img{display:block;width:72px;height:72px;object-fit:cover;border-radius:12px;margin-bottom:8px}
+.bha-security-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+.bha-security-grid section,.bha-policy{background:#fff;border:1px solid #dce9f8;border-radius:16px;padding:16px}
+.bha-preview-label{font-weight:800;margin-top:12px}
+.bha-preview-mobile{max-width:420px}
+@media(max-width:800px){.bha-security-grid{grid-template-columns:1fr}}

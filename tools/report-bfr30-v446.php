@@ -1,0 +1,1 @@
+<?php require '/var/www/html/wp-load.php'; $id=502;$a=get_post_thumbnail_id($id);echo "A=$a\n";echo get_post_meta($a,'_wp_attached_file',true)."\n";echo file_exists(get_attached_file($a))?'FILE_EXISTS\n':'FILE_MISSING\n';

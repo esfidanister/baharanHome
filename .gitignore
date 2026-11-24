@@ -1,0 +1,48 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+wp-config.php
+*.pem
+*.key
+
+# WordPress runtime data
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup*/
+wp-content/debug.log
+
+# Local backups and generated artifacts
+_backups/
+backups/
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.sql
+*.sql.gz
+
+# QA/browser profiles, screenshots, recordings, and temporary exports
+.chrome-*/
+.cdp-test/
+.qa-*/
+.tmp-*/
+qa-*/
+docx-qa/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.mp4
+*_tmp*
+tmp/
+temp/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+

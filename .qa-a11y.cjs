@@ -1,0 +1,23 @@
+const { chromium } = require('./.qa-playwright/node_modules/playwright-core');
+(async()=>{
+ const b=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe'});
+ const out=[];
+ const desktop=await b.newPage({viewport:{width:1440,height:900}});
+ await desktop.goto('http://localhost:8088/',{waitUntil:'commit',timeout:60000});
+ await desktop.waitForSelector('.bhp-mega>summary',{state:'attached',timeout:60000});
+ const summary=desktop.locator('.bhp-mega>summary');
+ await summary.focus(); await desktop.keyboard.press('Enter'); await desktop.waitForTimeout(100);
+ const open=await desktop.evaluate(()=>({open:!!document.querySelector('.bhp-mega[open]'),expanded:document.querySelector('.bhp-mega>summary')?.getAttribute('aria-expanded')}));
+ await desktop.keyboard.press('Escape');
+ const closed=await desktop.evaluate(()=>!document.querySelector('.bhp-mega[open]'));
+ out.push({desktopMenu:{open,closed,activeTag:await desktop.evaluate(()=>document.activeElement?.tagName)}});
+ await desktop.close();
+ const mobile=await b.newPage({viewport:{width:390,height:900}});
+ await mobile.goto('http://localhost:8088/shop/',{waitUntil:'commit',timeout:60000});
+ await mobile.waitForSelector('.bhp-filter-open',{state:'attached',timeout:60000});
+ const trigger=mobile.locator('.bhp-filter-open'); await trigger.focus(); await mobile.keyboard.press('Enter'); await mobile.waitForTimeout(100);
+ const first=mobile.locator('.bhp-filters input, .bhp-filters button, .bhp-filters a').filter({visible:true}).first();
+ out.push({mobileFilter:await mobile.evaluate(()=>({open:document.querySelector('.bhp-filters')?.classList.contains('is-open'),expanded:document.querySelector('.bhp-filter-open')?.getAttribute('aria-expanded'),active:document.activeElement?.tagName})),focusable:await first.count()});
+ await mobile.keyboard.press('Escape'); out.push({mobileClosed:await mobile.evaluate(()=>!document.querySelector('.bhp-filters')?.classList.contains('is-open'))});
+ await b.close(); console.log(JSON.stringify(out,null,2));
+})().catch(e=>{console.error(e);process.exit(1)});

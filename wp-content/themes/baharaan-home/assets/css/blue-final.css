@@ -1,0 +1,7 @@
+/* Final cache-busted brand layer: all storefront surfaces use the Baharan blue system. */
+:root{--green:#1558a6;--green2:#287bd1;--ink:#071b3d;--cream:#f3f8ff;--line:#dbe8f7;--muted:#60738c}
+.bhx-editorial,.bhx-editorial::before,.bhx-editorial::after{background:#071b3d!important;background-image:linear-gradient(125deg,#071b3d,#0b2b5b)!important}
+.bhx-editorial-visual{background:radial-gradient(ellipse at center,#164f91,#071b3d 68%)!important}.bhx-circle{border-color:#8fc7f055!important}.bhx-circle.c2{border-color:#8fc7f033!important}.bhx-spec-card{color:#12345b;background:linear-gradient(130deg,#f8fbff,#dcecff)!important}.bhx-editorial-spark{color:#8ed2ef!important}
+.bhx-editorial h2,.bhx-editorial h2 em{color:#fff!important}.bhx-editorial .bhx-overline,.bhx-editorial-copy>a{color:#9edcf1!important}
+.bh-topline,.bh-footer{background:#071b3d!important}.bh-mark{background:#1558a6!important}.bhx-primary,.bh-btn,.bh-products a.button,.bhp-filter-submit{background:#1558a6!important;color:#fff!important}.bhx-primary:hover,.bh-btn:hover,.bh-products a.button:hover,.bhp-filter-submit:hover{background:#287bd1!important}
+.bhx-hero{background:linear-gradient(135deg,#edf6ff,#f7fbff)!important}.bhx-hero h1{color:#071b3d!important}.bhx-hero h1 em,.bhx-kicker,.bhx-overline{color:#287bd1!important}

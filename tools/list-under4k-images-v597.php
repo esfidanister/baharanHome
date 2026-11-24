@@ -1,0 +1,2 @@
+<?php
+require_once '/var/www/html/wp-load.php';$ids=get_posts(['post_type'=>'product','post_status'=>['publish','draft','pending','private'],'posts_per_page'=>-1,'fields'=>'ids']);foreach($ids as $id){$p=wc_get_product($id);if(!$p)continue;$f=$p->get_image_id()?get_attached_file($p->get_image_id()):'';$i=$f&&is_file($f)?@getimagesize($f):null;if($i&&$i[0]<4096&&$i[1]<4096)echo $id.'|'.$p->get_sku().'|'.get_post_meta($id,'_bhc_model',true).'|'.$i[0].'x'.$i[1].'|'.$f.PHP_EOL;}

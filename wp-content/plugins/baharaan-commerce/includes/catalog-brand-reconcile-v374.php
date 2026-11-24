@@ -1,0 +1,10 @@
+<?php
+if (!defined('ABSPATH')) { exit; }
+add_action('init', function () {
+ if (!function_exists('wc_get_product') || get_option('bhc_catalog_brand_reconcile_v374_done')) return;
+ $map=['اسنوا'=>'اسنوا','پاکشوما'=>'پاکشوما','سونی'=>'سونی','بوش'=>'بوش','امرسان'=>'امرسان','سامسونگ'=>'سامسونگ','ایکس‌ویژن'=>'ایکس‌ویژن','ایکس ویژن'=>'ایکس‌ویژن','جی‌پلاس'=>'جی‌پلاس','جی پلاس'=>'جی‌پلاس','ال‌جی'=>'ال‌جی','ال جی'=>'ال‌جی','دوو'=>'دوو','سام'=>'سام','فیلیپس'=>'فیلیپس','تفال'=>'تفال','نینجا'=>'نینجا','بلک اند دکر'=>'بلک اند دکر'];
+ $aliases=['اسنوا'=>['اسنوا'],'پاکشوما'=>['پاکشوما'],'سونی'=>['سونی'],'بوش'=>['بوش'],'امرسان'=>['امرسان'],'سامسونگ'=>['سامسونگ'],'ایکس‌ویژن'=>['ایکس‌ویژن','ایکس ویژن'],'جی‌پلاس'=>['جی‌پلاس','جی پلاس'],'ال‌جی'=>['ال‌جی','ال جی'],'دوو'=>['دوو'],'سام'=>['سام'],'فیلیپس'=>['فیلیپس'],'تفال'=>['تفال'],'نینجا'=>['نینجا'],'بلک اند دکر'=>['بلک اند دکر']];
+ $ids=get_posts(['post_type'=>'product','post_status'=>'publish','numberposts'=>-1,'fields'=>'ids']);$fixed=0;$linked=0;
+ foreach($ids as $id){$title=get_the_title($id);$brand='';foreach($aliases as $canonical=>$names){foreach($names as $name){if(mb_stripos($title,$name)!==false){$brand=$canonical;break 2;}}}if(!$brand)continue;$pa=wp_get_post_terms($id,'pa_brand',['fields'=>'names']);$pb=wp_get_post_terms($id,'product_brand',['fields'=>'names']);$changed=false;if(!$pa||is_wp_error($pa)){wp_set_object_terms($id,$brand,'pa_brand',false);$changed=true;}if(!$pb||is_wp_error($pb)){ $insert=wp_insert_term($brand,'product_brand'); $term=0; if(is_array($insert)&&isset($insert['term_id'])){$term=(int)$insert['term_id'];}else{$found=get_term_by('name',$brand,'product_brand');$term=$found?(int)$found->term_id:0;} if($term)wp_set_object_terms($id,[$term],'product_brand',false);$changed=true;}if($changed){update_post_meta($id,'_bhc_brand_reconciled_v374',$brand);$fixed++;}else{$linked++;}}
+ update_option('bhc_catalog_brand_reconcile_v374_done',['fixed'=>$fixed,'already_linked'=>$linked,'at'=>current_time('mysql')],false);
+},99);

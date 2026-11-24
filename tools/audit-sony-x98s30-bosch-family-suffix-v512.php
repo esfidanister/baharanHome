@@ -1,0 +1,11 @@
+<?php
+require '/var/www/html/wp-load.php';
+$items=[
+ 'BHC-SONY-X-98S30'=>'صفحه/راهنمای رسمی سری S30 مدل‌های ۴۳ تا ۸۵ اینچ را فهرست می‌کند و X-98S30 در مدل دقیق بررسی‌شده تأیید نشد.',
+ 'BHC-BOSCH-TIS857'=>'کد TIS857 بدون پسوند کامل E-Nr است؛ زیرمدل دقیق و مشخصات قابل انتشار از منابع رسمی تعیین نشد.',
+ 'BHC-BOSCH-TAS140'=>'منابع رسمی TAS140 را به زیرمدل‌های TAS1401، TAS1402، TAS1403، TAS1404 و TAS1407 تفکیک می‌کنند؛ TAS140 بدون پسوند دقیق قابل تأیید نیست.',
+ 'BHC-BOSCH-BFL523'=>'خانواده BFL523 چند زیرمدل و رنگ دارد؛ کد عمومی BFL523 برای تعیین مدل دقیق، مشخصات و تصویر کافی نیست.',
+ 'BHC-BOSCH-BFL634'=>'خانواده BFL634 چند زیرمدل و رنگ دارد؛ کد عمومی BFL634 برای تعیین مدل دقیق، مشخصات و تصویر کافی نیست.',
+];$checked=0;
+foreach($items as $sku=>$note){$id=wc_get_product_id_by_sku($sku);if(!$id){echo "MISSING|$sku\n";continue;}$p=wc_get_product($id);if(!$p){echo "INVALID|$sku|$id\n";continue;}$p->set_status('draft');$p->set_catalog_visibility('hidden');$p->set_stock_status('outofstock');$p->set_description('<p>'.esc_html($p->get_name()).' در کاتالوگ بهاران‌هوم ناموجود و غیرقابل انتشار است.</p><h3>نتیجه ممیزی مدل</h3><p>'.esc_html($note).'</p><h3>اطلاعات فنی</h3><p>مشخصات وابسته به suffix دقیق، رنگ، بازار عرضه، ظرفیت، ابعاد و امکانات تا زمان ثبت کد کامل مدل وارد نمی‌شوند.</p><h3>وضعیت انتشار</h3><p>پیش‌نویس، مخفی، ناموجود و release-blocked تا زمان تأیید مدل دقیق.</p>');$p->set_short_description($p->get_name().' · ناموجود · در انتظار suffix دقیق مدل');$p->save();update_post_meta($id,'_bhc_source_url','');update_post_meta($id,'_bhc_source_type','family_suffix_needs_exact');update_post_meta($id,'_bhc_source_checked_at','2026-11-21');update_post_meta($id,'_bhc_source_review_notes','فاز ۵۱۲: خانواده مدل بررسی شد اما suffix دقیق برای انتشار این رکورد موجود نیست.');update_post_meta($id,'_bhc_source_gap_reason',$note);update_post_meta($id,'_bhc_verification_status','pending_exact_suffix');update_post_meta($id,'_bhc_catalog_quality_state','reference_needs_verification');update_post_meta($id,'_bhc_release_blocked','yes');update_post_meta($id,'_bhc_image_generation_status','generated_4k_transparent_pending_exact_source');echo "AUDITED|$sku|$id\n";$checked++;}
+update_option('bhc_phase_512_family_suffix_audit',['checked'=>$checked,'at'=>current_time('mysql'),'result'=>'exact_suffix_unresolved'],false);echo "CHECKED|$checked\n";

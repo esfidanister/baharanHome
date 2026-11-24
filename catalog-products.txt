@@ -1,0 +1,641 @@
+24|publish|TS4130||ساندویچ‌ساز ۳ کاره بلک اند دکر|IMG|reference_verified
+25|publish|WY1408WTP|ال‌جی|ماشین لباسشویی ال‌جی مدل WY1408WTP ظرفیت ۸ کیلوگرم|IMG|reference_verified
+26|publish|1412||ماشین ظرفشویی دوو مدل DDW-M1412S|IMG|reference_verified
+27|publish|VCC4190V37/XSG||جاروبرقی کیسه‌ای سامسونگ مدل VCC4190V37/XSG|IMG|reference_verified
+28|publish|UA8500-65||تلویزیون LED 4K ال جی UA8500 سایز ۶۵ اینچ|IMG|reference_verified
+29|publish|8-PRO5||جاروبرقی بوش 8 Pro5|IMG|reference_verified
+30|publish|AF500||سرخ‌کن دوقلو نینجا AF500|IMG|reference_verified
+31|publish|EXPRESS-AIRGLIDE||اتو مخزن‌دار تفال Express Airglide|IMG|reference_verified
+32|publish|NA150||سرخ‌کن بدون روغن فیلیپس NA150|IMG|reference_verified
+131|draft||||NOIMG|
+132|draft||||NOIMG|
+135|publish|BHC-PAKSHOMA-L8W|پاکشوما|ماشین لباسشویی پاکشوما سری L مدل L8 ظرفیت ۸ کیلوگرم|IMG|reference_verified
+136|publish|BHC-PAKSHOMA-L9W|پاکشوما|ماشین لباسشویی پاکشوما مدل L9W ظرفیت ۹ کیلوگرم|IMG|reference_verified
+137|publish|BHC-PAKSHOMA-U9X|پاکشوما|ماشین لباسشویی پاکشوما ۹ کیلوگرم سری U مدل U9 X|IMG|reference_verified
+138|publish|BHC-PAKSHOMA-Q9W|پاکشوما|ماشین لباسشویی پاکشوما مدل Q9W ظرفیت ۹ کیلوگرم|IMG|reference_verified
+139|publish|BHC-PAKSHOMA-S9W|پاکشوما|ماشین لباسشویی پاکشوما مدل S9W ظرفیت ۹ کیلوگرم|IMG|reference_verified
+140|publish|BHC-PAKSHOMA-BWF-40108|پاکشوما|ماشین لباسشویی پاکشوما مدل BWF-40108 ظرفیت ۹ کیلوگرم|IMG|reference_verified
+141|publish|BHC-PAKSHOMA-BWF-40118|پاکشوما|ماشین لباسشویی پاکشوما مدل BWF-40118 ظرفیت ۹ کیلوگرم|IMG|reference_verified
+142|publish|BHC-PAKSHOMA-TX7|پاکشوما|ماشین لباسشویی درب از بالا پاکشوما مدل TX7 ظرفیت ۷ کیلوگرم|IMG|reference_verified
+143|publish|BHC-PAKSHOMA-L51W|پاکشوما|ماشین ظرفشویی پاکشوما مدل L51W ظرفیت ۱۵ نفره|IMG|reference_verified
+144|publish|BHC-PAKSHOMA-L51X|پاکشوما|ماشین ظرفشویی پاکشوما مدل L51X ظرفیت ۱۵ نفره رنگ اینوکس|IMG|reference_verified
+145|publish|BHC-PAKSHOMA-J52X|پاکشوما|ماشین ظرفشویی پاکشوما مدل J52X ظرفیت ۱۵ نفره|IMG|reference_verified
+146|publish|BHC-PAKSHOMA-E53W|پاکشوما|ماشین ظرفشویی پاکشوما مدل E53W ظرفیت ۱۵ نفره|IMG|reference_verified
+147|publish|BHC-PAKSHOMA-E53X|پاکشوما|ماشین ظرفشویی پاکشوما مدل E53 X ظرفیت ۱۵ نفره|IMG|reference_verified
+148|publish|BHC-PAKSHOMA-F54X|پاکشوما|ماشین ظرفشویی پاکشوما مدل F54X ظرفیت ۱۵ نفره رنگ اینوکس|IMG|reference_verified
+149|publish|BHC-PAKSHOMA-496IW|پاکشوما|یخچال فریزر پاکشوما مدل RCP-496iW ظرفیت ۴۹۵ لیتر|IMG|reference_verified
+150|publish|BHC-PAKSHOMA-496IX|پاکشوما|یخچال فریزر پاکشوما مدل RCP-496iX ظرفیت ۴۹۵ لیتر|IMG|reference_verified
+151|publish|BHC-PAKSHOMA-RSP-800-S|پاکشوما|یخچال و فریزر سایدبای‌ساید پاکشوما مدل RSP-800-S ظرفیت ۳۲ فوت|IMG|reference_verified
+152|publish|BHC-PAKSHOMA-RSP-800-W|پاکشوما|یخچال و فریزر سایدبای‌ساید پاکشوما مدل RSP-800-W ظرفیت ۳۲ فوت|IMG|reference_verified
+153|draft|BHC-PAKSHOMA-RPD-350|پاکشوما|یخچال و فریزر پاکشوما مدل RPD-350|IMG|reference_needs_verification
+154|draft|BHC-PAKSHOMA-RPF-360|پاکشوما|یخچال و فریزر پاکشوما مدل RPF-360|IMG|reference_needs_verification
+155|publish|BHC-PAKSHOMA-RTP-670|پاکشوما|یخچال و فریزر پاکشوما مدل RTP-670 ظرفیت ۲۳ فوت|IMG|reference_verified
+156|draft|BHC-PAKSHOMA-RTP-680|پاکشوما|یخچال و فریزر پاکشوما مدل RTP-680|IMG|reference_needs_verification
+157|publish|BHC-PAKSHOMA-PVC-25501|پاکشوما|جاروبرقی پاکشوما مدل PVC-25501 توان ۲۵۰۰ وات|IMG|reference_verified
+158|publish|BHC-PAKSHOMA-PVC-25502|پاکشوما|جاروبرقی پاکشوما مدل PVC-25502|IMG|reference_verified
+159|draft|BHC-PAKSHOMA-PVC-5220|پاکشوما|جاروبرقی پاکشوما مدل PVC-5220|IMG|reference_needs_verification
+160|draft|BHC-PAKSHOMA-PVC-6020|پاکشوما|جاروبرقی پاکشوما مدل PVC-6020|IMG|reference_needs_verification
+161|draft|BHC-PAKSHOMA-M-12000|پاکشوما|کولر گازی پاکشوما مدل M-12000|IMG|reference_needs_verification
+162|draft|BHC-PAKSHOMA-M-18000|پاکشوما|کولر گازی پاکشوما مدل M-18000|IMG|reference_needs_verification
+163|draft|BHC-PAKSHOMA-M-24000|پاکشوما|کولر گازی پاکشوما مدل M-24000|IMG|reference_needs_verification
+164|draft|BHC-PAKSHOMA-M-30000|پاکشوما|کولر گازی پاکشوما مدل M-30000|IMG|reference_needs_verification
+165|draft|BHC-PAKSHOMA-M-36000|پاکشوما|کولر گازی پاکشوما مدل M-36000|IMG|reference_needs_verification
+166|draft|BHC-PAKSHOMA-M-48000|پاکشوما|کولر گازی پاکشوما مدل M-48000|IMG|reference_needs_verification
+167|draft|BHC-PAKSHOMA-PG-5110|پاکشوما|اجاق و فر پاکشوما مدل PG-5110|IMG|reference_needs_verification
+168|draft|BHC-PAKSHOMA-PG-5111|پاکشوما|اجاق و فر پاکشوما مدل PG-5111|IMG|reference_needs_verification
+169|draft|BHC-PAKSHOMA-PG-5210|پاکشوما|اجاق و فر پاکشوما مدل PG-5210|IMG|reference_needs_verification
+170|draft|BHC-PAKSHOMA-PG-5211|پاکشوما|اجاق و فر پاکشوما مدل PG-5211|IMG|reference_needs_verification
+171|draft|BHC-PAKSHOMA-MW-220|پاکشوما|مایکروویو و پخت پاکشوما مدل MW-220|IMG|reference_needs_verification
+172|draft|BHC-PAKSHOMA-MW-230|پاکشوما|مایکروویو و پخت پاکشوما مدل MW-230|IMG|reference_needs_verification
+173|draft|BHC-PAKSHOMA-MW-250|پاکشوما|مایکروویو و پخت پاکشوما مدل MW-250|IMG|reference_needs_verification
+174|draft|BHC-PAKSHOMA-MW-280|پاکشوما|مایکروویو و پخت پاکشوما مدل MW-280|IMG|reference_needs_verification
+175|publish|BHC-SNOWA-SWM-A81W|اسنوا|ماشین لباسشویی اسنوا مدل SWM-A81W ظرفیت ۸ کیلوگرم|IMG|reference_verified
+176|publish|BHC-SNOWA-SWM-A81S|اسنوا|ماشین لباسشویی اسنوا مدل SWM-A81S ظرفیت ۸ کیلوگرم|IMG|reference_verified
+177|publish|BHC-SNOWA-SWM-E92W|اسنوا|ماشین لباسشویی اسنوا مدل SWM-E92W ظرفیت ۹ کیلوگرم|IMG|reference_verified
+178|publish|BHC-SNOWA-SWM-C81S|اسنوا|ماشین لباسشویی اسنوا مدل SWM-C81S ظرفیت ۸ کیلوگرم|IMG|reference_verified
+179|publish|BHC-SNOWA-SWM-84317|اسنوا|ماشین لباسشویی اسنوا مدل SWM-84317 ظرفیت ۸ کیلوگرم|IMG|reference_verified
+180|publish|BHC-SNOWA-SWM-84556|اسنوا|ماشین لباسشویی اسنوا مدل SWM-84556 ظرفیت ۸ کیلوگرم|IMG|reference_verified
+181|publish|BHC-SNOWA-SWM-94626|اسنوا|ماشین لباسشویی اسنوا سری Wash In Wash مدل SWM-94626 ظرفیت ۹ کیلوگرم|IMG|reference_verified
+182|publish|BHC-SNOWA-SWM-71100|اسنوا|ماشین لباسشویی اسنوا مدل SWM-71100 ظرفیت ۷ کیلوگرم|IMG|reference_verified
+183|publish|BHC-SNOWA-SDW-A12W|اسنوا|ماشین ظرفشویی اسنوا مدل SDW-A12W سری آوان ظرفیت ۱۳ نفره|IMG|reference_verified
+184|publish|BHC-SNOWA-SDW-A12S|اسنوا|ماشین ظرفشویی اسنوا مدل SDW-A12S ظرفیت ۱۳ نفره|IMG|reference_verified
+185|publish|BHC-SNOWA-SDW-226|اسنوا|ماشین ظرفشویی اسنوا مدل SDW-226 ظرفیت ۱۲ نفره|IMG|reference_verified
+186|draft|BHC-SNOWA-SDW-353|اسنوا|ظرفشویی اسنوا مدل SDW-353|IMG|reference_needs_verification
+187|draft|BHC-SNOWA-SDW-260|اسنوا|ظرفشویی اسنوا مدل SDW-260|IMG|reference_needs_verification
+188|draft|BHC-SNOWA-SDW-280|اسنوا|ظرفشویی اسنوا مدل SDW-280|IMG|reference_needs_verification
+189|draft|BHC-SNOWA-SB100LW|اسنوا|یخچال و فریزر اسنوا مدل SB100LW|IMG|reference_needs_verification
+190|publish|BHC-SNOWA-SBDI-S100|اسنوا|یخچال و فریزر اسنوا مدل SBDi-S100 ظرفیت ۲۴ فوت|IMG|reference_verified
+191|draft|BHC-SNOWA-SRD-350|اسنوا|یخچال و فریزر اسنوا مدل SRD-350|IMG|reference_needs_verification
+192|draft|BHC-SNOWA-SRD-360|اسنوا|یخچال و فریزر اسنوا مدل SRD-360|IMG|reference_needs_verification
+193|draft|BHC-SNOWA-SRD-270|اسنوا|یخچال و فریزر اسنوا مدل SRD-270|IMG|reference_needs_verification
+194|draft|BHC-SNOWA-SBD-250|اسنوا|یخچال و فریزر اسنوا مدل SBD-250|IMG|reference_needs_verification
+195|draft|BHC-SNOWA-SBD-300|اسنوا|یخچال و فریزر اسنوا مدل SBD-300|IMG|reference_needs_verification
+196|draft|BHC-SNOWA-SBS-350|اسنوا|یخچال و فریزر اسنوا مدل SBS-350|IMG|reference_needs_verification
+197|publish|BHC-SNOWA-SSD-50SA620U|اسنوا|تلویزیون هوشمند اسنوا مدل SSD-50SA620U سایز ۵۰ اینچ|IMG|reference_verified
+198|publish|BHC-SNOWA-SSD-55SA620U|اسنوا|تلویزیون هوشمند LED اسنوا مدل SSD-55SA620U سایز ۵۵ اینچ|IMG|reference_verified
+199|publish|BHC-SNOWA-SSD-65SA620U|اسنوا|تلویزیون هوشمند LED اسنوا مدل SSD-65SA620U سایز ۶۵ اینچ|IMG|reference_verified
+200|draft|BHC-SNOWA-SSD-75SA620U|اسنوا|تلویزیون اسنوا مدل SSD-75SA620U|IMG|reference_needs_verification
+201|publish|BHC-SNOWA-SVC-CA18|اسنوا|جاروبرقی اسنوا مدل SVC-CA18 توان ۱۸۰۰ وات|IMG|reference_verified
+202|publish|BHC-SNOWA-SVC-CA20|اسنوا|جاروبرقی اسنوا مدل SVC-CA20 توان ۲۰۰۰ وات|IMG|reference_verified
+203|draft|BHC-SNOWA-SVC-CA22|اسنوا|جاروبرقی اسنوا مدل SVC-CA22|IMG|reference_needs_verification
+204|draft|BHC-SNOWA-SVC-CA25|اسنوا|جاروبرقی اسنوا مدل SVC-CA25|IMG|reference_needs_verification
+205|draft|BHC-SNOWA-SAC-12000|اسنوا|کولر گازی اسنوا مدل SAC-12000|IMG|reference_needs_verification
+206|draft|BHC-SNOWA-SAC-18000|اسنوا|کولر گازی اسنوا مدل SAC-18000|IMG|reference_needs_verification
+207|draft|BHC-SNOWA-SAC-24000|اسنوا|کولر گازی اسنوا مدل SAC-24000|IMG|reference_needs_verification
+208|draft|BHC-SNOWA-SAC-30000|اسنوا|کولر گازی اسنوا مدل SAC-30000|IMG|reference_needs_verification
+209|draft|BHC-SNOWA-SGC-11101|اسنوا|اجاق و فر اسنوا مدل SGC-11101|IMG|reference_needs_verification
+210|draft|BHC-SNOWA-SGC-11102|اسنوا|اجاق و فر اسنوا مدل SGC-11102|IMG|reference_needs_verification
+211|draft|BHC-SNOWA-SGC-31101|اسنوا|اجاق و فر اسنوا مدل SGC-31101|IMG|reference_needs_verification
+212|draft|BHC-SNOWA-SGC-31111|اسنوا|اجاق و فر اسنوا مدل SGC-31111|IMG|reference_needs_verification
+213|draft|BHC-SNOWA-SMO-220|اسنوا|مایکروویو و پخت اسنوا مدل SMO-220|IMG|reference_needs_verification
+214|draft|BHC-SNOWA-SMO-230|اسنوا|مایکروویو و پخت اسنوا مدل SMO-230|IMG|reference_needs_verification
+215|draft|BHC-SNOWA-SMO-250|اسنوا|مایکروویو و پخت اسنوا مدل SMO-250|IMG|reference_needs_verification
+216|draft|BHC-SNOWA-SMO-280|اسنوا|مایکروویو و پخت اسنوا مدل SMO-280|IMG|reference_needs_verification
+217|publish|BHC-DAEWOO-DWK-8540|دوو|ماشین لباسشویی دوو مدل DWK-8540 ظرفیت ۸ کیلوگرم|IMG|reference_verified
+218|publish|BHC-DAEWOO-DWK-9540|دوو|ماشین لباسشویی دوو مدل DWK-9540 ظرفیت ۹ کیلوگرم|IMG|reference_verified
+219|draft|BHC-DAEWOO-DWK-PRIMO|دوو|لباسشویی دوو مدل DWK-PRimo|IMG|reference_needs_verification
+220|draft|BHC-DAEWOO-DWK-8140|دوو|لباسشویی دوو مدل DWK-8140|IMG|reference_needs_verification
+221|publish|BHC-DAEWOO-DWK-8100|دوو|ماشین لباسشویی دوو سری کاریزما مدل DWK-8100 ظرفیت ۸ کیلوگرم|IMG|reference_verified
+222|draft|BHC-DAEWOO-DWK-9000|دوو|لباسشویی دوو مدل DWK-9000|IMG|reference_needs_verification
+223|draft|BHC-DAEWOO-DW-1412|دوو|ظرفشویی دوو مدل DW-1412|IMG|reference_needs_verification
+224|publish|BHC-DAEWOO-DW-1411|دوو|ماشین ظرفشویی دوو مدل DDW-G1411 ظرفیت ۱۴ نفره|IMG|reference_verified
+225|draft|BHC-DAEWOO-DW-226|دوو|ظرفشویی دوو مدل DW-226|IMG|reference_needs_verification
+226|draft|BHC-DAEWOO-DW-256|دوو|ظرفشویی دوو مدل DW-256|IMG|reference_needs_verification
+227|draft|BHC-DAEWOO-DW-260|دوو|ظرفشویی دوو مدل DW-260|IMG|reference_needs_verification
+228|draft|BHC-DAEWOO-DW-280|دوو|ظرفشویی دوو مدل DW-280|IMG|reference_needs_verification
+229|publish|BHC-DAEWOO-D2S-3340|دوو|یخچال فریزر ساید بای ساید دوو مدل D4S-3340 ظرفیت ۳۲ فوت|IMG|reference_verified
+230|publish|BHC-DAEWOO-D4S-2915|دوو|یخچال فریزر ساید بای ساید دوو مدل D4S-2915 پارامو|IMG|reference_verified
+231|publish|BHC-DAEWOO-D4S-0036|دوو|یخچال فریزر ساید بای ساید سه‌درب دوو مدل D4S-0036SS پرایم|IMG|reference_verified
+232|publish|BHC-DAEWOO-D2S-0034|دوو|یخچال فریزر ساید بای ساید سه‌درب دوو مدل D4S-0034SS پرایم|IMG|reference_verified
+233|draft|BHC-DAEWOO-SRD-300|دوو|یخچال و فریزر دوو مدل SRD-300|IMG|reference_needs_verification
+234|draft|BHC-DAEWOO-SRD-350|دوو|یخچال و فریزر دوو مدل SRD-350|IMG|reference_needs_verification
+235|draft|BHC-DAEWOO-SBS-300|دوو|یخچال و فریزر دوو مدل SBS-300|IMG|reference_needs_verification
+236|draft|BHC-DAEWOO-SBS-340|دوو|یخچال و فریزر دوو مدل SBS-340|IMG|reference_needs_verification
+237|draft|BHC-DAEWOO-SBS-360|دوو|یخچال و فریزر دوو مدل SBS-360|IMG|reference_needs_verification
+238|draft|BHC-DAEWOO-SBS-400|دوو|یخچال و فریزر دوو مدل SBS-400|IMG|reference_needs_verification
+239|publish|BHC-DAEWOO-DSL-50K5700U|دوو|تلویزیون هوشمند LED دوو مدل DSL-50K5700U سایز ۵۰ اینچ|IMG|reference_verified
+240|publish|BHC-DAEWOO-DSL-55K5700U|دوو|تلویزیون هوشمند LED دوو مدل DSL-55K5700U سایز ۵۵ اینچ|IMG|reference_verified
+241|publish|BHC-DAEWOO-DSL-65K5700U|دوو|تلویزیون هوشمند LED دوو مدل DSL-65K5700U سایز ۶۵ اینچ|IMG|reference_verified
+242|publish|BHC-DAEWOO-DSL-75K5700U|دوو|تلویزیون هوشمند LED دوو مدل DSL-75K5700U سایز ۷۵ اینچ|IMG|reference_verified
+243|draft|BHC-DAEWOO-DLE-43M6000|دوو|تلویزیون دوو مدل DLE-43M6000|IMG|reference_needs_verification
+244|draft|BHC-DAEWOO-DLE-55M6000|دوو|تلویزیون دوو مدل DLE-55M6000|IMG|reference_needs_verification
+245|draft|BHC-DAEWOO-DVC-2200|دوو|جاروبرقی دوو مدل DVC-2200|IMG|reference_needs_verification
+246|draft|BHC-DAEWOO-DVC-2400|دوو|جاروبرقی دوو مدل DVC-2400|IMG|reference_needs_verification
+247|draft|BHC-DAEWOO-DVC-2500|دوو|جاروبرقی دوو مدل DVC-2500|IMG|reference_needs_verification
+248|draft|BHC-DAEWOO-DVC-2800|دوو|جاروبرقی دوو مدل DVC-2800|IMG|reference_needs_verification
+249|draft|BHC-DAEWOO-DMA-12000|دوو|کولر گازی دوو مدل DMA-12000|IMG|reference_needs_verification
+250|draft|BHC-DAEWOO-DMA-18000|دوو|کولر گازی دوو مدل DMA-18000|IMG|reference_needs_verification
+251|draft|BHC-DAEWOO-DMA-24000|دوو|کولر گازی دوو مدل DMA-24000|IMG|reference_needs_verification
+252|draft|BHC-DAEWOO-DMA-30000|دوو|کولر گازی دوو مدل DMA-30000|IMG|reference_needs_verification
+253|draft|BHC-DAEWOO-DMO-220|دوو|مایکروویو و پخت دوو مدل DMO-220|IMG|reference_needs_verification
+254|draft|BHC-DAEWOO-DMO-250|دوو|مایکروویو و پخت دوو مدل DMO-250|IMG|reference_needs_verification
+255|draft|BHC-DAEWOO-DMO-280|دوو|مایکروویو و پخت دوو مدل DMO-280|IMG|reference_needs_verification
+256|draft|BHC-DAEWOO-DMO-300|دوو|مایکروویو و پخت دوو مدل DMO-300|IMG|reference_needs_verification
+257|draft|BHC-GPLUS-GWM-J8250|جی‌پلاس|لباسشویی جی‌پلاس مدل GWM-J8250|IMG|reference_needs_verification
+258|draft|BHC-GPLUS-GWM-KD106|جی‌پلاس|لباسشویی جی‌پلاس مدل GWM-KD106|IMG|reference_needs_verification
+259|draft|BHC-GPLUS-GWM-M8800|جی‌پلاس|لباسشویی جی‌پلاس مدل GWM-M8800|IMG|reference_needs_verification
+260|draft|BHC-GPLUS-GWM-72B13|جی‌پلاس|لباسشویی جی‌پلاس مدل GWM-72B13|IMG|reference_needs_verification
+261|draft|BHC-GPLUS-GWM-84B13|جی‌پلاس|لباسشویی جی‌پلاس مدل GWM-84B13|IMG|reference_needs_verification
+262|draft|BHC-GPLUS-GWM-94B13|جی‌پلاس|لباسشویی جی‌پلاس مدل GWM-94B13|IMG|reference_needs_verification
+263|draft|BHC-GPLUS-GDW-M1463|جی‌پلاس|ظرفشویی جی‌پلاس مدل GDW-M1463|IMG|reference_needs_verification
+264|draft|BHC-GPLUS-GDW-L4573|جی‌پلاس|ظرفشویی جی‌پلاس مدل GDW-L4573|IMG|reference_needs_verification
+265|draft|BHC-GPLUS-GDW-K4623|جی‌پلاس|ظرفشویی جی‌پلاس مدل GDW-K4623|IMG|reference_needs_verification
+266|draft|BHC-GPLUS-GDW-J5523|جی‌پلاس|ظرفشویی جی‌پلاس مدل GDW-J5523|IMG|reference_needs_verification
+267|draft|BHC-GPLUS-GRF-P5320|جی‌پلاس|یخچال و فریزر جی‌پلاس مدل GRF-P5320|IMG|reference_needs_verification
+268|draft|BHC-GPLUS-GRF-P8340|جی‌پلاس|یخچال و فریزر جی‌پلاس مدل GRF-P8340|IMG|reference_needs_verification
+269|draft|BHC-GPLUS-GRF-M7620|جی‌پلاس|یخچال و فریزر جی‌پلاس مدل GRF-M7620|IMG|reference_needs_verification
+270|draft|BHC-GPLUS-GRF-M7625|جی‌پلاس|یخچال و فریزر جی‌پلاس مدل GRF-M7625|IMG|reference_needs_verification
+271|draft|BHC-GPLUS-GRF-K7150|جی‌پلاس|یخچال و فریزر جی‌پلاس مدل GRF-K7150|IMG|reference_needs_verification
+272|draft|BHC-GPLUS-GRF-K7155|جی‌پلاس|یخچال و فریزر جی‌پلاس مدل GRF-K7155|IMG|reference_needs_verification
+273|draft|BHC-GPLUS-GRF-S7620|جی‌پلاس|یخچال و فریزر جی‌پلاس مدل GRF-S7620|IMG|reference_needs_verification
+274|draft|BHC-GPLUS-GRF-S7625|جی‌پلاس|یخچال و فریزر جی‌پلاس مدل GRF-S7625|IMG|reference_needs_verification
+275|draft|BHC-GPLUS-GTV-50PU742N|جی‌پلاس|تلویزیون جی‌پلاس مدل GTV-50PU742N|IMG|reference_needs_verification
+276|draft|BHC-GPLUS-GTV-55PU742N|جی‌پلاس|تلویزیون جی‌پلاس مدل GTV-55PU742N|IMG|reference_needs_verification
+277|draft|BHC-GPLUS-GTV-65PU742N|جی‌پلاس|تلویزیون جی‌پلاس مدل GTV-65PU742N|IMG|reference_needs_verification
+278|draft|BHC-GPLUS-GTV-75PU742N|جی‌پلاس|تلویزیون جی‌پلاس مدل GTV-75PU742N|IMG|reference_needs_verification
+279|draft|BHC-GPLUS-GTV-43PU821S|جی‌پلاس|تلویزیون جی‌پلاس مدل GTV-43PU821S|IMG|reference_needs_verification
+280|draft|BHC-GPLUS-GTV-55PU821S|جی‌پلاس|تلویزیون جی‌پلاس مدل GTV-55PU821S|IMG|reference_needs_verification
+281|draft|BHC-GPLUS-GTV-65PU821S|جی‌پلاس|تلویزیون جی‌پلاس مدل GTV-65PU821S|IMG|reference_needs_verification
+282|draft|BHC-GPLUS-GTV-75PU821S|جی‌پلاس|تلویزیون جی‌پلاس مدل GTV-75PU821S|IMG|reference_needs_verification
+283|draft|BHC-GPLUS-GTV-50LU722S|جی‌پلاس|تلویزیون جی‌پلاس مدل GTV-50LU722S|IMG|reference_needs_verification
+284|draft|BHC-GPLUS-GTV-55LU722S|جی‌پلاس|تلویزیون جی‌پلاس مدل GTV-55LU722S|IMG|reference_needs_verification
+285|draft|BHC-GPLUS-GVC-2200|جی‌پلاس|جاروبرقی جی‌پلاس مدل GVC-2200|IMG|reference_needs_verification
+286|draft|BHC-GPLUS-GVC-2400|جی‌پلاس|جاروبرقی جی‌پلاس مدل GVC-2400|IMG|reference_needs_verification
+287|draft|BHC-GPLUS-GVC-2500|جی‌پلاس|جاروبرقی جی‌پلاس مدل GVC-2500|IMG|reference_needs_verification
+288|draft|BHC-GPLUS-GVC-2800|جی‌پلاس|جاروبرقی جی‌پلاس مدل GVC-2800|IMG|reference_needs_verification
+289|draft|BHC-GPLUS-GVC-3000|جی‌پلاس|جاروبرقی جی‌پلاس مدل GVC-3000|IMG|reference_needs_verification
+290|draft|BHC-GPLUS-GVC-3200|جی‌پلاس|جاروبرقی جی‌پلاس مدل GVC-3200|IMG|reference_needs_verification
+291|draft|BHC-GPLUS-GAC-12000|جی‌پلاس|کولر گازی جی‌پلاس مدل GAC-12000|IMG|reference_needs_verification
+292|draft|BHC-GPLUS-GAC-18000|جی‌پلاس|کولر گازی جی‌پلاس مدل GAC-18000|IMG|reference_needs_verification
+293|draft|BHC-GPLUS-GAC-24000|جی‌پلاس|کولر گازی جی‌پلاس مدل GAC-24000|IMG|reference_needs_verification
+294|draft|BHC-GPLUS-GAC-30000|جی‌پلاس|کولر گازی جی‌پلاس مدل GAC-30000|IMG|reference_needs_verification
+295|draft|BHC-GPLUS-GAC-36000|جی‌پلاس|کولر گازی جی‌پلاس مدل GAC-36000|IMG|reference_needs_verification
+296|draft|BHC-GPLUS-GAC-48000|جی‌پلاس|کولر گازی جی‌پلاس مدل GAC-48000|IMG|reference_needs_verification
+297|draft|BHC-X-VISION-XCU-50XCU735|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XCU-50XCU735|IMG|reference_needs_verification
+298|draft|BHC-X-VISION-XCU-55XCU735|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XCU-55XCU735|IMG|reference_needs_verification
+299|draft|BHC-X-VISION-XCU-65XCU735|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XCU-65XCU735|IMG|reference_needs_verification
+300|draft|BHC-X-VISION-XCU-75XCU735|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XCU-75XCU735|IMG|reference_needs_verification
+301|draft|BHC-X-VISION-XCU-50XCU745|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XCU-50XCU745|IMG|reference_needs_verification
+302|draft|BHC-X-VISION-XCU-55XCU745|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XCU-55XCU745|IMG|reference_needs_verification
+303|draft|BHC-X-VISION-XCU-65XCU745|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XCU-65XCU745|IMG|reference_needs_verification
+304|draft|BHC-X-VISION-XCU-75XCU745|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XCU-75XCU745|IMG|reference_needs_verification
+305|draft|BHC-X-VISION-XEN-43XK580|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XEN-43XK580|IMG|reference_needs_verification
+306|draft|BHC-X-VISION-XEN-55XK580|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XEN-55XK580|IMG|reference_needs_verification
+307|draft|BHC-X-VISION-XEN-65XK580|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XEN-65XK580|IMG|reference_needs_verification
+308|draft|BHC-X-VISION-XEN-75XK580|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XEN-75XK580|IMG|reference_needs_verification
+309|draft|BHC-X-VISION-XYU-50XCU665|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XYU-50XCU665|IMG|reference_needs_verification
+310|draft|BHC-X-VISION-XYU-55XCU665|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XYU-55XCU665|IMG|reference_needs_verification
+311|draft|BHC-X-VISION-XYU-65XCU665|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XYU-65XCU665|IMG|reference_needs_verification
+312|draft|BHC-X-VISION-XYU-75XCU665|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XYU-75XCU665|IMG|reference_needs_verification
+313|draft|BHC-X-VISION-XK-43XK530|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XK-43XK530|IMG|reference_needs_verification
+314|draft|BHC-X-VISION-XK-55XK530|ایکس‌ویژن|تلویزیون ایکس‌ویژن مدل XK-55XK530|IMG|reference_needs_verification
+315|draft|BHC-X-VISION-XQW-7200|ایکس‌ویژن|لباسشویی ایکس‌ویژن مدل XQW-7200|IMG|reference_needs_verification
+316|draft|BHC-X-VISION-XQW-8200|ایکس‌ویژن|لباسشویی ایکس‌ویژن مدل XQW-8200|IMG|reference_needs_verification
+317|draft|BHC-X-VISION-XQW-9400|ایکس‌ویژن|لباسشویی ایکس‌ویژن مدل XQW-9400|IMG|reference_needs_verification
+318|draft|BHC-X-VISION-XQW-9600|ایکس‌ویژن|لباسشویی ایکس‌ویژن مدل XQW-9600|IMG|reference_needs_verification
+319|draft|BHC-X-VISION-XQW-10000|ایکس‌ویژن|لباسشویی ایکس‌ویژن مدل XQW-10000|IMG|reference_needs_verification
+320|draft|BHC-X-VISION-XQW-12000|ایکس‌ویژن|لباسشویی ایکس‌ویژن مدل XQW-12000|IMG|reference_needs_verification
+321|draft|BHC-X-VISION-XRF-650|ایکس‌ویژن|یخچال و فریزر ایکس‌ویژن مدل XRF-650|IMG|reference_needs_verification
+322|draft|BHC-X-VISION-XRF-670|ایکس‌ویژن|یخچال و فریزر ایکس‌ویژن مدل XRF-670|IMG|reference_needs_verification
+323|draft|BHC-X-VISION-XRF-700|ایکس‌ویژن|یخچال و فریزر ایکس‌ویژن مدل XRF-700|IMG|reference_needs_verification
+324|draft|BHC-X-VISION-XRF-750|ایکس‌ویژن|یخچال و فریزر ایکس‌ویژن مدل XRF-750|IMG|reference_needs_verification
+325|draft|BHC-X-VISION-XRF-800|ایکس‌ویژن|یخچال و فریزر ایکس‌ویژن مدل XRF-800|IMG|reference_needs_verification
+326|draft|BHC-X-VISION-XRF-850|ایکس‌ویژن|یخچال و فریزر ایکس‌ویژن مدل XRF-850|IMG|reference_needs_verification
+327|draft|BHC-X-VISION-XAC-12000|ایکس‌ویژن|کولر گازی ایکس‌ویژن مدل XAC-12000|IMG|reference_needs_verification
+328|draft|BHC-X-VISION-XAC-18000|ایکس‌ویژن|کولر گازی ایکس‌ویژن مدل XAC-18000|IMG|reference_needs_verification
+329|draft|BHC-X-VISION-XAC-24000|ایکس‌ویژن|کولر گازی ایکس‌ویژن مدل XAC-24000|IMG|reference_needs_verification
+330|draft|BHC-X-VISION-XAC-30000|ایکس‌ویژن|کولر گازی ایکس‌ویژن مدل XAC-30000|IMG|reference_needs_verification
+331|draft|BHC-X-VISION-XAC-36000|ایکس‌ویژن|کولر گازی ایکس‌ویژن مدل XAC-36000|IMG|reference_needs_verification
+332|draft|BHC-X-VISION-XAC-48000|ایکس‌ویژن|کولر گازی ایکس‌ویژن مدل XAC-48000|IMG|reference_needs_verification
+333|draft|BHC-X-VISION-XVC-2200|ایکس‌ویژن|جاروبرقی ایکس‌ویژن مدل XVC-2200|IMG|reference_needs_verification
+334|draft|BHC-X-VISION-XVC-2400|ایکس‌ویژن|جاروبرقی ایکس‌ویژن مدل XVC-2400|IMG|reference_needs_verification
+335|draft|BHC-X-VISION-XVC-2600|ایکس‌ویژن|جاروبرقی ایکس‌ویژن مدل XVC-2600|IMG|reference_needs_verification
+336|draft|BHC-X-VISION-XVC-2800|ایکس‌ویژن|جاروبرقی ایکس‌ویژن مدل XVC-2800|IMG|reference_needs_verification
+337|publish|BHC-SAMSUNG-WW80T|سامسونگ|ماشین لباسشویی سامسونگ ۸ کیلوگرم مدل WW80T504DTW/SA|IMG|reference_verified
+338|publish|BHC-SAMSUNG-WW90T|سامسونگ|ماشین لباسشویی سامسونگ مدل WW90T534DAW/S1 ظرفیت ۹ کیلوگرم|IMG|reference_verified
+339|draft|BHC-SAMSUNG-WW90TA|سامسونگ|لباسشویی سامسونگ مدل WW90TA|IMG|reference_needs_verification
+340|publish|BHC-SAMSUNG-WW11T|سامسونگ|ماشین لباسشویی سامسونگ مدل WW11T734DBH/TC ظرفیت ۱۱ کیلوگرم|IMG|reference_verified
+341|publish|WW80J3230KW/SE|سامسونگ|ماشین لباسشویی سامسونگ مدل WW80J3230KW/SE ظرفیت ۸ کیلوگرم|IMG|reference_verified
+342|publish|WW90J54E0BW/SE|سامسونگ|ماشین لباسشویی سامسونگ مدل WW90J54E0BW/SE ظرفیت ۹ کیلوگرم|IMG|reference_verified
+343|publish|Q1470/HC|سامسونگ|ماشین لباسشویی سامسونگ مدل Q1470/HC|IMG|reference_verified
+344|draft|BHC-SAMSUNG-Q1460|سامسونگ|لباسشویی سامسونگ مدل Q1460|IMG|reference_needs_verification
+345|publish|DW60M6051US|سامسونگ|ماشین ظرفشویی سامسونگ مدل DW60M6051US|IMG|reference_verified
+346|publish|DW60A5055FW|سامسونگ|ماشین ظرفشویی سامسونگ مدل DW60A5055FW|IMG|reference_verified
+347|publish|DW60R2014US/AA|سامسونگ|ماشین ظرفشویی سامسونگ مدل DW60R2014US/AA|IMG|reference_verified
+348|publish|DW50R4070BB/WT|سامسونگ|ماشین ظرفشویی سامسونگ مدل DW50R4070BB/WT|IMG|reference_verified
+349|publish|BHC-SAMSUNG-DW60CG|سامسونگ|ماشین ظرفشویی سامسونگ مدل DW60CG550FWQEU ظرفیت ۱۴ نفره|IMG|reference_verified
+350|publish|DW60BG730B00ET|سامسونگ|ماشین ظرفشویی سامسونگ مدل DW60BG730B00ET|IMG|reference_verified
+351|publish|RS50N|سامسونگ|یخچال و فریزر سامسونگ مدل RS50N|IMG|reference_verified
+352|publish|RS54N3103SL/TC|سامسونگ|یخچال و فریزر سامسونگ مدل RS54N3103SL/TC|IMG|reference_verified
+353|publish|RS68A8840S9/EF|سامسونگ|یخچال و فریزر سامسونگ مدل RS68A8840S9/EF|IMG|reference_verified
+354|publish|RF48A4000B4/SS|سامسونگ|یخچال و فریزر سامسونگ مدل RF48A4000B4/SS|IMG|reference_verified
+355|publish|RT62K7045SL|سامسونگ|یخچال و فریزر سامسونگ مدل RT62K7045SL|IMG|reference_verified
+356|publish|RT53K6035SL|سامسونگ|یخچال و فریزر سامسونگ مدل RT53K6035SL|IMG|reference_verified
+357|publish|RB34T6001SA|سامسونگ|یخچال و فریزر سامسونگ مدل RB34T6001SA|IMG|reference_verified
+358|publish|RB38T676EB1/EF|سامسونگ|یخچال و فریزر سامسونگ مدل RB38T676EB1/EF|IMG|reference_verified
+359|publish|UA50CU7000UXLY|سامسونگ|تلویزیون سامسونگ مدل UA50CU7000UXLY سایز ۵۰ اینچ|IMG|reference_verified
+360|publish|BHC-SAMSUNG-UA55CU|سامسونگ|تلویزیون سامسونگ ۵۵ اینچ Crystal UHD 4K مدل UA55CU7000UXLY|IMG|reference_verified
+361|publish|BHC-SAMSUNG-UA65CU|سامسونگ|تلویزیون سامسونگ Crystal UHD 4K مدل UA65CU7000UXLY سایز ۶۵ اینچ|IMG|reference_verified
+362|publish|UA75CU7000UXLY|سامسونگ|تلویزیون سامسونگ مدل UA75CU7000UXLY سایز ۷۵ اینچ|IMG|reference_verified
+363|publish|BHC-SAMSUNG-QA55Q70|سامسونگ|تلویزیون سامسونگ QLED 4K مدل QA55Q70CAWXXY سایز ۵۵ اینچ|IMG|reference_verified
+364|publish|BHC-SAMSUNG-QA65Q70|سامسونگ|تلویزیون سامسونگ QLED 4K مدل QA65Q70CAWXXY سایز ۶۵ اینچ|IMG|reference_verified
+365|publish|QA75Q70DAUXZN|سامسونگ|تلویزیون سامسونگ مدل QA75Q70DAUXZN|IMG|reference_verified
+366|publish|QN55Q80RAFXZA|سامسونگ|تلویزیون سامسونگ مدل QN55Q80RAFXZA|IMG|reference_verified
+367|publish|QN65Q80RAFXZA|سامسونگ|تلویزیون سامسونگ مدل QN65Q80RAFXZA|IMG|reference_verified
+368|publish|QN75Q80RAFXZA|سامسونگ|تلویزیون سامسونگ مدل QN75Q80RAFXZA|IMG|reference_verified
+369|publish|VC18M2120SB/SE|سامسونگ|جاروبرقی سامسونگ مدل VC18M2120SB/SE|IMG|reference_verified
+370|publish|VC20M2510WB/SG|سامسونگ|جاروبرقی سامسونگ مدل VC20M2510WB/SG|IMG|reference_verified
+371|publish|VC21K5130VB/EV|سامسونگ|جاروبرقی سامسونگ مدل VC21K5130VB/EV|IMG|reference_verified
+372|publish|VC24FHNJGWQ/EV|سامسونگ|جاروبرقی سامسونگ مدل VC24FHNJGWQ/EV|IMG|reference_verified
+373|publish|BHC-SAMSUNG-MG30T|سامسونگ|مایکروویو گریل سامسونگ مدل MG30T5019CG ظرفیت ۳۰ لیتر|IMG|reference_verified
+374|publish|BHC-SAMSUNG-MS23K|سامسونگ|مایکروویو سامسونگ مدل MS23K3515ASW/SW ظرفیت ۲۳ لیتر|IMG|reference_verified
+375|publish|MG23F301TAS/EC|سامسونگ|مایکروویو سامسونگ مدل MG23F301TAS/EC|IMG|reference_verified
+376|publish|MC28H5015AK/EO|سامسونگ|مایکروویو سامسونگ مدل MC28H5015AK/EO|IMG|reference_verified
+377|draft|BHC-LG-F4V5|ال‌جی|لباسشویی ال‌جی مدل F4V5|IMG|reference_needs_verification
+378|draft|BHC-LG-F4V7|ال‌جی|لباسشویی ال‌جی مدل F4V7|IMG|reference_needs_verification
+379|draft|BHC-LG-F4R5|ال‌جی|لباسشویی ال‌جی مدل F4R5|IMG|reference_needs_verification
+380|draft|BHC-LG-F4R3|ال‌جی|لباسشویی ال‌جی مدل F4R3|IMG|reference_needs_verification
+381|draft|BHC-LG-WM-801|ال‌جی|لباسشویی ال‌جی مدل WM-801|IMG|reference_needs_verification
+382|draft|BHC-LG-WM-901|ال‌جی|لباسشویی ال‌جی مدل WM-901|IMG|reference_needs_verification
+383|draft|BHC-LG-WY1408WTP|ال‌جی|لباسشویی ال‌جی مدل WY1408WTP|IMG|reference_needs_verification
+384|draft|BHC-LG-F2J3|ال‌جی|لباسشویی ال‌جی مدل F2J3|IMG|reference_needs_verification
+385|draft|BHC-LG-DFB325|ال‌جی|ظرفشویی ال‌جی مدل DFB325|IMG|reference_needs_verification
+386|draft|BHC-LG-DFB512|ال‌جی|ظرفشویی ال‌جی مدل DFB512|IMG|reference_needs_verification
+387|draft|BHC-LG-DFB425|ال‌جی|ظرفشویی ال‌جی مدل DFB425|IMG|reference_needs_verification
+388|draft|BHC-LG-DFB227|ال‌جی|ظرفشویی ال‌جی مدل DFB227|IMG|reference_needs_verification
+389|draft|BHC-LG-DFB325HS|ال‌جی|ظرفشویی ال‌جی مدل DFB325HS|IMG|reference_needs_verification
+390|draft|BHC-LG-DFB512FP|ال‌جی|ظرفشویی ال‌جی مدل DFB512FP|IMG|reference_needs_verification
+391|draft|BHC-LG-GR-X267|ال‌جی|یخچال و فریزر ال‌جی مدل GR-X267|IMG|reference_needs_verification
+392|draft|BHC-LG-GC-B247|ال‌جی|یخچال و فریزر ال‌جی مدل GC-B247|IMG|reference_needs_verification
+393|draft|BHC-LG-GC-J247|ال‌جی|یخچال و فریزر ال‌جی مدل GC-J247|IMG|reference_needs_verification
+394|draft|BHC-LG-GR-B247|ال‌جی|یخچال و فریزر ال‌جی مدل GR-B247|IMG|reference_needs_verification
+395|draft|BHC-LG-GN-H702|ال‌جی|یخچال و فریزر ال‌جی مدل GN-H702|IMG|reference_needs_verification
+396|draft|BHC-LG-GTF-603|ال‌جی|یخچال و فریزر ال‌جی مدل GTF-603|IMG|reference_needs_verification
+397|draft|BHC-LG-SXS-700|ال‌جی|یخچال و فریزر ال‌جی مدل SXS-700|IMG|reference_needs_verification
+398|draft|BHC-LG-SXS-800|ال‌جی|یخچال و فریزر ال‌جی مدل SXS-800|IMG|reference_needs_verification
+399|draft|BHC-LG-55UT8000|ال‌جی|تلویزیون ال‌جی مدل 55UT8000|IMG|reference_needs_verification
+400|draft|BHC-LG-65UT8000|ال‌جی|تلویزیون ال‌جی مدل 65UT8000|IMG|reference_needs_verification
+401|draft|BHC-LG-75UT8000|ال‌جی|تلویزیون ال‌جی مدل 75UT8000|IMG|reference_needs_verification
+402|draft|BHC-LG-86UT8000|ال‌جی|تلویزیون ال‌جی مدل 86UT8000|IMG|reference_needs_verification
+403|draft|BHC-LG-55QNED80|ال‌جی|تلویزیون ال‌جی مدل 55QNED80|IMG|reference_needs_verification
+404|draft|BHC-LG-65QNED80|ال‌جی|تلویزیون ال‌جی مدل 65QNED80|IMG|reference_needs_verification
+405|draft|BHC-LG-75QNED80|ال‌جی|تلویزیون ال‌جی مدل 75QNED80|IMG|reference_needs_verification
+406|draft|BHC-LG-OLED55C4|ال‌جی|تلویزیون ال‌جی مدل OLED55C4|IMG|reference_needs_verification
+407|draft|BHC-LG-OLED65C4|ال‌جی|تلویزیون ال‌جی مدل OLED65C4|IMG|reference_needs_verification
+408|draft|BHC-LG-OLED77C4|ال‌جی|تلویزیون ال‌جی مدل OLED77C4|IMG|reference_needs_verification
+409|draft|BHC-LG-VC5420|ال‌جی|جاروبرقی ال‌جی مدل VC5420|IMG|reference_needs_verification
+410|draft|BHC-LG-VC5320|ال‌جی|جاروبرقی ال‌جی مدل VC5320|IMG|reference_needs_verification
+411|draft|BHC-LG-VC9400|ال‌جی|جاروبرقی ال‌جی مدل VC9400|IMG|reference_needs_verification
+412|draft|BHC-LG-VC3320|ال‌جی|جاروبرقی ال‌جی مدل VC3320|IMG|reference_needs_verification
+413|draft|BHC-LG-MH8265|ال‌جی|مایکروویو و پخت ال‌جی مدل MH8265|IMG|reference_needs_verification
+414|draft|BHC-LG-MS2042|ال‌جی|مایکروویو و پخت ال‌جی مدل MS2042|IMG|reference_needs_verification
+415|draft|BHC-LG-MJ3965|ال‌جی|مایکروویو و پخت ال‌جی مدل MJ3965|IMG|reference_needs_verification
+416|draft|BHC-LG-MH6535|ال‌جی|مایکروویو و پخت ال‌جی مدل MH6535|IMG|reference_needs_verification
+417|draft|BHC-BOSCH-WGA142X0|بوش|لباسشویی بوش مدل WGA142X0|IMG|reference_needs_verification
+418|draft|BHC-BOSCH-WGA242X0|بوش|لباسشویی بوش مدل WGA242X0|IMG|reference_needs_verification
+419|draft|BHC-BOSCH-WAX32M|بوش|لباسشویی بوش مدل WAX32M|IMG|reference_needs_verification
+420|draft|BHC-BOSCH-WGB256A|بوش|لباسشویی بوش مدل WGB256A|IMG|reference_needs_verification
+421|draft|BHC-BOSCH-WAN2426|بوش|لباسشویی بوش مدل WAN2426|IMG|reference_needs_verification
+422|draft|BHC-BOSCH-WAW325|بوش|لباسشویی بوش مدل WAW325|IMG|reference_needs_verification
+423|draft|BHC-BOSCH-SMS46|بوش|ظرفشویی بوش مدل SMS46|IMG|reference_needs_verification
+424|draft|BHC-BOSCH-SMS4H|بوش|ظرفشویی بوش مدل SMS4H|IMG|reference_needs_verification
+425|draft|BHC-BOSCH-SMS6Z|بوش|ظرفشویی بوش مدل SMS6Z|IMG|reference_needs_verification
+426|draft|BHC-BOSCH-SMV4H|بوش|ظرفشویی بوش مدل SMV4H|IMG|reference_needs_verification
+427|draft|BHC-BOSCH-SMV6Z|بوش|ظرفشویی بوش مدل SMV6Z|IMG|reference_needs_verification
+428|draft|BHC-BOSCH-SMD6Z|بوش|ظرفشویی بوش مدل SMD6Z|IMG|reference_needs_verification
+429|draft|BHC-BOSCH-SPV2X|بوش|ظرفشویی بوش مدل SPV2X|IMG|reference_needs_verification
+430|draft|BHC-BOSCH-SPS4H|بوش|ظرفشویی بوش مدل SPS4H|IMG|reference_needs_verification
+431|draft|BHC-BOSCH-KDN56|بوش|یخچال و فریزر بوش مدل KDN56|IMG|reference_needs_verification
+432|draft|BHC-BOSCH-KAD93|بوش|یخچال و فریزر بوش مدل KAD93|IMG|reference_needs_verification
+433|draft|BHC-BOSCH-KAD62|بوش|یخچال و فریزر بوش مدل KAD62|IMG|reference_needs_verification
+434|draft|BHC-BOSCH-KGN56|بوش|یخچال و فریزر بوش مدل KGN56|IMG|reference_needs_verification
+435|draft|BHC-BOSCH-KGV36|بوش|یخچال و فریزر بوش مدل KGV36|IMG|reference_needs_verification
+436|draft|BHC-BOSCH-KSV36|بوش|یخچال و فریزر بوش مدل KSV36|IMG|reference_needs_verification
+437|draft|BHC-BOSCH-KAD80|بوش|یخچال و فریزر بوش مدل KAD80|IMG|reference_needs_verification
+438|draft|BHC-BOSCH-KAN60|بوش|یخچال و فریزر بوش مدل KAN60|IMG|reference_needs_verification
+439|draft|BHC-BOSCH-BGLS4|بوش|جاروبرقی بوش مدل BGLS4|IMG|reference_needs_verification
+440|draft|BHC-BOSCH-BGS7|بوش|جاروبرقی بوش مدل BGS7|IMG|reference_needs_verification
+441|draft|BHC-BOSCH-BGL8|بوش|جاروبرقی بوش مدل BGL8|IMG|reference_needs_verification
+442|draft|BHC-BOSCH-BGL6|بوش|جاروبرقی بوش مدل BGL6|IMG|reference_needs_verification
+443|draft|BHC-BOSCH-BGC05|بوش|جاروبرقی بوش مدل BGC05|IMG|reference_needs_verification
+444|draft|BHC-BOSCH-BGS21|بوش|جاروبرقی بوش مدل BGS21|IMG|reference_needs_verification
+445|draft|BHC-BOSCH-BGLS2|بوش|جاروبرقی بوش مدل BGLS2|IMG|reference_needs_verification
+446|draft|BHC-BOSCH-BGS41|بوش|جاروبرقی بوش مدل BGS41|IMG|reference_needs_verification
+447|draft|BHC-BOSCH-TIS301|بوش|قهوه و نوشیدنی بوش مدل TIS301|IMG|reference_needs_verification
+448|draft|BHC-BOSCH-TIS303|بوش|قهوه و نوشیدنی بوش مدل TIS303|IMG|reference_needs_verification
+449|draft|BHC-BOSCH-CTL636|بوش|قهوه و نوشیدنی بوش مدل CTL636|IMG|reference_needs_verification
+450|draft|BHC-BOSCH-TIE201|بوش|قهوه و نوشیدنی بوش مدل TIE201|IMG|reference_needs_verification
+451|draft|BHC-BOSCH-TIS857|بوش|قهوه و نوشیدنی بوش مدل TIS857|IMG|reference_needs_verification
+452|draft|BHC-BOSCH-TAS140|بوش|قهوه و نوشیدنی بوش مدل TAS140|IMG|reference_needs_verification
+453|draft|BHC-BOSCH-BFL523|بوش|مایکروویو و پخت بوش مدل BFL523|IMG|reference_needs_verification
+454|draft|BHC-BOSCH-BFL634|بوش|مایکروویو و پخت بوش مدل BFL634|IMG|reference_needs_verification
+455|draft|BHC-BOSCH-HMT72|بوش|مایکروویو و پخت بوش مدل HMT72|IMG|reference_needs_verification
+456|draft|BHC-BOSCH-CMA583|بوش|مایکروویو و پخت بوش مدل CMA583|IMG|reference_needs_verification
+457|publish|BHC-SONY-KD-43X80L|سونی|تلویزیون سونی BRAVIA مدل KD-43X80L سایز ۴۳ اینچ|IMG|reference_verified
+458|draft|BHC-SONY-KD-50X80L|سونی|تلویزیون سونی مدل KD-50X80L|IMG|reference_needs_verification
+459|publish|BHC-SONY-KD-55X80L|سونی|تلویزیون سونی مدل KD-55X80L سایز ۵۵ اینچ|IMG|reference_verified
+460|publish|BHC-SONY-KD-65X80L|سونی|تلویزیون سونی BRAVIA مدل KD-65X80L سایز ۶۵ اینچ|IMG|reference_verified
+461|publish|BHC-SONY-KD-75X80L|سونی|تلویزیون سونی BRAVIA مدل KD-75X80L سایز ۷۵ اینچ|IMG|reference_verified
+462|publish|BHC-SONY-XR-55X90L|سونی|تلویزیون سونی BRAVIA XR مدل XR-55X90L سایز ۵۵ اینچ|IMG|reference_verified
+463|publish|BHC-SONY-XR-65X90L|سونی|تلویزیون سونی مدل XR-65X90L سایز ۶۵ اینچ|IMG|reference_verified
+464|publish|BHC-SONY-XR-75X90L|سونی|تلویزیون سونی مدل XR-75X90L|IMG|reference_verified
+465|draft|BHC-SONY-XR-85X90L|سونی|تلویزیون سونی BRAVIA XR مدل XR-85X90L سایز ۸۵ اینچ|IMG|reference_verified
+466|publish|BHC-SONY-XR-55A80L|سونی|تلویزیون OLED سونی BRAVIA XR مدل XR-55A80L سایز ۵۵ اینچ|IMG|reference_verified
+467|publish|BHC-SONY-XR-65A80L|سونی|تلویزیون OLED سونی BRAVIA XR مدل XR-65A80L سایز ۶۵ اینچ|IMG|reference_verified
+468|publish|BHC-SONY-XR-77A80L|سونی|تلویزیون سونی مدل XR-77A80L سایز ۷۷ اینچ|IMG|reference_verified
+469|draft|BHC-SONY-K-43S30|سونی|تلویزیون سونی BRAVIA 3 مدل K-43S30 سایز ۴۳ اینچ|IMG|reference_verified
+470|draft|BHC-SONY-K-55S30|سونی|تلویزیون سونی BRAVIA 3 مدل K-55S30 سایز ۵۵ اینچ|IMG|reference_verified
+471|publish|BHC-SONY-K-65S30|سونی|تلویزیون سونی مدل K-65S30|IMG|reference_verified
+472|draft|BHC-SONY-K-75S30|سونی|تلویزیون سونی BRAVIA 3 مدل K-75S30 سایز ۷۵ اینچ|IMG|reference_verified
+473|draft|BHC-SONY-X-43S30|سونی|تلویزیون سونی مدل K-43S30 سایز ۴۳ اینچ|IMG|reference_verified
+474|draft|BHC-SONY-X-55S30|سونی|تلویزیون سونی مدل X-55S30|IMG|reference_needs_verification
+475|draft|BHC-SONY-X-65S30|سونی|تلویزیون سونی مدل X-65S30|IMG|reference_needs_verification
+476|draft|BHC-SONY-X-75S30|سونی|تلویزیون سونی مدل X-75S30|IMG|reference_needs_verification
+477|draft|BHC-SONY-X-85S30|سونی|تلویزیون سونی مدل X-85S30|IMG|reference_needs_verification
+478|draft|BHC-SONY-X-98S30|سونی|تلویزیون سونی مدل X-98S30|IMG|reference_needs_verification
+479|publish|BHC-SONY-KD-43X75K|سونی|تلویزیون سونی مدل KD-43X75K سایز ۴۳ اینچ|IMG|reference_verified
+480|publish|BHC-SONY-KD-55X75K|سونی|تلویزیون سونی مدل KD-55X75K|IMG|reference_verified
+481|publish|BHC-SONY-KD-65X75K|سونی|تلویزیون سونی مدل KD-65X75K|IMG|reference_verified
+482|draft|BHC-SONY-KD-75X75K|سونی|تلویزیون سونی مدل KD-75X75K|IMG|needs_model_confirmation
+483|publish|BHC-SONY-KD-85X85K|سونی|تلویزیون سونی مدل KD-85X85K|IMG|reference_verified
+484|publish|BHC-SONY-XR-55X93L|سونی|تلویزیون سونی مدل XR-55X93L|IMG|reference_verified
+485|draft|BHC-SONY-HT-S20R|سونی|سیستم صوتی سونی مدل HT-S20R توان ۴۰۰ وات|IMG|reference_verified
+486|draft|BHC-SONY-HT-S40R|سونی|سیستم صوتی سونی مدل HT-S40R توان ۶۰۰ وات|IMG|reference_verified
+487|draft|BHC-SONY-HT-A3000|سونی|ساندبار سونی مدل HT-A3000 توان ۲۵۰ وات|IMG|reference_verified
+488|draft|BHC-SONY-HT-A5000|سونی|ساندبار سونی مدل HT-A5000 توان ۴۵۰ وات|IMG|reference_verified
+489|publish|BHC-SONY-HT-A7000|سونی|ساندبار سونی مدل HT-A7000 توان ۵۰۰ وات|IMG|reference_verified
+490|publish|BHC-SONY-STR-DH590|سونی|گیرنده سینمای خانگی سونی مدل STR-DH590|IMG|reference_verified
+491|publish|BHC-SONY-STR-DH790|سونی|گیرنده سینمای خانگی سونی مدل STR-DH790|IMG|reference_verified
+492|publish|BHC-SONY-BDV-E4100|سونی|سیستم سینمای خانگی سونی مدل BDV-E4100 توان ۱۰۰۰ وات|IMG|reference_verified
+493|publish|BHC-SONY-BDV-N9200|سونی|سیستم صوتی و تصویری سونی مدل BDV-N9200|IMG|reference_verified
+494|publish|BHC-SONY-SA-D40|سونی|بلندگوهای سینمای خانگی سونی مدل SA-D40|IMG|reference_verified
+495|publish|BHC-EMERSUN-TFH17|امرسان|یخچال و فریزر امرسان مدل TFH17|IMG|reference_verified
+496|draft|BHC-EMERSUN-TFH18|امرسان|یخچال و فریزر امرسان مدل TFH18|IMG|reference_needs_verification
+497|draft|BHC-EMERSUN-TFH20|امرسان|یخچال و فریزر امرسان مدل TFH20|IMG|reference_needs_verification
+498|draft|BHC-EMERSUN-TFH21|امرسان|یخچال و فریزر امرسان مدل TFH21|IMG|reference_needs_verification
+499|draft|BHC-EMERSUN-BFR22|امرسان|یخچال و فریزر امرسان مدل BFR22|IMG|reference_needs_verification
+500|draft|BHC-EMERSUN-BFR24|امرسان|یخچال و فریزر امرسان مدل BFR24|IMG|reference_needs_verification
+501|draft|BHC-EMERSUN-BFR28|امرسان|یخچال و فریزر امرسان مدل BFR28|IMG|reference_needs_verification
+502|draft|BHC-EMERSUN-BFR30|امرسان|یخچال و فریزر امرسان مدل BFR30|IMG|reference_needs_verification
+503|draft|BHC-EMERSUN-BFR32|امرسان|یخچال و فریزر امرسان مدل BFR32|IMG|reference_needs_verification
+504|draft|BHC-EMERSUN-BFR34|امرسان|یخچال و فریزر امرسان مدل BFR34|IMG|reference_needs_verification
+505|draft|BHC-EMERSUN-BFR36|امرسان|یخچال و فریزر امرسان مدل BFR36|IMG|reference_needs_verification
+506|draft|BHC-EMERSUN-BFR38|امرسان|یخچال و فریزر امرسان مدل BFR38|IMG|reference_needs_verification
+507|draft|BHC-EMERSUN-BFR40|امرسان|یخچال و فریزر امرسان مدل BFR40|IMG|reference_needs_verification
+508|draft|BHC-EMERSUN-BFR42|امرسان|یخچال و فریزر امرسان مدل BFR42|IMG|reference_needs_verification
+509|draft|BHC-EMERSUN-BFR44|امرسان|یخچال و فریزر امرسان مدل BFR44|IMG|reference_needs_verification
+510|draft|BHC-EMERSUN-BFR46|امرسان|یخچال و فریزر امرسان مدل BFR46|IMG|reference_needs_verification
+511|draft|BHC-EMERSUN-SBS27|امرسان|یخچال و فریزر امرسان مدل SBS27|IMG|reference_needs_verification
+512|draft|BHC-EMERSUN-SBS30|امرسان|یخچال و فریزر امرسان مدل SBS30|IMG|reference_needs_verification
+513|publish|BHC-EMERSUN-SBS32|امرسان|یخچال و فریزر امرسان مدل SBS32|IMG|reference_verified
+514|draft|BHC-EMERSUN-SBS35|امرسان|یخچال و فریزر امرسان مدل SBS35|IMG|reference_needs_verification
+515|draft|BHC-EMERSUN-LED-43|امرسان|تلویزیون امرسان مدل LED-43|IMG|reference_needs_verification
+516|draft|BHC-EMERSUN-LED-50|امرسان|تلویزیون امرسان مدل LED-50|IMG|reference_needs_verification
+517|draft|BHC-EMERSUN-LED-55|امرسان|تلویزیون امرسان مدل LED-55|IMG|reference_needs_verification
+518|draft|BHC-EMERSUN-LED-65|امرسان|تلویزیون امرسان مدل LED-65|IMG|reference_needs_verification
+519|draft|BHC-EMERSUN-LED-75|امرسان|تلویزیون امرسان مدل LED-75|IMG|reference_needs_verification
+520|draft|BHC-EMERSUN-UN-43|امرسان|تلویزیون امرسان مدل UN-43|IMG|reference_needs_verification
+521|draft|BHC-EMERSUN-UN-50|امرسان|تلویزیون امرسان مدل UN-50|IMG|reference_needs_verification
+522|draft|BHC-EMERSUN-UN-55|امرسان|تلویزیون امرسان مدل UN-55|IMG|reference_needs_verification
+523|draft|BHC-EMERSUN-UN-65|امرسان|تلویزیون امرسان مدل UN-65|IMG|reference_needs_verification
+524|draft|BHC-EMERSUN-UN-75|امرسان|تلویزیون امرسان مدل UN-75|IMG|reference_needs_verification
+525|draft|BHC-EMERSUN-EF4|امرسان|اجاق و فر امرسان مدل EF4|IMG|reference_needs_verification
+526|draft|BHC-EMERSUN-EF5|امرسان|اجاق و فر امرسان مدل EF5|IMG|reference_needs_verification
+527|draft|BHC-EMERSUN-EF6|امرسان|اجاق و فر امرسان مدل EF6|IMG|reference_needs_verification
+528|draft|BHC-EMERSUN-EF7|امرسان|اجاق و فر امرسان مدل EF7|IMG|reference_needs_verification
+529|draft|BHC-EMERSUN-EF8|امرسان|اجاق و فر امرسان مدل EF8|IMG|reference_needs_verification
+530|draft|BHC-EMERSUN-EF9|امرسان|اجاق و فر امرسان مدل EF9|IMG|reference_needs_verification
+531|draft|BHC-EMERSUN-EF10|امرسان|اجاق و فر امرسان مدل EF10|IMG|reference_needs_verification
+532|draft|BHC-EMERSUN-EF11|امرسان|اجاق و فر امرسان مدل EF11|IMG|reference_needs_verification
+533|draft|BHC-EMERSUN-EF12|امرسان|اجاق و فر امرسان مدل EF12|IMG|reference_needs_verification
+534|draft|BHC-EMERSUN-EF13|امرسان|اجاق و فر امرسان مدل EF13|IMG|reference_needs_verification
+955|publish|SNOWA-SSD-50LS500U|اسنوا|تلویزیون هوشمند اسنوا مدل SSD-50LS500U سایز ۵۰ اینچ|IMG|reference_verified
+957|publish|PAKSHOMA-I8W|پاکشوما|ماشین لباسشویی پاکشوما مدل i8 W ظرفیت ۸ کیلوگرم|IMG|reference_verified
+958|publish|PAKSHOMA-L7W|پاکشوما|ماشین لباسشویی پاکشوما مدل L7 W ظرفیت ۷ کیلوگرم|IMG|reference_verified
+959|publish|SNOWA-SSD-55LSQ700U|اسنوا|تلویزیون اسنوا مدل SSD-55LSQ700U سایز ۵۵ اینچ|IMG|reference_verified
+960|publish|SNOWA-SSD-75LS600U|اسنوا|تلویزیون هوشمند اسنوا مدل SSD-75LS600U سایز ۷۵ اینچ|IMG|reference_verified
+961|publish|SNOWA-SBDI-L300-SW|اسنوا|یخچال و فریزر اسنوا مدل SBDI-L300-SW ظرفیت ۴۹۷ لیتر|IMG|reference_verified
+962|publish|SNOWA-SEO7-8323|اسنوا|فر توکار برقی اسنوا مدل SEO7-8323 ظرفیت ۷۲ لیتر|IMG|reference_verified
+963|publish|SNOWA-SWM-B80W|اسنوا|ماشین لباسشویی اسنوا مدل SWM-B80W سری آوان ظرفیت ۸ کیلوگرم|IMG|reference_verified
+964|publish|SNOWA-SWM-F92W|اسنوا|ماشین لباسشویی اسنوا مدل SWM-F92W سری هوم ظرفیت ۹ کیلوگرم|IMG|reference_verified
+965|publish|SNOWA-SDW-A12W|اسنوا|ماشین ظرفشویی اسنوا مدل SDW-A12W سری آوان ظرفیت ۱۳ نفره|IMG|reference_verified
+966|publish|SNOWA-SDW-A20W|اسنوا|ماشین ظرفشویی اسنوا مدل SDW-A20W سری هوم ظرفیت ۱۴ نفره|IMG|reference_verified
+967|publish|SNOWA-SDW-A10W|اسنوا|ماشین ظرفشویی اسنوا مدل SDW-A10W سری بوم ظرفیت ۱۳ نفره|IMG|reference_verified
+968|publish|SNOWA-SBDI-S100SW|اسنوا|یخچال فریزر اسنوا مدل SBDI-S100SW ظرفیت ۳۶۷ لیتر|IMG|reference_verified
+969|publish|SNOWA-SFDI-M210GW|اسنوا|فریزر تک‌درب اسنوا مدل SFDI-M210GW سری بوم ظرفیت ۲۲۷ لیتر|IMG|reference_verified
+970|publish|SNOWA-S1DI-M200|اسنوا|یخچال سایدبای‌ساید اسنوا مدل S1DI-M200 ظرفیت ۶۳۰ لیتر|IMG|reference_verified
+971|publish|SNOWA-S2DI-S110-W|اسنوا|یخچال ساید بای ساید اسنوا مدل S2DI-S110-W سری بوم ظرفیت ۵۲۰ لیتر|IMG|reference_verified
+972|publish|SNOWA-S3DI-L300-W|اسنوا|یخچال ساید بای ساید اسنوا مدل S3DI-L300-W سری هوم ظرفیت ۷۱۹ لیتر|IMG|reference_verified
+973|publish|PAKSHOMA-S9W|پاکشوما|ماشین لباسشویی پاکشوما مدل S9W سری S ظرفیت ۹ کیلوگرم|IMG|reference_verified
+974|draft|PAKSHOMA-Q9W|پاکشوما|ماشین لباسشویی پاکشوما ۹ کیلوگرم سری Q مدل Q9 W|IMG|duplicate_candidate
+975|publish|PAKSHOMA-X106W|پاکشوما|ماشین لباسشویی و خشک‌کن پاکشوما مدل X106W سری X ظرفیت ۱۰/۶ کیلوگرم|IMG|reference_verified
+976|publish|PAKSHOMA-E53W|پاکشوما|ماشین ظرفشویی پاکشوما سری Eternal مدل E53W ظرفیت ۱۵ نفره|IMG|reference_verified
+977|publish|PAKSHOMA-DUSTIN-2500|پاکشوما|جاروبرقی پاکشوما مدل Dustin توان ۲۵۰۰ وات|IMG|reference_verified
+978|publish|PAKSHOMA-AMB-24000|پاکشوما|کولرگازی پاکشوما مدل Ambience ظرفیت ۲۴۰۰۰، سرد و گرم|IMG|reference_verified
+979|publish|PAKSHOMA-CUBE-24000|پاکشوما|کولرگازی پاکشوما مدل Cube ظرفیت ۲۴۰۰۰، سرمایشی|IMG|reference_verified
+980|publish|PAKSHOMA-MPK-400|پاکشوما|تصفیه هوا پاکشوما مدل MPK-400 سری Giga|IMG|reference_verified
+981|publish|PAKSHOMA-BREEZE-30000|پاکشوما|کولرگازی پاکشوما مدل Breeze ظرفیت ۳۰۰۰۰، سرد و گرم|IMG|reference_verified
+982|publish|LG-F4J3VYG6J|ال‌جی|ماشین لباسشویی ال‌جی مدل F4J3VYG6J ظرفیت ۹ کیلوگرم|IMG|reference_verified
+983|publish|LG-55UA85006LA|ال‌جی|تلویزیون ال‌جی مدل 55UA85006LA سایز ۵۵ اینچ|IMG|reference_verified
+984|publish|SAMSUNG-WW90M64FOPO|سامسونگ|ماشین لباسشویی سامسونگ مدل WW90M64FOPO/GU ظرفیت ۹ کیلوگرم|IMG|reference_verified
+985|publish|SAMSUNG-BESPOKE-JET-AI-GREIGE|سامسونگ|جاروبرقی شارژی سامسونگ Bespoke AI مدل VS90F40DFG/SG رنگ Satin Greige|IMG|reference_verified
+986|publish|SONY-K55XR50|سونی|تلویزیون سونی مدل K-55XR50 سری BRAVIA 5 سایز ۵۵ اینچ|IMG|reference_verified
+987|publish|SONY-HT-S400|سونی|ساندبار سونی مدل HT-S400 توان ۳۳۰ وات|IMG|reference_verified
+988|publish|BOSCH-WAN28283GC|بوش|ماشین لباسشویی بوش مدل WAN28283GC سری 4 ظرفیت ۸ کیلوگرم|IMG|reference_verified
+989|publish|BOSCH-SMS26AI00M|بوش|ماشین ظرفشویی بوش مدل SMS26AI00M سری 2 عرض ۶۰ سانتی‌متر|IMG|reference_verified
+990|publish|BOSCH-BCS612GB|بوش|جاروبرقی شارژی بوش مدل BCS612GB سری Unlimited 6 رنگ سفید|IMG|reference_verified
+991|publish|BOSCH-WGA1440XGC|بوش|ماشین لباسشویی بوش مدل WGA1440XGC سری 4 ظرفیت ۹ کیلوگرم|IMG|reference_verified
+992|publish|BOSCH-SMS26AW00M|بوش|ماشین ظرفشویی بوش مدل SMS26AW00M سری 2 سفید عرض ۶۰ سانتی‌متر|IMG|reference_verified
+993|publish|BOSCH-BBS611GB|بوش|جاروبرقی شارژی بوش مدل BBS611GB سری Unlimited 6 رنگ آبی|IMG|reference_verified
+994|publish|SAMSUNG-WW90T554DAN|سامسونگ|ماشین لباسشویی سامسونگ مدل WW90T554DAN ظرفیت ۹ کیلوگرم|IMG|reference_verified
+995|publish|SAMSUNG-QA55Q60DAU|سامسونگ|تلویزیون سامسونگ مدل QA55Q60DAU سری Q60D سایز ۵۵ اینچ|IMG|reference_verified
+996|publish|SAMSUNG-VS20C852FTB|سامسونگ|جاروبرقی شارژی سامسونگ مدل VS20C852FTB/GE Jet 85|IMG|reference_verified
+997|publish|LG-F4V5RYP2T|ال‌جی|ماشین لباسشویی ال‌جی مدل F4V5RYP2T ظرفیت ۱۰٫۵ کیلوگرم|IMG|reference_verified
+998|publish|LG-A9K-CORE2|ال‌جی|جاروبرقی شارژی ال‌جی مدل CordZero A9K-CORE2|IMG|reference_verified
+999|publish|LG-55QNED86T6A|ال‌جی|تلویزیون ال‌جی مدل 55QNED86T6A سری QNED86 سایز ۵۵ اینچ|IMG|reference_verified
+1000|publish|LG-OLED55B46LA|ال‌جی|تلویزیون OLED ال‌جی مدل OLED55B46LA سری B4 سایز ۵۵ اینچ|IMG|reference_verified
+1001|publish|SONY-HT-S2000|سونی|ساندبار سونی مدل HT-S2000 توان ۲۵۰ وات|IMG|reference_verified
+1002|publish|BOSCH-WAN28282GC|بوش|ماشین لباسشویی بوش مدل WAN28282GC سری 4 ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1003|publish|BOSCH-BCS712GB|بوش|جاروبرقی شارژی بوش مدل BCS712GB سری Unlimited 7 رنگ سفید|IMG|reference_verified
+1004|publish|BOSCH-BSC711GB|بوش|جاروبرقی شارژی بوش مدل BCS711GB سری Unlimited 7 رنگ گرافیتی|IMG|reference_verified
+1005|publish|SNOWA-SSD-50SK14000UM|اسنوا|تلویزیون اسنوا مدل SSD-50LS500U سایز ۵۰ اینچ|IMG|reference_verified
+1006|publish|SNOWA-SSD-43SK14300M|اسنوا|تلویزیون هوشمند اسنوا مدل SSD-43SK14300M سایز ۴۳ اینچ|IMG|reference_verified
+1007|publish|SNOWA-SLD-43SA1260|اسنوا|تلویزیون Full HD اسنوا مدل SLD-43SA1260 سایز ۴۳ اینچ|IMG|reference_verified
+1008|publish|PAKSHOMA-S8W|پاکشوما|ماشین لباسشویی پاکشوما مدل S8 W سری S ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1009|publish|PAKSHOMA-LUCID-15|پاکشوما|ماشین ظرفشویی پاکشوما سری Lucid ظرفیت ۱۵ نفره|IMG|reference_verified
+1010|publish|SNOWA-SN4-2026SS|اسنوا|یخچال‌فریزر پایین پرفکت اسنوا مدل SN4-2026SS|IMG|reference_verified
+1011|publish|SNOWA-SN8-3323GW|اسنوا|یخچال‌فریزر سایدبای‌ساید گالری اسنوا مدل SN8-3323GW|IMG|reference_verified
+1012|publish|SNOWA-SN8-2261SS|اسنوا|یخچال‌فریزر سایدبای‌ساید اسنوا مدل SN8-2261SS سری هارمونی|IMG|reference_verified
+1013|publish|SNOWA-S1DI-L310|اسنوا|یخچال و فریزر سایدبای‌ساید اسنوا مدل S1Di-L310 ظرفیت ۶۳۰ لیتر|IMG|reference_verified
+1014|publish|SAMSUNG-WA80F10S5B-GU|سامسونگ|ماشین لباسشویی درب از بالا سامسونگ مدل WA80F10S5BGU ظرفیت ۱۰ کیلوگرم|IMG|reference_verified
+1015|publish|SAMSUNG-WA10CG5745BVGU|سامسونگ|ماشین لباسشویی درب از بالا سامسونگ مدل WA10CG5745BVGU ظرفیت ۱۰ کیلوگرم|IMG|reference_verified
+1016|publish|SAMSUNG-WW11CB944DGBGM|سامسونگ|ماشین لباسشویی درب از جلو سامسونگ مدل WW11CB944DGBGM ظرفیت ۱۱ کیلوگرم|IMG|reference_verified
+1017|publish|LG-F2Y1TYP6JP|ال‌جی|ماشین لباسشویی ال‌جی مدل F2Y1TYP6JP ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1018|publish|LG-F4Y5EYGYPV|ال‌جی|ماشین لباسشویی ال‌جی مدل F4Y5EYGYPV ظرفیت ۱۱ کیلوگرم|IMG|reference_verified
+1019|publish|LG-A9T-LITE|ال‌جی|جارو شارژی ال‌جی CordZero مدل A9T-LITE|IMG|reference_verified
+1020|publish|LG-50UA8450PSA|ال‌جی|تلویزیون هوشمند ال‌جی مدل 50UA8450PSA سایز ۵۰ اینچ|IMG|reference_verified
+1021|publish|LG-F2Y1VYP6J|ال‌جی|ماشین لباسشویی ال‌جی مدل F2Y1VYP6J ظرفیت ۹ کیلوگرم|IMG|reference_verified
+1022|publish|LG-F2Y1TYP3W|ال‌جی|ماشین لباسشویی ال‌جی مدل F2Y1TYP3W ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1023|publish|LG-A9N-LITE|ال‌جی|جارو شارژی ال‌جی CordZero مدل A9N-LITE|IMG|reference_verified
+1024|publish|LG-VC5420NNTR|ال‌جی|جاروبرقی بدون کیسه ال‌جی مدل VC5420NNTR توان ۲۰۰۰ وات|IMG|reference_verified
+1025|publish|SONY-K-65S20M2|سونی|تلویزیون سونی BRAVIA 2 II مدل K-65S20M2 سایز ۶۵ اینچ|IMG|reference_verified
+1026|publish|SONY-K-65XR80M2|سونی|تلویزیون OLED سونی BRAVIA 8 II مدل K-65XR80M2 سایز ۶۵ اینچ|IMG|reference_verified
+1027|publish|SONY-WH-1000XM6|سونی|هدفون بی‌سیم نویزکنسلینگ سونی مدل WH-1000XM6|IMG|reference_verified
+1028|publish|SONY-HT-S40R|سونی|سیستم سینمای خانگی سونی مدل HT-S40R توان ۶۰۰ وات|IMG|reference_verified
+1029|publish|SONY-K-55XR70|سونی|تلویزیون سونی BRAVIA 7 مدل K-55XR70 سایز ۵۵ اینچ|IMG|reference_verified
+1030|publish|SONY-WF-1000XM5|سونی|ایرباد بی‌سیم نویزکنسلینگ سونی مدل WF-1000XM5|IMG|reference_verified
+1031|publish|SONY-SRS-ULT70|سونی|اسپیکر بلوتوثی قابل‌حمل سونی مدل ULT FIELD 7|IMG|reference_verified
+1032|publish|SONY-HT-A5000|سونی|ساندبار سونی مدل HT-A5000 توان ۴۵۰ وات|IMG|reference_verified
+1033|publish|SAMSUNG-QA65S90FAEXZN|سامسونگ|تلویزیون OLED سامسونگ مدل QA65S90FAEXZN سری S90F سایز ۶۵ اینچ|IMG|reference_verified
+1034|publish|SAMSUNG-QA65QN90FAUXZN|سامسونگ|تلویزیون Neo QLED سامسونگ مدل QA65QN90FAUXZN سری QN90F سایز ۶۵ اینچ|IMG|reference_verified
+1035|publish|SAMSUNG-DV90F17CDSGU|سامسونگ|خشک‌کن لباس سامسونگ Bespoke AI مدل DV90F17CDSGU ظرفیت ۱۷ کیلوگرم|IMG|reference_verified
+1048|publish|LG-OLED77B46LA|ال‌جی|تلویزیون OLED ال‌جی مدل OLED77B46LA سری B4 سایز ۷۷ اینچ|IMG|reference_verified
+1049|publish|LG-OLED65G46LA|ال‌جی|تلویزیون OLED ال‌جی مدل OLED65G46LA سری G4 سایز ۶۵ اینچ|IMG|reference_verified
+1050|publish|LG-86QNED86T6A|ال‌جی|تلویزیون QNED ال‌جی مدل 86QNED86T6A سایز ۸۶ اینچ|IMG|reference_verified
+1075|publish|SNOWA-SWM-82236|اسنوا|ماشین لباسشویی اسنوا هارمونی مدل SWM-82236 ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1088|publish|BOSCH-BFL523MS0B|بوش|مایکروویو توکار بوش مدل BFL523MS0B سری ۴|IMG|reference_verified
+1089|publish|BOSCH-KAD93AIEP|بوش|یخچال فریزر ساید بای ساید بوش مدل KAD93AIEP|IMG|reference_verified
+1090|publish|BOSCH-SMS46GI01E|بوش|ماشین ظرفشویی بوش مدل SMS46GI01E سری ۴|IMG|reference_verified
+1094|publish|LG-OLED55C46LA|ال‌جی|تلویزیون OLED ال‌جی مدل OLED55C46LA سری C4 سایز ۵۵ اینچ|IMG|reference_verified
+1095|publish|LG-OLED65C46LA|ال‌جی|تلویزیون OLED ال‌جی مدل OLED65C46LA سری C4 سایز ۶۵ اینچ|IMG|reference_verified
+1096|publish|LG-OLED77C46LA|ال‌جی|تلویزیون OLED ال‌جی مدل OLED77C46LA سری C4 سایز ۷۷ اینچ|IMG|reference_verified
+1100|publish|LG-OLED77B56LA|ال‌جی|تلویزیون OLED ال‌جی مدل OLED77B56LA سری B5 سایز ۷۷ اینچ|IMG|reference_verified
+1101|publish|LG-OLED77G46LA|ال‌جی|تلویزیون OLED ال‌جی مدل OLED77G46LA سری G4 سایز ۷۷ اینچ|IMG|reference_verified
+1116|publish|LG-OLED65CS5VA|ال‌جی|تلویزیون OLED ال‌جی مدل OLED65CS5VA سری CS5 سایز ۶۵ اینچ|IMG|reference_verified
+1117|publish|LG-OLED77C5PSA|ال‌جی|تلویزیون OLED ال‌جی مدل OLED77C5PSA سری C5 سایز ۷۷ اینچ|IMG|reference_verified
+1118|publish|LG-75QNED82ASA|ال‌جی|تلویزیون QNED ال‌جی مدل 75QNED82ASA سری QNED82 سایز ۷۵ اینچ|IMG|reference_verified
+1122|publish|LG-OLED65C66LA|ال‌جی|تلویزیون OLED ال‌جی مدل OLED65C66LA سری C6 سایز ۶۵ اینچ|IMG|reference_verified
+1124|publish|SAMSUNG-QA55QN90FAUXZN|سامسونگ|تلویزیون Neo QLED سامسونگ مدل QA55QN90FAUXZN سری QN90F سایز ۵۵ اینچ|IMG|reference_verified
+1125|publish|SAMSUNG-QA75QN90FAUXZN|سامسونگ|تلویزیون Neo QLED سامسونگ مدل QA75QN90FAUXZN سری QN90F سایز ۷۵ اینچ|IMG|reference_verified
+1126|publish|SAMSUNG-QA85QN85FAUXZN|سامسونگ|تلویزیون Neo QLED سامسونگ مدل QA85QN85FAUXZN سری QN85F سایز ۸۵ اینچ|IMG|reference_verified
+1130|publish|SAMSUNG-QA55QN85FAUXZN|سامسونگ|تلویزیون Neo QLED سامسونگ مدل QA55QN85FAUXZN سری QN85F سایز ۵۵ اینچ|IMG|reference_verified
+1131|publish|SAMSUNG-QA65QN85FAUXZN|سامسونگ|تلویزیون Neo QLED سامسونگ مدل QA65QN85FAUXZN سری QN85F سایز ۶۵ اینچ|IMG|reference_verified
+1132|publish|SAMSUNG-QA75QN85FAUXZN|سامسونگ|تلویزیون Neo QLED سامسونگ مدل QA75QN85FAUXZN سری QN85F سایز ۷۵ اینچ|IMG|reference_verified
+1136|publish|SAMSUNG-QA55S90FAUXZN|سامسونگ|تلویزیون OLED سامسونگ مدل QA55S90FAUXZN سری S90F سایز ۵۵ اینچ|IMG|reference_verified
+1137|publish|SAMSUNG-QA77S90FAEXZN|سامسونگ|تلویزیون OLED سامسونگ مدل QA77S90FAEXZN سری S90F سایز ۷۷ اینچ|IMG|reference_verified
+1140|publish|SAMSUNG-QA75Q7FAAUXZN|سامسونگ|تلویزیون QLED سامسونگ مدل QA75Q7FAAUXZN سری Q7F سایز ۷۵ اینچ|IMG|reference_verified
+1141|publish|SAMSUNG-QA85Q7FAAUXZN|سامسونگ|تلویزیون QLED سامسونگ مدل QA85Q7FAAUXZN سری Q7F سایز ۸۵ اینچ|IMG|reference_verified
+1142|publish|SAMSUNG-QA98Q7FAAUXZN|سامسونگ|تلویزیون QLED سامسونگ مدل QA98Q7FAAUXZN سری Q7F سایز ۹۸ اینچ|IMG|reference_verified
+1146|draft|LG-T1388NEHV2|ال‌جی|ماشین لباسشویی درب از بالا ال‌جی مدل T1388NEHV2 ظرفیت ۱۳ کیلوگرم|IMG|reference_needs_verification
+1147|publish|LG-F2Y1HYP6J|ال‌جی|ماشین لباسشویی ال‌جی مدل F2Y1HYP6J ظرفیت ۷ کیلوگرم|IMG|reference_verified
+1148|publish|LG-A9K-SOLO|ال‌جی|جارو شارژی ال‌جی CordZero مدل A9K-SOLO|IMG|reference_verified
+1152|publish|LG-LTB852PFBQ|ال‌جی|یخچال فریزر بالاپایین ال‌جی مدل LTB852PFBQ ظرفیت ۶۱۲ لیتر|IMG|reference_verified
+1153|publish|LG-GR-V479QGKW|ال‌جی|یخچال فریزر پایین ال‌جی مدل GR-V479QGKW ظرفیت ۳۴۹ لیتر|IMG|reference_verified
+1156|publish|BOSCH-WGB264A1GB|بوش|ماشین لباسشویی بوش سری ۸ مدل WGB264A1GB ظرفیت ۱۱ کیلوگرم|IMG|reference_verified
+1157|publish|BOSCH-SMS4EMI06G|بوش|ماشین ظرفشویی بوش سری ۴ مدل SMS4EMI06G ظرفیت ۱۴ نفره|IMG|reference_verified
+1158|publish|BOSCH-WAN24200ME|بوش|ماشین لباسشویی بوش سری ۴ مدل WAN24200ME ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1162|publish|SNOWA-SNW-9050|اسنوا|ماشین لباسشویی اسنوا مدل SNW-9050 سری بوم ظرفیت ۹ کیلوگرم|IMG|reference_verified
+1163|draft|SNOWA-SNW-9050|اسنوا|ماشین لباسشویی اسنوا مدل SNW-9050 ظرفیت ۹ کیلوگرم|NOIMG|duplicate_candidate
+1167|publish|SAMSUNG-QA65Q7FAAUXZN|سامسونگ|تلویزیون QLED سامسونگ مدل QA65Q7FAAUXZN سری Q7F سایز ۶۵ اینچ|IMG|reference_verified
+1168|publish|SAMSUNG-QA65Q8FAAUXZN|سامسونگ|تلویزیون QLED سامسونگ مدل QA65Q8FAAUXZN سری Q8F سایز ۶۵ اینچ|IMG|reference_verified
+1169|publish|SAMSUNG-QA83S90FAEXZN|سامسونگ|تلویزیون OLED سامسونگ مدل QA83S90FAEXZN سری S90F سایز ۸۳ اینچ|IMG|reference_verified
+1221|publish|EMERSUN-FS08ND|امرسان|ماشین لباسشویی امرسان مدل FS08ND ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1222|publish|EMERSUN-FS10ND|امرسان|ماشین لباسشویی امرسان مدل FS10ND ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1223|publish|EMERSUN-FS11ND|امرسان|ماشین لباسشویی امرسان مدل FS11ND ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1224|publish|EMERSUN-FN15D-RH15D|امرسان|یخچال و فریزر دوقلو امرسان مدل FN15D و RH15D ظرفیت ۳۰ فوت|IMG|reference_verified
+1225|publish|EMERSUN-FN15DEL-RH15DEL|امرسان|یخچال و فریزر دوقلو امرسان الگانت مدل FN15D/EL و RH15D/EL ظرفیت ۳۰ فوت|IMG|reference_verified
+1226|draft|EMERSUN-F1060TM|امرسان|فریزر امرسان مدل F1060T/M ظرفیت ۱۰ فوت|IMG|reference_verified
+1227|publish|EMERSUN-R10CLA|امرسان|یخچال امرسان مدل R10CLA ظرفیت ۱۰ فوت|IMG|reference_verified
+1228|publish|EMERSUN-HRI1060TCLA|امرسان|یخچال و فریزر امرسان مدل HRI1060T-CLA ظرفیت ۱۰ فوت|IMG|reference_verified
+1229|publish|EMERSUN-HRI1060T|امرسان|یخچال و فریزر امرسان مدل HRI1060T ظرفیت ۱۰ فوت|IMG|reference_verified
+1230|publish|EMERSUN-CB17M|امرسان|یخچال و فریزر امرسان مدل CB17M ظرفیت ۱۷ فوت|IMG|reference_verified
+1296|publish|BHC-DAEWOO-DWK-8240|دوو|ماشین لباسشویی دوو سری ویوا مدل DWK-8240 ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1302|publish|BHC-DAEWOO-D2S-0036SS|دوو|یخچال فریزر ساید بای ساید سه‌درب دوو مدل D2S-0036SS پرایم|IMG|reference_verified
+1308|publish|BHC-DAEWOO-DLE-50K4310U|دوو|تلویزیون LED دوو مدل DLE-50K4310U سایز ۵۰ اینچ|IMG|reference_verified
+1310|publish|BHC-DAEWOO-DLE-43K4311|دوو|تلویزیون LED دوو مدل DLE-43K4311 سایز ۴۳ اینچ|IMG|reference_verified
+1312|publish|BHC-DAEWOO-DLE-55K4310U|دوو|تلویزیون LED دوو مدل DLE-55K4310U سایز ۵۵ اینچ|IMG|reference_verified
+1316|publish|BHC-SNOWA-SSD-55LS510U|اسنوا|تلویزیون هوشمند LED اسنوا مدل SSD-55LS510U سایز ۵۵ اینچ|IMG|reference_verified
+1317|publish|BHC-SNOWA-SLD-55SA1260UL|اسنوا|تلویزیون LED اسنوا مدل SLD-55SA1260UL سایز ۵۵ اینچ|IMG|reference_verified
+1320|publish|SNOWA-SSD-43SK14200M|اسنوا|تلویزیون هوشمند LED اسنوا مدل SSD-43SK14200M سایز ۴۳ اینچ|IMG|reference_verified
+1321|publish|SNOWA-SSD-43SK400G|اسنوا|تلویزیون هوشمند LED اسنوا مدل SSD-43SK400G سایز ۴۳ اینچ|IMG|reference_verified
+1325|publish|BHC-SNOWA-SWM-84508|اسنوا|ماشین لباسشویی اسنوا تیتانیوم مدل SWM-84508 ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1326|publish|BHC-SNOWA-SWM-84526|اسنوا|ماشین لباسشویی اسنوا سری Octa مدل SWM-84526 ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1327|publish|BHC-SNOWA-SWM-84527|اسنوا|ماشین لباسشویی اسنوا سری Octa مدل SWM-84527 ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1331|publish|BHC-SNOWA-SWM-72301|اسنوا|ماشین لباسشویی اسنوا مدل SWM-72301 ظرفیت ۷ کیلوگرم|IMG|reference_verified
+1332|publish|BHC-SNOWA-SWD-571S|اسنوا|ماشین لباسشویی اسنوا مدل SWD-571S ظرفیت ۷ کیلوگرم|IMG|reference_verified
+1333|publish|BHC-SNOWA-SWD-791|اسنوا|ماشین لباسشویی اسنوا مدل SWD-791 ظرفیت ۷ کیلوگرم|IMG|reference_verified
+1337|publish|BHC-SNOWA-SWM-71200|اسنوا|ماشین لباسشویی اسنوا سری Harmony مدل SWM-71200 ظرفیت ۷ کیلوگرم|IMG|reference_verified
+1338|publish|BHC-SNOWA-SWM-71201|اسنوا|ماشین لباسشویی اسنوا سری Harmony مدل SWM-71201 ظرفیت ۷ کیلوگرم|IMG|reference_verified
+1339|publish|BHC-SNOWA-SWM-71125|اسنوا|ماشین لباسشویی اسنوا سری Harmony Slim مدل SWM-71125 ظرفیت ۷ کیلوگرم|IMG|reference_verified
+1343|publish|BHC-SNOWA-SWM-82300|اسنوا|ماشین لباسشویی اسنوا سری Harmony مدل SWM-82300 ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1344|publish|BHC-SNOWA-SWM-82306|اسنوا|ماشین لباسشویی اسنوا سری Harmony مدل SWM-82306 ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1345|publish|BHC-SNOWA-SWM-82307|اسنوا|ماشین لباسشویی اسنوا سری Harmony مدل SWM-82307 ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1349|publish|BHC-SNOWA-SWM-82301|اسنوا|ماشین لباسشویی اسنوا سری Harmony مدل SWM-82301 ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1350|publish|BHC-SNOWA-SWM-82304|اسنوا|ماشین لباسشویی اسنوا سری Harmony مدل SWM-82304 ظرفیت ۸ کیلوگرم|IMG|reference_verified
+1351|publish|BHC-SNOWA-SWM-72304|اسنوا|ماشین لباسشویی اسنوا تیتانیوم مدل SWM-72304 ظرفیت ۷ کیلوگرم|IMG|reference_verified
+1355|publish|BHC-SNOWA-SWM-94536|اسنوا|ماشین لباسشویی اسنوا سری Octa Plus مدل SWM-94536 ظرفیت ۹ کیلوگرم رنگ سفید|IMG|reference_verified
+1356|publish|BHC-SNOWA-SWM-94537|اسنوا|ماشین لباسشویی اسنوا سری Octa Plus مدل SWM-94537 ظرفیت ۹ کیلوگرم رنگ نقره‌ای|IMG|reference_verified
+1359|publish|BHC-SNOWA-SWM-84616|اسنوا|ماشین لباسشویی اسنوا سری Wash in Wash مدل SWM-84616 ظرفیت ۸ کیلوگرم رنگ سفید|IMG|reference_verified
+1360|publish|BHC-SNOWA-SWM-84617|اسنوا|ماشین لباسشویی اسنوا سری Wash in Wash مدل SWM-84617 ظرفیت ۸ کیلوگرم رنگ نقره‌ای|IMG|reference_verified
+1363|draft|BHC-SNOWA-SWM-94617|اسنوا|ماشین لباسشویی اسنوا سری Wash in Wash مدل SWM-94617 ظرفیت ۹ کیلوگرم|IMG|reference_needs_verification
+1365|publish|BHC-SNOWA-SWM-94W60|اسنوا|ماشین لباسشویی اسنوا سری Wash in Wash مدل SWM-94W60 ظرفیت ۹ کیلوگرم|IMG|reference_verified
+1366|publish|BHC-SNOWA-SWM-94627|اسنوا|ماشین لباسشویی اسنوا سری Wash in Wash مدل SWM-94627 ظرفیت ۹ کیلوگرم|IMG|reference_verified
+1369|publish|BHC-SNOWA-SWM-94W61|اسنوا|ماشین لباسشویی اسنوا سری Wash in Wash مدل SWM-94W61 ظرفیت ۹ کیلوگرم|IMG|reference_verified
+1370|publish|BHC-SNOWA-SWM-94S61|اسنوا|ماشین لباسشویی اسنوا سری Wash in Wash مدل SWM-94S61 ظرفیت ۹ کیلوگرم|IMG|reference_verified
+1373|publish|BHC-PAKSHOMA-Q9-W|پاکشوما|ماشین لباسشویی پاکشوما مدل Q9 W ظرفیت ۹ کیلوگرم رنگ سفید|IMG|reference_verified
+1374|publish|BHC-PAKSHOMA-TLX-7001-W|پاکشوما|ماشین لباسشویی پاکشوما مدل TLX 7001 W ظرفیت ۷ کیلوگرم رنگ سفید|IMG|reference_verified
+1375|publish|BHC-PAKSHOMA-RCP-496-N1|پاکشوما|یخچال فریزر پایین پاکشوما مدل RCP-496 (N1) رنگ سفید|IMG|reference_verified
+1376|publish|BHC-DAEWOO-DVC-S22G|دوو|جاروبرقی دوو مدل DVC-S22G رنگ خاکستری|IMG|reference_verified
+1381|publish|BHC-PAKSHOMA-E53-W|پاکشوما|ماشین ظرفشویی پاکشوما مدل E53 W ظرفیت ۱۵ نفره|IMG|reference_verified
+1382|publish|BHC-DAEWOO-DW-160S|دوو|ماشین ظرفشویی دوو مدل DW-160S ظرفیت ۱۴ نفره رنگ استیل|IMG|reference_verified
+1383|publish|BHC-DAEWOO-BMI-10GW|دوو|یخچال فریزر دوو مدل BMI-10GW ظرفیت ۲۴ فوت رنگ سفید براق|IMG|reference_verified
+1384|publish|BHC-PAKSHOMA-PVC-5015|پاکشوما|جاروبرقی پاکشوما مدل PVC-5015 توان ۲۵۰۰ وات|IMG|reference_verified
+1389|publish|BHC-PAKSHOMA-PDA-3511S|پاکشوما|ماشین ظرفشویی پاکشوما مدل PDA-3511S ظرفیت ۱۵ نفره|IMG|reference_verified
+1390|publish|BHC-DAEWOO-D5BF-0028LW|دوو|یخچال فریزر دوو مدل D5BF-0028LW ظرفیت ۲۸ فوت|IMG|reference_verified
+1391|publish|BHC-PAKSHOMA-BWF40103I|پاکشوما|ماشین لباسشویی پاکشوما مدل BWF40103i ظرفیت ۹ کیلوگرم|IMG|reference_verified
+1392|publish|BHC-PAKSHOMA-PVC5125|پاکشوما|جاروبرقی پاکشوما مدل PVC5125 توان ۲۵۰۰ وات|IMG|reference_verified
+1397|publish|BHC-PAKSHOMA-J52-X|پاکشوما|ماشین ظرفشویی پاکشوما مدل J52 X ظرفیت ۱۵ نفره رنگ اینوکس|IMG|reference_verified
+1398|publish|BHC-PAKSHOMA-J52-W|پاکشوما|ماشین ظرفشویی پاکشوما مدل J52 W ظرفیت ۱۵ نفره رنگ سفید|IMG|reference_verified
+1399|publish|BHC-DAEWOO-DW-200W|دوو|ماشین ظرفشویی دوو مدل DW-200W ظرفیت ۱۴ نفره رنگ سفید|IMG|reference_verified
+1400|publish|BHC-DAEWOO-DW-200S|دوو|ماشین ظرفشویی دوو مدل DW-200S ظرفیت ۱۴ نفره رنگ استیل|IMG|reference_verified
+1401|publish|BHC-DAEWOO-DW-160W|دوو|ماشین ظرفشویی دوو مدل DW-160W ظرفیت ۱۴ نفره رنگ سفید|IMG|reference_verified
+1402|publish|BHC-PAKSHOMA-RTRA-RTFA901IW-N2|پاکشوما|یخچال و فریزر دوقلو پاکشوما مدل RTRA-RTFA901iW (N2) ظرفیت ۴۰ فوت|IMG|reference_verified
+1411|publish|BHC-PAKSHOMA-F54W|پاکشوما|ماشین ظرفشویی پاکشوما مدل F54W ظرفیت ۱۵ نفره|IMG|reference_verified
+1412|publish|BHC-DAEWOO-DW-15240W|دوو|ماشین ظرفشویی دوو مدل DW-15240W ظرفیت ۱۵ نفره|IMG|reference_verified
+1413|publish|BHC-DAEWOO-DDW-2562E|دوو|ماشین ظرفشویی دوو مدل DDW-2562E ظرفیت ۱۵ نفره|IMG|reference_verified
+1414|publish|BHC-SAM-DW-192-W|سام|ماشین ظرفشویی سام مدل DW-192 W ظرفیت ۱۵ نفره|IMG|reference_verified
+1415|publish|BHC-LG-DFB512FW|ال‌جی|ماشین ظرفشویی ال‌جی مدل DFB512FW ظرفیت ۱۴ نفره|IMG|reference_verified
+1416|publish|BHC-PAKSHOMA-RTRA-RTFA-900|پاکشوما|یخچال و فریزر دوقلو پاکشوما مدل RTRA-RTFA 900 سری Twin|IMG|reference_verified
+1417|publish|BHC-PAKSHOMA-RTRA-RTFA901IW-N1|پاکشوما|یخچال و فریزر دوقلو پاکشوما مدل RTRA-RTFA901iW (N1) سری Twin|IMG|reference_verified
+1426|publish|BHC-SAM-DW-186|سام|ماشین ظرفشویی سام مدل DW-186 ظرفیت ۱۵ نفره|IMG|reference_verified
+1427|publish|BHC-SNOWA-SDW-A20S|اسنوا|ماشین ظرفشویی اسنوا مدل SDW-A20S ظرفیت ۱۴ نفره|IMG|reference_verified
+1431|publish|BHC-SAM-DW192-ST|سام|ماشین ظرفشویی سام مدل DW192 ST ظرفیت ۱۵ نفره|IMG|reference_verified
+1454|draft|BHC-EMERSUN-TFN18D|امرسان|یخچال و فریزر امرسان مدل TFN18D ظرفیت ۱۸ فوت|IMG|reference_verified
+1456|draft|BHC-EMERSUN-TFH17T-H|امرسان|یخچال بالا فریزر امرسان مدل TFH17T/H ظرفیت ۱۷ فوت|IMG|reference_verified
+1468|draft|BHC-EMERSUN-BFH20TH|امرسان|یخچال‌فریزر امرسان مدل BFH20T-H ظرفیت ۲۰ فوت|IMG|reference_verified
+1470|draft|BHC-EMERSUN-F20H|امرسان|فریزر امرسان مدل F20H ظرفیت ۲۰ فوت|IMG|reference_verified
+1472|draft|BHC-EMERSUN-CB14M|امرسان|یخچال‌فریزر امرسان مدل CB14M ظرفیت ۱۴ فوت|IMG|reference_verified
+1474|draft|BHC-EMERSUN-BFN24D|امرسان|یخچال‌فریزر امرسان مدل BFN24-D ظرفیت ۲۴ فوت|IMG|reference_verified
+1476|publish|BHC-EMERSUN-BFN20D321CLA|امرسان|یخچال‌فریزر کلاسیک رنگی امرسان مدل BFN20D321-CLA ظرفیت ۲۰ فوت|IMG|reference_verified
+1478|publish|BHC-EMERSUN-FN20D|امرسان|فریزر تک امرسان مدل FN20D ظرفیت ۲۰ فوت|IMG|reference_verified
+1480|draft|BHC-EMERSUN-RH20D-FN20D|امرسان|یخچال و فریزر دوقلو امرسان Diamond مدل RH20D &amp; FN20D ظرفیت ۴۰ فوت|IMG|reference_verified
+1482|draft|BHC-EMERSUN-BFN22DMTP|امرسان|یخچال‌فریزر امرسان مدل BFN22D-M/TP ظرفیت ۲۲ فوت|IMG|reference_verified
+1484|publish|BHC-EMERSUN-BFN27D502|امرسان|یخچال‌فریزر امرسان مدل BFN27D502 ظرفیت ۲۷ فوت|IMG|reference_verified
+1486|publish|BHC-EMERSUN-CB16CLA|امرسان|یخچال‌فریزر کلاسیک امرسان مدل CB16CLA ظرفیت ۱۶ فوت|IMG|reference_verified
+1487|publish|BHC-EMERSUN-TF11T220|امرسان|یخچال‌فریزر امرسان مدل TF11T220 ظرفیت ۱۱ فوت|IMG|reference_verified
+1488|draft|BHC-EMERSUN-TFH17EL|امرسان|یخچال‌فریزر شیشه‌ای مشکی امرسان مدل TFH17/EL ظرفیت ۱۷ فوت|IMG|source_conflict_review
+1489|publish|BHC-EMERSUN-CB17EL|امرسان|یخچال‌فریزر امرسان مدل CB17EL ظرفیت ۱۷ فوت|IMG|reference_verified
+1490|draft|BHC-EMERSUN-NRF329D|امرسان|سایدبای‌ساید امرسان مدل NRF329D ظرفیت ۳۲ فوت|IMG|source_conflict_review
+1507|publish|BHC-SNOWA-SWD260W|اسنوا|ماشین لباسشویی اسنوا مدل SWD-260W ظرفیت ۶ کیلوگرم|IMG|reference_verified
+1508|publish|BHC-SNOWA-SDW246W|اسنوا|ماشین ظرفشویی اسنوا مدل SDW-246W ظرفیت ۱۴ نفره|IMG|reference_verified
+1509|publish|BHC-SNOWA-SDW353200|اسنوا|ماشین ظرفشویی اسنوا مدل SDW-F353200 ظرفیت ۱۳ نفره|IMG|reference_verified
+1510|publish|BHC-SNOWA-SBDIS100LW|اسنوا|یخچال‌فریزر اسنوا مدل SBDi-S100LW ظرفیت ۲۴ فوت|IMG|reference_verified
+1511|draft|BHC-SNOWA-SDW353210|اسنوا|ماشین ظرفشویی اسنوا مدل SDW-F353210|IMG|source_conflict_review
+1521|publish|BHC-EMERSUN-BFN22D|امرسان|یخچال‌فریزر امرسان مدل BFN22D-M/TP ظرفیت ۲۲ فوت|IMG|reference_verified
+1522|draft|BHC-EMERSUN-CB22H|امرسان|یخچال‌فریزر امرسان مدل CB22H ظرفیت ۲۲ فوت|IMG|source_conflict_review
+1523|publish|BHC-EMERSUN-RH20DFN20D|امرسان|یخچال‌فریزر دوقلو امرسان مدل RH20D و FN20D ظرفیت ۴۰ فوت|IMG|reference_verified
+1534|publish|BHC-BOSCH-SMS4HMC65M|بوش|ماشین ظرفشویی بوش مدل SMS4HMC65M سری ۴|IMG|reference_verified
+1535|publish|BHC-BOSCH-SMS4HMI25M|بوش|ماشین ظرفشویی بوش مدل SMS4HMI25M سری ۴|IMG|reference_verified
+1536|publish|BHC-BOSCH-SMV4HAX09E|بوش|ماشین ظرفشویی توکار بوش مدل SMV4HAX09E|IMG|reference_verified
+1537|publish|BHC-BOSCH-SMS6ZCI16E|بوش|ماشین ظرفشویی بوش مدل SMS6ZCI16E سری ۶|IMG|reference_verified
+1538|publish|BHC-BOSCH-BGS7RCL|بوش|جاروبرقی بدون کیسه بوش مدل BGS7RCL سری ۸|IMG|reference_verified
+1544|publish|BHC-SONY-K43S30|سونی|تلویزیون سونی مدل K-43S30 سایز ۴۳ اینچ|IMG|reference_verified
+1545|publish|BHC-SONY-K55S30|سونی|تلویزیون سونی مدل K-55S30 سایز ۵۵ اینچ|IMG|reference_verified
+1546|publish|BHC-SONY-K65S30|سونی|تلویزیون سونی مدل K-65S30 سایز ۶۵ اینچ|IMG|reference_verified
+1547|publish|BHC-SONY-K75S30|سونی|تلویزیون سونی مدل K-75S30 سایز ۷۵ اینچ|IMG|reference_verified
+1548|publish|BHC-SONY-K85S30|سونی|تلویزیون سونی مدل K-85S30 سایز ۸۵ اینچ|IMG|reference_verified
+1554|publish|BHC-PAKSHOMA-J52W|پاکشوما|ماشین ظرفشویی پاکشوما مدل J52W ظرفیت ۱۵ نفره|IMG|reference_verified
+1569|publish|BHC-SNOWA-S1DI-S100|اسنوا|یخچال سایدبای‌ساید اسنوا مدل S1DI-S100 ظرفیت ۵۲۰ لیتر|IMG|reference_verified
+1570|publish|BHC-SNOWA-S1DI-L300|اسنوا|یخچال سایدبای‌ساید اسنوا مدل S1DI-L300 ظرفیت ۶۹۲ لیتر|IMG|reference_verified
+1579|publish|BHC-SNOWA-SMO-FM30GCW|اسنوا|مایکروویو اسنوا مدل SMO-FM30GCW ظرفیت ۳۰ لیتر|IMG|reference_verified
+1580|publish|BHC-SNOWA-SMO-FM32GCS|اسنوا|مایکروویو اسنوا مدل SMO-FM32GCS ظرفیت ۳۲ لیتر|IMG|reference_verified

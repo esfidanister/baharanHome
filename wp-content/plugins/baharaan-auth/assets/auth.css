@@ -1,0 +1,139 @@
+/* Baharaan Home — showroom authentication */
+.bha-stage{
+  --bha-primary:#0755D8;--bha-secondary:#168BFF;--bha-navy:#102443;--bha-ice:#F4F9FF;--bha-light:#EAF4FF;--bha-text:#152B49;--bha-border:#DCE9F8;--bha-radius:26px;--bha-dur:700ms;
+  position:relative;isolation:isolate;min-height:calc(100dvh - 92px);display:grid;place-items:safe center;padding:28px 24px 48px;overflow:visible;
+  background:
+    radial-gradient(900px 480px at 82% 18%, color-mix(in srgb, var(--bha-secondary) 18%, transparent), transparent 70%),
+    radial-gradient(720px 420px at 12% 80%, color-mix(in srgb, var(--bha-primary) 12%, transparent), transparent 68%),
+    linear-gradient(180deg, var(--bha-ice), #fff 70%);
+  color:var(--bha-text);font-family:Vazirmatn,Tahoma,sans-serif;
+}
+.bha-scene{position:absolute;inset:0;pointer-events:none;z-index:0}
+.bha-arc{position:absolute;border:1px solid color-mix(in srgb, var(--bha-primary) 16%, transparent);border-radius:50%}
+.bha-arc-a{width:520px;height:520px;left:-180px;bottom:-220px}
+.bha-arc-b{width:640px;height:640px;right:-240px;top:-260px}
+.bha-glow{position:absolute;width:280px;height:280px;right:12%;top:18%;border-radius:50%;background:radial-gradient(circle, #fff, transparent 68%);opacity:.8}
+.bha-product{position:absolute;margin:0;transform:translate3d(var(--px,0),var(--py,0),0);animation:bha-fade var(--bha-dur) ease both}
+.bha-product img{display:block;width:100%;height:auto;object-fit:contain;background:transparent;filter:drop-shadow(0 22px 28px rgba(16,36,67,.16));animation:bha-float 7.5s ease-in-out infinite}
+.bha-product figcaption{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+.bha-product--fridge{right:4%;top:6%;width:min(250px,18vw);animation-delay:40ms}
+.bha-product--washer{right:8%;bottom:4%;width:min(210px,15vw);animation-delay:120ms}
+.bha-product--washer img{animation-delay:-1.6s}
+.bha-product--coffee{left:5%;top:10%;width:min(200px,14vw);animation-delay:80ms}
+.bha-product--coffee img{animation-delay:-2.4s}
+.bha-product--fryer{left:7%;bottom:6%;width:min(190px,14vw);animation-delay:160ms}
+.bha-product--fryer img{animation-delay:-3s}
+.bha-mobile-hero{display:none}
+.bha-card{
+  position:relative;z-index:2;width:min(440px,100%);padding:32px 28px 22px;border:1px solid var(--bha-border);border-radius:var(--bha-radius);
+  background:#fff;box-shadow:0 24px 60px rgba(16,36,67,.12);animation:bha-rise var(--bha-dur) cubic-bezier(.2,.7,.2,1) both;
+}
+.bha-brand{display:flex;align-items:center;justify-content:center;gap:10px;margin-bottom:8px;animation:bha-rise var(--bha-dur) ease both;animation-delay:80ms}
+.bha-mark{display:grid;place-items:center;width:46px;height:46px;border-radius:16px;background:linear-gradient(160deg,var(--bha-secondary),var(--bha-primary));color:#fff}
+.bha-brand strong{font-size:22px;font-weight:800;color:var(--bha-navy)}
+.bha-card h1{margin:8px 0 6px;text-align:center;font-size:clamp(28px,3vw,38px);line-height:1.35;font-weight:800;color:var(--bha-navy);animation:bha-rise var(--bha-dur) ease both;animation-delay:120ms}
+.bha-lead{margin:0 0 18px;text-align:center;color:#4c6480;font-size:15px;line-height:1.9}
+.bha-methods{display:grid;grid-template-columns:1fr 1fr;gap:6px;padding:5px;margin-bottom:16px;border-radius:16px;background:var(--bha-light)}
+.bha-methods button{min-height:44px;border:0;border-radius:12px;background:transparent;color:#3e5874;font:inherit;font-weight:700;cursor:pointer}
+body.bhb-theme.woocommerce-account .bha-methods button{min-height:44px!important;border:0!important;border-radius:12px!important;background:transparent!important;color:#3e5874!important;box-shadow:none!important}
+.bha-methods button.is-active,body.bhb-theme.woocommerce-account .bha-methods button.is-active{background:#fff!important;color:var(--bha-primary)!important;box-shadow:0 6px 16px rgba(7,85,216,.12)!important}
+body.bhb-theme.woocommerce-account .bha-text,
+body.bhb-theme.woocommerce-account .bha-switch{background:transparent!important;color:var(--bha-primary)!important;box-shadow:none!important;min-height:44px!important}
+body.bhb-theme.woocommerce-account .bha-eye{width:38px!important;height:38px!important;min-height:38px!important;padding:0!important;background:transparent!important;color:var(--bha-primary)!important;box-shadow:none!important}
+body.bhb-theme.woocommerce-account .bha-submit{background:linear-gradient(135deg,var(--bha-primary),var(--bha-secondary))!important;color:#fff!important;box-shadow:none!important}
+.bha-card label{display:block;margin:0 0 6px;font-size:13px;font-weight:700;color:#3d5672}
+.bha-card input[type="tel"],.bha-card input[type="email"],.bha-card input[type="text"],.bha-card input[type="password"]{
+  width:100%;box-sizing:border-box;height:54px;margin:0 0 8px;padding:0 14px;border:1px solid var(--bha-border);border-radius:14px;background:#fbfdff;color:var(--bha-text);font:inherit;font-size:16px;
+  transition:border-color .2s ease, box-shadow .2s ease;
+}
+.bha-card input[type="tel"],.bha-card input[name="code"],.bha-card input[type="email"]{direction:ltr;text-align:left}
+.bha-card input:focus{border-color:var(--bha-primary);box-shadow:0 0 0 4px color-mix(in srgb, var(--bha-primary) 18%, transparent);outline:none}
+.bha-card input:focus-visible,.bha-methods button:focus-visible,.bha-submit:focus-visible,.bha-text:focus-visible,.bha-switch:focus-visible,.bha-back:focus-visible,.bha-eye:focus-visible{outline:3px solid var(--bha-primary);outline-offset:3px}
+.bha-card input[aria-invalid="true"]{border-color:#be123c;background:#fff7f8}
+.bha-hint{min-height:1.6em;margin:0 0 12px;color:#60758d;font-size:13px;line-height:1.7}
+.bha-submit{
+  display:flex;align-items:center;justify-content:center;gap:8px;width:100%;height:54px;margin-top:4px;border:0;border-radius:14px;background:linear-gradient(135deg,var(--bha-primary),var(--bha-secondary));
+  color:#fff;font:inherit;font-size:16px;font-weight:800;cursor:pointer;transition:transform .18s ease, filter .18s ease, background .18s ease;
+}
+.has-button-fx .bha-submit:hover{transform:translateY(-1px);filter:brightness(1.06)}
+.bha-submit:disabled{cursor:wait;filter:saturate(.8)}
+.bha-submit.is-loading span{opacity:.2}
+.bha-submit.is-loading:before{content:"";width:18px;height:18px;border:2px solid #fff;border-inline-end-color:transparent;border-radius:50%;animation:bha-spin .7s linear infinite}
+.bha-submit.is-success{background:#0f9f6e}
+.bha-submit.is-error{background:#be123c}
+.bha-row{display:flex;justify-content:space-between;gap:12px;margin-top:8px}
+.bha-text,.bha-switch,.bha-back{display:inline-flex;align-items:center;justify-content:center;min-height:44px;border:0;background:transparent;color:var(--bha-primary);font:inherit;font-weight:700;cursor:pointer;text-decoration:none}
+.bha-switch{width:100%;margin-top:4px}
+.bha-password{position:relative}
+.bha-password input{padding-left:52px!important}
+.bha-eye{position:absolute;left:8px;top:8px;width:38px;height:38px;min-height:38px!important;padding:0;border:0;border-radius:10px;background:transparent!important;color:var(--bha-primary);display:grid!important;place-items:center;cursor:pointer}
+.bha-card input:focus-visible{outline:3px solid var(--bha-primary)!important;outline-offset:2px}
+.bha-methods[hidden],.bha-switch[hidden],.bha-text[hidden],[data-panel][hidden]{display:none!important}
+.bha-remember{display:flex!important;align-items:center;gap:8px;margin:4px 0 10px;font-weight:600!important}
+.bha-remember input{width:18px;height:18px}
+.bha-status{min-height:0;margin:12px 0 0;padding:0;border-radius:12px;font-size:14px;line-height:1.8}
+.bha-status:not(:empty){padding:10px 12px}
+.bha-status.is-error{background:#fff1f2;color:#9f1239;border:1px solid #fecdd3}
+.bha-status.is-ok{background:#ecfdf3;color:#166534;border:1px solid #bbf7d0}
+.bha-status.is-info{background:var(--bha-light);color:#1e3a5f;border:1px solid var(--bha-border)}
+.bha-secure{display:flex;align-items:flex-start;gap:8px;margin:14px 0 0;padding-top:12px;border-top:1px solid var(--bha-border);color:#5c728a;font-size:12px;line-height:1.8}
+.bha-back{width:100%}
+.bha-hp{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+.bha-noscript{width:min(440px,calc(100% - 32px));margin:12px auto;padding:12px;border-radius:12px;background:#fff}
+.bha-profile{margin:0 0 18px;padding:22px;border:1px solid #dce9f8;border-radius:20px;background:#fff}
+.bha-profile h2{margin:0 0 8px}
+.bha-profile input{width:100%;box-sizing:border-box;height:48px;margin:0 0 10px;font-size:16px}
+.bha-profile button{min-height:48px;padding:0 18px;border:0;border-radius:12px;background:#0755D8;color:#fff;font:inherit;font-weight:800}
+@keyframes bha-rise{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:none}}
+@keyframes bha-fade{from{opacity:0}to{opacity:1}}
+@keyframes bha-float{50%{transform:translateY(-6px)}}
+@keyframes bha-spin{to{transform:rotate(-360deg)}}
+.bha-stage.is-still .bha-card,.bha-stage.is-still .bha-product,.bha-stage.is-still .bha-brand,.bha-stage.is-still .bha-card h1,.bha-stage.is-no-float .bha-product img{animation:none}
+.bha-stage.is-preview{min-height:640px;border:1px solid #dce9f8;border-radius:16px;margin:12px 0}
+.bha-stage.is-mobile-frame{max-width:390px}
+.bha-stage.is-mobile-frame .bha-scene{display:none}
+.bha-stage.is-mobile-frame .bha-mobile-hero{display:flex;align-items:flex-end;justify-content:center;gap:8px;height:148px;overflow:hidden}
+.bha-stage.is-mobile-frame .bha-mobile-hero img{width:auto;height:140px;object-fit:contain;background:transparent}
+.bha-eye[aria-pressed="true"]::after{content:"";position:absolute;width:16px;height:2px;border-radius:2px;background:currentColor;transform:rotate(-32deg)}
+
+body.bha-guest{background:#f4f9ff}
+body.bha-guest .bhp-breadcrumb,body.bha-guest .bhp-page-content>header,body.bha-guest .bhc-otp,body.bha-guest .woocommerce>h1{display:none!important}
+body.bha-guest .bhp-page,body.bha-guest .bhp-page-content,body.bha-guest .bhp-description,body.bha-guest .woocommerce{max-width:none!important;width:100%!important;margin:0!important;padding:0!important;background:transparent!important;box-shadow:none!important;border:0!important}
+body.bha-guest #main-content{padding-bottom:env(safe-area-inset-bottom)}
+body.bha-guest.bhb-theme .bh-header .bh-search,
+body.bha-guest.bhb-theme .bh-header .bh-head-actions,
+body.bha-guest.bhb-theme .bh-header .bh-menu-toggle,
+body.bha-guest.bhb-theme .bh-nav,
+body.bha-guest.bhb-theme .bhp-mobile-nav,
+body.bha-guest.bhb-theme .bhb-drawer,
+body.bha-guest.bhb-theme .bh-topline,
+body.bha-guest.bhb-theme .bh-footer,
+body.bha-guest.bhb-theme .bhc-widget{display:none!important}
+body.bha-guest.bhb-theme .bh-header{display:flex!important;justify-content:center!important;align-items:center!important;width:100%!important;max-width:none!important;height:72px!important;min-height:72px!important;margin:0!important;padding:0 16px!important;background:transparent!important;position:relative!important}
+body.bha-guest.bhb-theme .bh-header .bh-brand{position:static!important;transform:none!important;left:auto!important;width:auto!important;height:auto!important}
+@media (max-width:1200px) and (min-width:901px){
+  .bha-product--fridge{width:190px}
+  .bha-product--washer,.bha-product--coffee,.bha-product--fryer{width:150px}
+  .bha-product img{height:auto}
+}
+
+
+@media (max-width:900px){
+  .bha-scene{display:none}
+  .bha-mobile-hero{display:flex;align-items:flex-end;justify-content:center;gap:8px;width:min(100%,420px);height:148px;margin:0 auto 8px;overflow:hidden}
+  .bha-mobile-hero img{width:auto;height:140px;object-fit:contain;background:transparent;filter:drop-shadow(0 12px 16px rgba(16,36,67,.14))}
+  .bha-stage{display:block;min-height:0;padding:12px 16px calc(28px + env(safe-area-inset-bottom))}
+  .bha-card{width:100%;padding:22px 16px 14px;animation-duration:.45s}
+  .bha-card h1{font-size:26px}
+  .bha-lead{font-size:14px}
+}
+@media (max-width:360px){
+  .bha-stage{padding-inline:12px}
+  .bha-card h1{font-size:24px}
+  .bha-methods button{font-size:13px}
+}
+@media (prefers-reduced-motion:reduce){
+  .bha-card,.bha-product,.bha-product img,.bha-brand,.bha-card h1,.bha-submit.is-loading:before{animation:none!important}
+  .bha-submit,.bha-card input{transition:none}
+}
+html.bha-reduce .bha-card,html.bha-reduce .bha-product,html.bha-reduce .bha-product img{animation:none!important}

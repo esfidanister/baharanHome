@@ -1,0 +1,8 @@
+<?php
+if ( ! defined( 'ABSPATH' ) ) { exit; }
+return array(
+	'products' => array( 'fridge', 'freezer', 'side by side', 'washer', 'washing machine', 'dryer', 'dishwasher', 'oven', 'stove', 'hood', 'vacuum', 'robot vacuum', 'AC', 'air conditioner', 'microwave', 'kettle', 'food processor', 'blender', 'water purifier', 'air purifier', 'TV', 'water heater', 'gas cooktop' ),
+	'needs' => array( 'for a family of four', 'for a small kitchen', 'quiet', 'energy efficient', 'for a small apartment', 'for a large family', 'for a rental home', 'with installation', 'single phase power', 'for an elderly user', 'for a home with a baby', 'easy to clean', 'for daily use', 'low vibration', 'for limited space', 'simple maintenance', 'for heavy use', 'quiet at night', 'for a small office', 'with a washable filter' ),
+	'questions' => array( 'which model is suitable?', 'where should I start?', 'what capacity do I need?', 'which feature matters most?', 'how do I choose?', 'what do you suggest for this use?', 'what should I check?', 'I need a quick buying guide', 'what are the key specs?', 'will it fit this space?', 'what is the difference?', 'is this a good choice?', 'what should I compare?', 'what details should I send?', 'how can I find the right model?', 'which option is better for me?', 'what should I know before buying?', 'is it good for long use?', 'what should I ask the seller?', 'please guide me briefly' ),
+	'partial' => array( 'fridge', 'washer', 'dishwasher', 'dryer', 'oven', 'stove', 'vacuum', 'price', 'in stock', 'how much', 'which one', 'this one', 'same one', 'for a family of four', 'small kitchen', 'quiet', 'energy saving', 'white', 'black', 'Samsung', 'LG', 'Bosch', 'Snowa', 'Daewoo', 'Pakshoma' ),
+);

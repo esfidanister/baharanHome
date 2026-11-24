@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 96" role="img" aria-labelledby="title desc">
+<title id="title">بهاران هوم</title><desc id="desc">نشان هندسی بهاران هوم</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1d7565"/><stop offset="1" stop-color="#123d35"/></linearGradient></defs>
+<g transform="translate(6 8)"><rect width="80" height="80" rx="24" fill="url(#g)"/><path d="M19 48 40 27l21 21v19H19z" fill="none" stroke="#f7f3e9" stroke-width="4" stroke-linejoin="round"/><path d="M29 67V53a11 11 0 0 1 22 0v14" fill="none" stroke="#d2b27d" stroke-width="4" stroke-linecap="round"/><circle cx="40" cy="18" r="3" fill="#d2b27d"/></g>
+<text x="394" y="48" text-anchor="end" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-weight="800" font-size="27" fill="#173b32">بهاران هوم</text>
+<text x="394" y="72" text-anchor="end" direction="rtl" unicode-bidi="plaintext" font-family="Vazirmatn,Tahoma,sans-serif" font-size="12" letter-spacing=".5" fill="#68766e">خانه‌ای برای انتخاب بهتر</text>
+</svg>

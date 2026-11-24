@@ -1,0 +1,54 @@
+.bhc-desk{max-width:1180px;margin:12px 20px 48px;color:#102a43;direction:rtl}
+.bhc-desk-hero{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;padding:28px;border:1px solid #d8e5f2;border-radius:22px;background:linear-gradient(135deg,#fff,#f2f8ff);box-shadow:0 12px 32px #123b6812}
+.bhc-desk-hero h1{margin:8px 0;font-size:30px;line-height:1.35;color:#102a43}
+.bhc-desk-hero p{max-width:680px;margin:0;color:#64788e;line-height:1.9}
+.bhc-section-kicker{display:block;color:#2374d8;font-size:11px;font-weight:700;letter-spacing:.08em}
+.bhc-desk-hero .button-primary{min-height:42px;border-radius:12px;background:#1769d2;border-color:#1769d2;padding:0 18px}
+.bhc-desk-metrics{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:16px 0}
+.bhc-desk-metrics article{display:grid;gap:4px;padding:18px;border:1px solid #dbe6f1;border-radius:16px;background:#fff;box-shadow:0 5px 18px #0b203908}
+.bhc-desk-metrics b{font-size:28px;line-height:1.2;color:#1769d2}
+.bhc-desk-metrics span{color:#536b83;font-size:12px}
+.bhc-desk-filters{display:flex;flex-wrap:wrap;align-items:flex-end;gap:12px;margin:0 0 16px;padding:16px;border:1px solid #dbe6f1;border-radius:16px;background:#fff}
+.bhc-desk-filters label{display:grid;gap:6px;min-width:180px;color:#536b83;font-size:12px;font-weight:700}
+.bhc-desk-filters input,.bhc-desk-filters select,.bhc-desk-tools input,.bhc-desk-tools select,.bhc-desk-compose textarea{width:100%;box-sizing:border-box;min-height:42px;border:1px solid #cbddec;border-radius:10px;background:#fbfdff;padding:8px 12px;color:#102a43}
+.bhc-desk-filters input:focus,.bhc-desk-filters select:focus,.bhc-desk-tools input:focus,.bhc-desk-tools select:focus,.bhc-desk-compose textarea:focus{border-color:#1769d2;box-shadow:0 0 0 2px #1769d21f;outline:none}
+.bhc-desk-check{display:flex!important;align-items:center;gap:8px;min-height:42px;grid-template-columns:none}
+.bhc-desk-check input{width:16px;min-height:16px}
+.bhc-desk-filters .button,.bhc-desk-tools .button,.bhc-desk-compose .button{min-height:42px;border-radius:10px;padding:0 16px}
+.bhc-desk-filters .button-primary,.bhc-desk-compose .button-primary{background:#1769d2;border-color:#1769d2}
+.bhc-desk-empty{display:grid;gap:6px;padding:36px;border:1px dashed #b9cde1;border-radius:16px;background:#fff;text-align:center;color:#536b83}
+.bhc-desk-empty strong{color:#102a43}
+.bhc-desk-card{margin:0 0 16px;padding:22px;border:1px solid #dbe6f1;border-radius:18px;background:#fff;box-shadow:0 8px 24px #0b20390d}
+.bhc-desk-title{display:flex;flex-wrap:wrap;align-items:center;gap:8px}
+.bhc-desk-title strong{font-size:18px;color:#102a43}
+.bhc-desk-badge{display:inline-flex;align-items:center;min-height:26px;padding:0 10px;border-radius:999px;background:#edf5ff;color:#1769d2;font-size:11px;font-weight:700}
+.bhc-desk-badge.stage-new{background:#fff3d9;color:#986500}
+.bhc-desk-badge.stage-contacted{background:#edf5ff;color:#1769d2}
+.bhc-desk-badge.stage-resolved{background:#e1f5ea;color:#14733c}
+.bhc-desk-badge.is-late{background:#ffe8e5;color:#b64337}
+.bhc-desk-facts{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin:14px 0;padding:0}
+.bhc-desk-facts div{padding:10px 12px;border:1px solid #e6eef6;border-radius:12px;background:#f8fbff}
+.bhc-desk-facts dt{color:#8495a7;font-size:11px}
+.bhc-desk-facts dd{margin:4px 0 0;color:#304b68;font-weight:700;font-size:13px}
+.bhc-desk-links{display:flex;gap:12px;margin:0}
+.bhc-desk-links a{color:#1769d2;font-weight:700;text-decoration:none}
+.bhc-desk-message,.bhc-desk-thread{margin-top:16px}
+.bhc-desk-message h2,.bhc-desk-thread h2{margin:0 0 8px;font-size:14px;color:#102a43}
+.bhc-desk-message p,.bhc-desk-reply p{margin:0;white-space:pre-wrap;line-height:1.9}
+.bhc-desk-message{padding:14px;border-radius:12px;background:#f8fbff}
+.bhc-desk-reply{margin:8px 0;padding:12px 14px;border-radius:12px;border-inline-start:4px solid #1769d2;background:#f8fbff}
+.bhc-desk-reply.is-note{border-inline-start-color:#d89a12;background:#fffaf0}
+.bhc-desk-reply header{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:6px;color:#60758b;font-size:12px}
+.bhc-desk-reply header b{color:#102a43}
+.bhc-desk-reply small,.bhc-desk-muted{color:#718398;font-size:12px}
+.bhc-desk-compose{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:16px}
+.bhc-desk-compose form,.bhc-desk-tools form{display:grid;gap:8px;align-content:start}
+.bhc-desk-compose label,.bhc-desk-tools label{color:#536b83;font-size:12px;font-weight:700}
+.bhc-desk-compose textarea{min-height:120px;resize:vertical;line-height:1.8}
+.bhc-desk-tools{display:grid;grid-template-columns:180px auto minmax(220px,1fr);gap:12px;align-items:end;margin-top:16px;padding-top:16px;border-top:1px solid #edf2f7}
+.bhc-desk-tools form:last-child{grid-template-columns:1fr auto;align-items:end}
+.bhc-desk-pager{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+.bhc-desk-pager a,.bhc-desk-pager span{min-width:36px;height:36px;display:inline-flex;align-items:center;justify-content:center;border:1px solid #dbe6f1;border-radius:10px;background:#fff;color:#1769d2;text-decoration:none}
+.bhc-desk-pager .current{background:#1769d2;color:#fff;border-color:#1769d2}
+.bhc-desk .notice{margin:16px 0}
+@media(max-width:900px){.bhc-desk{margin-inline:10px}.bhc-desk-hero,.bhc-desk-compose,.bhc-desk-tools,.bhc-desk-facts{display:grid;grid-template-columns:1fr}.bhc-desk-metrics{grid-template-columns:1fr 1fr}.bhc-desk-tools form:last-child{grid-template-columns:1fr}}

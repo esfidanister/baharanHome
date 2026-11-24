@@ -1,0 +1,13 @@
+body.login{background:#071B3A!important;font-family:Vazirmatn,Tahoma,sans-serif}
+body.login #login{width:min(420px,calc(100% - 28px))}
+body.login h1 a{color:#fff!important}
+body.login h1 a:after{content:none!important}
+body.login form{border:1px solid rgba(255,255,255,.14)!important;border-radius:24px!important;background:#fff!important;box-shadow:0 24px 60px rgba(0,0,0,.28)!important}
+.bha-admin-kicker{margin:0 0 12px;text-align:center;color:#d6e6ff;font-weight:800}
+.bha-mfa-field{margin:0 0 14px}
+.bha-mfa-field label{display:block;margin-bottom:6px;color:#315473;font-size:12px;font-weight:700}
+.bha-mfa-field input{width:100%;box-sizing:border-box;min-height:46px;direction:ltr;text-align:left}
+.bha-mfa-field span{display:block;margin-top:6px;color:#607692;font-size:12px;line-height:1.7}
+body.login .button-primary{background:#0755D8!important;border-color:#0755D8!important;border-radius:12px!important;min-height:46px}
+body.login #nav a,body.login #backtoblog a{color:#9ec5ff!important}
+@media(max-width:480px){body.login form{padding:20px!important}}

@@ -1,0 +1,2 @@
+<?php
+require_once '/var/www/html/wp-load.php';$ids=get_posts(['post_type'=>'product','post_status'=>['publish','draft','pending','private'],'posts_per_page'=>-1,'fields'=>'ids']);foreach($ids as $id){$p=wc_get_product($id);$b=wp_get_post_terms($id,'pa_brand',['fields'=>'names']);if($p&&($b[0]??'')==='بوش'&&get_post_meta($id,'_bhc_release_state',true)!=='ready_for_release')echo $p->get_sku().'|'.get_post_meta($id,'_bhc_model',true).'|'.$p->get_name().PHP_EOL;}

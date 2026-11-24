@@ -1,0 +1,1 @@
+<?php require_once '/var/www/html/wp-load.php'; foreach([242,199,157] as $id) echo $id.'|'.get_post_meta($id,'_bhc_source_url',true).'|'.get_post_meta($id,'_bhc_catalog_quality_state',true).'|'.get_post_status($id).PHP_EOL;

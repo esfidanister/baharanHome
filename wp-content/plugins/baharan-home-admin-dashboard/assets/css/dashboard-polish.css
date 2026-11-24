@@ -1,0 +1,7 @@
+.bh-product-cell{display:flex;align-items:center;gap:9px;min-width:0}
+.bh-product-cell img{width:42px;height:42px;object-fit:contain;border-radius:10px;background:#f3f7fb;border:1px solid var(--bh-border);flex:none}
+.bh-product-cell>span{display:block;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.bh-mini-row{align-items:center;min-height:52px}
+.bh-dashboard .button{cursor:pointer}
+.bh-dashboard .button:focus-visible,.bh-dashboard a:focus-visible,.bh-dashboard select:focus-visible,.bh-dashboard input:focus-visible{outline:3px solid #8cc8ff;outline-offset:2px}
+.bh-dashboard[data-theme="dark"] .bh-product-cell img{background:#163a64}

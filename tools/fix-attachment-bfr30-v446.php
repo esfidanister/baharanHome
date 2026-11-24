@@ -1,0 +1,1 @@
+<?php require '/var/www/html/wp-load.php';require_once ABSPATH.'wp-admin/includes/image.php';$id=502;$a=get_post_thumbnail_id($id);$file=get_attached_file($a);if(is_readable($file)){wp_update_attachment_metadata($a,wp_generate_attachment_metadata($a,$file));set_post_thumbnail($id,$a);echo "FIXED|$a|$file\n";}else echo "MISSING|$a|$file\n";

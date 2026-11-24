@@ -1,0 +1,66 @@
+27|draft|4190||جاروبرقی کیسه‌ای سامسونگ 4190|IMG|reference_needs_verification
+337|publish|BHC-SAMSUNG-WW80T|سامسونگ|ماشین لباسشویی سامسونگ ۸ کیلوگرم مدل WW80T504DTW/SA|IMG|reference_verified
+338|publish|BHC-SAMSUNG-WW90T|سامسونگ|ماشین لباسشویی سامسونگ مدل WW90T534DAW/S1 ظرفیت ۹ کیلوگرم|IMG|reference_verified
+339|draft|BHC-SAMSUNG-WW90TA|سامسونگ|لباسشویی سامسونگ مدل WW90TA|IMG|reference_needs_verification
+340|publish|BHC-SAMSUNG-WW11T|سامسونگ|ماشین لباسشویی سامسونگ مدل WW11T734DBH/TC ظرفیت ۱۱ کیلوگرم|IMG|reference_verified
+341|draft|BHC-SAMSUNG-WW80J|سامسونگ|لباسشویی سامسونگ مدل WW80J|IMG|reference_needs_verification
+342|draft|BHC-SAMSUNG-WW90J|سامسونگ|لباسشویی سامسونگ مدل WW90J|IMG|reference_needs_verification
+343|draft|BHC-SAMSUNG-Q1470|سامسونگ|لباسشویی سامسونگ مدل Q1470|IMG|reference_needs_verification
+344|draft|BHC-SAMSUNG-Q1460|سامسونگ|لباسشویی سامسونگ مدل Q1460|IMG|reference_needs_verification
+345|publish|DW60M6051US|سامسونگ|ماشین ظرفشویی سامسونگ مدل DW60M6051US|IMG|reference_verified
+346|publish|DW60A5055FW|سامسونگ|ماشین ظرفشویی سامسونگ مدل DW60A5055FW|IMG|reference_verified
+347|publish|DW60R2014US/AA|سامسونگ|ماشین ظرفشویی سامسونگ مدل DW60R2014US/AA|IMG|reference_verified
+348|publish|DW50R4070BB/WT|سامسونگ|ماشین ظرفشویی سامسونگ مدل DW50R4070BB/WT|IMG|reference_verified
+349|publish|BHC-SAMSUNG-DW60CG|سامسونگ|ماشین ظرفشویی سامسونگ مدل DW60CG550FWQEU ظرفیت ۱۴ نفره|IMG|reference_verified
+350|publish|DW60BG730B00ET|سامسونگ|ماشین ظرفشویی سامسونگ مدل DW60BG730B00ET|IMG|reference_verified
+351|publish|RS50N|سامسونگ|یخچال و فریزر سامسونگ مدل RS50N|IMG|reference_verified
+352|publish|RS54N3103SL/TC|سامسونگ|یخچال و فریزر سامسونگ مدل RS54N3103SL/TC|IMG|reference_verified
+353|publish|RS68A8840S9/EF|سامسونگ|یخچال و فریزر سامسونگ مدل RS68A8840S9/EF|IMG|reference_verified
+354|publish|RF48A4000B4/SS|سامسونگ|یخچال و فریزر سامسونگ مدل RF48A4000B4/SS|IMG|reference_verified
+355|publish|RT62K7045SL|سامسونگ|یخچال و فریزر سامسونگ مدل RT62K7045SL|IMG|reference_verified
+356|publish|RT53K6035SL|سامسونگ|یخچال و فریزر سامسونگ مدل RT53K6035SL|IMG|reference_verified
+357|publish|RB34T6001SA|سامسونگ|یخچال و فریزر سامسونگ مدل RB34T6001SA|IMG|reference_verified
+358|publish|RB38T676EB1/EF|سامسونگ|یخچال و فریزر سامسونگ مدل RB38T676EB1/EF|IMG|reference_verified
+359|draft|BHC-SAMSUNG-UA50CU|سامسونگ|تلویزیون سامسونگ مدل UA50CU|IMG|reference_needs_verification
+360|publish|BHC-SAMSUNG-UA55CU|سامسونگ|تلویزیون سامسونگ ۵۵ اینچ Crystal UHD 4K مدل UA55CU7000UXLY|IMG|reference_verified
+361|publish|BHC-SAMSUNG-UA65CU|سامسونگ|تلویزیون سامسونگ Crystal UHD 4K مدل UA65CU7000UXLY سایز ۶۵ اینچ|IMG|reference_verified
+362|draft|BHC-SAMSUNG-UA75CU|سامسونگ|تلویزیون سامسونگ مدل UA75CU|IMG|reference_needs_verification
+363|publish|BHC-SAMSUNG-QA55Q70|سامسونگ|تلویزیون سامسونگ QLED 4K مدل QA55Q70CAWXXY سایز ۵۵ اینچ|IMG|reference_verified
+364|publish|BHC-SAMSUNG-QA65Q70|سامسونگ|تلویزیون سامسونگ QLED 4K مدل QA65Q70CAWXXY سایز ۶۵ اینچ|IMG|reference_verified
+365|publish|QA75Q70DAUXZN|سامسونگ|تلویزیون سامسونگ مدل QA75Q70DAUXZN|IMG|reference_verified
+366|publish|QN55Q80RAFXZA|سامسونگ|تلویزیون سامسونگ مدل QN55Q80RAFXZA|IMG|reference_verified
+367|publish|QN65Q80RAFXZA|سامسونگ|تلویزیون سامسونگ مدل QN65Q80RAFXZA|IMG|reference_verified
+368|publish|QN75Q80RAFXZA|سامسونگ|تلویزیون سامسونگ مدل QN75Q80RAFXZA|IMG|reference_verified
+369|publish|VC18M2120SB/SE|سامسونگ|جاروبرقی سامسونگ مدل VC18M2120SB/SE|IMG|reference_verified
+370|publish|VC20M2510WB/SG|سامسونگ|جاروبرقی سامسونگ مدل VC20M2510WB/SG|IMG|reference_verified
+371|publish|VC21K5130VB/EV|سامسونگ|جاروبرقی سامسونگ مدل VC21K5130VB/EV|IMG|reference_verified
+372|publish|VC24FHNJGWQ/EV|سامسونگ|جاروبرقی سامسونگ مدل VC24FHNJGWQ/EV|IMG|reference_verified
+373|publish|BHC-SAMSUNG-MG30T|سامسونگ|مایکروویو گریل سامسونگ مدل MG30T5019CG ظرفیت ۳۰ لیتر|IMG|reference_verified
+374|publish|BHC-SAMSUNG-MS23K|سامسونگ|مایکروویو سامسونگ مدل MS23K3515ASW/SW ظرفیت ۲۳ لیتر|IMG|reference_verified
+375|publish|MG23F301TAS/EC|سامسونگ|مایکروویو سامسونگ مدل MG23F301TAS/EC|IMG|reference_verified
+376|publish|MC28H5015AK/EO|سامسونگ|مایکروویو سامسونگ مدل MC28H5015AK/EO|IMG|reference_verified
+984|publish|SAMSUNG-WW90M64FOPO|سامسونگ|ماشین لباسشویی سامسونگ مدل WW90M64FOPO/GU ظرفیت ۹ کیلوگرم|IMG|reference_verified
+985|publish|SAMSUNG-BESPOKE-JET-AI-GREIGE|سامسونگ|جاروبرقی شارژی سامسونگ Bespoke AI مدل VS90F40DFG/SG رنگ Satin Greige|IMG|reference_verified
+994|publish|SAMSUNG-WW90T554DAN|سامسونگ|ماشین لباسشویی سامسونگ مدل WW90T554DAN ظرفیت ۹ کیلوگرم|IMG|reference_verified
+995|publish|SAMSUNG-QA55Q60DAU|سامسونگ|تلویزیون سامسونگ مدل QA55Q60DAU سری Q60D سایز ۵۵ اینچ|IMG|reference_verified
+996|publish|SAMSUNG-VS20C852FTB|سامسونگ|جاروبرقی شارژی سامسونگ مدل VS20C852FTB/GE Jet 85|IMG|reference_verified
+1014|publish|SAMSUNG-WA80F10S5B-GU|سامسونگ|ماشین لباسشویی درب از بالا سامسونگ مدل WA80F10S5BGU ظرفیت ۱۰ کیلوگرم|IMG|reference_verified
+1015|publish|SAMSUNG-WA10CG5745BVGU|سامسونگ|ماشین لباسشویی درب از بالا سامسونگ مدل WA10CG5745BVGU ظرفیت ۱۰ کیلوگرم|IMG|reference_verified
+1016|publish|SAMSUNG-WW11CB944DGBGM|سامسونگ|ماشین لباسشویی درب از جلو سامسونگ مدل WW11CB944DGBGM ظرفیت ۱۱ کیلوگرم|IMG|reference_verified
+1033|publish|SAMSUNG-QA65S90FAEXZN|سامسونگ|تلویزیون OLED سامسونگ مدل QA65S90FAEXZN سری S90F سایز ۶۵ اینچ|IMG|reference_verified
+1034|publish|SAMSUNG-QA65QN90FAUXZN|سامسونگ|تلویزیون Neo QLED سامسونگ مدل QA65QN90FAUXZN سری QN90F سایز ۶۵ اینچ|IMG|reference_verified
+1035|publish|SAMSUNG-DV90F17CDSGU|سامسونگ|خشک‌کن لباس سامسونگ Bespoke AI مدل DV90F17CDSGU ظرفیت ۱۷ کیلوگرم|IMG|reference_verified
+1124|publish|SAMSUNG-QA55QN90FAUXZN|سامسونگ|تلویزیون Neo QLED سامسونگ مدل QA55QN90FAUXZN سری QN90F سایز ۵۵ اینچ|IMG|reference_verified
+1125|publish|SAMSUNG-QA75QN90FAUXZN|سامسونگ|تلویزیون Neo QLED سامسونگ مدل QA75QN90FAUXZN سری QN90F سایز ۷۵ اینچ|IMG|reference_verified
+1126|publish|SAMSUNG-QA85QN85FAUXZN|سامسونگ|تلویزیون Neo QLED سامسونگ مدل QA85QN85FAUXZN سری QN85F سایز ۸۵ اینچ|IMG|reference_verified
+1130|publish|SAMSUNG-QA55QN85FAUXZN|سامسونگ|تلویزیون Neo QLED سامسونگ مدل QA55QN85FAUXZN سری QN85F سایز ۵۵ اینچ|IMG|reference_verified
+1131|publish|SAMSUNG-QA65QN85FAUXZN|سامسونگ|تلویزیون Neo QLED سامسونگ مدل QA65QN85FAUXZN سری QN85F سایز ۶۵ اینچ|IMG|reference_verified
+1132|publish|SAMSUNG-QA75QN85FAUXZN|سامسونگ|تلویزیون Neo QLED سامسونگ مدل QA75QN85FAUXZN سری QN85F سایز ۷۵ اینچ|IMG|reference_verified
+1136|publish|SAMSUNG-QA55S90FAUXZN|سامسونگ|تلویزیون OLED سامسونگ مدل QA55S90FAUXZN سری S90F سایز ۵۵ اینچ|IMG|reference_verified
+1137|publish|SAMSUNG-QA77S90FAEXZN|سامسونگ|تلویزیون OLED سامسونگ مدل QA77S90FAEXZN سری S90F سایز ۷۷ اینچ|IMG|reference_verified
+1140|publish|SAMSUNG-QA75Q7FAAUXZN|سامسونگ|تلویزیون QLED سامسونگ مدل QA75Q7FAAUXZN سری Q7F سایز ۷۵ اینچ|IMG|reference_verified
+1141|publish|SAMSUNG-QA85Q7FAAUXZN|سامسونگ|تلویزیون QLED سامسونگ مدل QA85Q7FAAUXZN سری Q7F سایز ۸۵ اینچ|IMG|reference_verified
+1142|publish|SAMSUNG-QA98Q7FAAUXZN|سامسونگ|تلویزیون QLED سامسونگ مدل QA98Q7FAAUXZN سری Q7F سایز ۹۸ اینچ|IMG|reference_verified
+1167|publish|SAMSUNG-QA65Q7FAAUXZN|سامسونگ|تلویزیون QLED سامسونگ مدل QA65Q7FAAUXZN سری Q7F سایز ۶۵ اینچ|IMG|reference_verified
+1168|publish|SAMSUNG-QA65Q8FAAUXZN|سامسونگ|تلویزیون QLED سامسونگ مدل QA65Q8FAAUXZN سری Q8F سایز ۶۵ اینچ|IMG|reference_verified
+1169|publish|SAMSUNG-QA83S90FAEXZN|سامسونگ|تلویزیون OLED سامسونگ مدل QA83S90FAEXZN سری S90F سایز ۸۳ اینچ|IMG|reference_verified
